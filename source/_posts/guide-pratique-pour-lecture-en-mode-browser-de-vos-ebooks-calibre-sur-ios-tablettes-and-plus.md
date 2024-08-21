@@ -1,7 +1,7 @@
 ---
 title: Guide Pratique Pour Lecture en Mode Browser De Vos eBooks Calibre Sur iOS, Tablettes & Plus
-date: 2024-08-20 13:59:49
-updated: 2024-08-21 11:58:42
+date: 2024-08-20T09:39:52.086Z
+updated: 2024-08-21T09:39:52.086Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a570e502a336cc42130adb602.jpg
@@ -60,3 +60,7 @@ Copyright © 2011-2021 www.epubor.com. Tous droits réservés.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->

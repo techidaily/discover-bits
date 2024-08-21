@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Converting Your EPUB Books to KEFU Format Using Calibre"
-date: 2024-08-20 10:59:43
-updated: 2024-08-21 10:26:48
+date: 2024-08-20T09:39:52.431Z
+updated: 2024-08-21T09:39:52.431Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19dbd124bdf2e50582d197ea31.jpg
@@ -296,3 +296,7 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

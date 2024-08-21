@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial for Adding Books to the Google Play Books Platform
-date: 2024-08-19 17:10:16
-updated: 2024-08-21 10:53:10
+date: 2024-08-20T09:39:52.040Z
+updated: 2024-08-21T09:39:52.040Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/988ac228735021a2a318d189208507463b5f10c1a98a89b26fe93dda14604b1a.jpg
@@ -117,3 +117,7 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->

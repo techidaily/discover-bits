@@ -1,7 +1,7 @@
 ---
 title: How the Kindle Paperwhite 2 Enhances Reading Experience Over the First Generation
-date: 2024-08-18 18:12:21
-updated: 2024-08-21 12:51:49
+date: 2024-08-20T09:39:52.109Z
+updated: 2024-08-21T09:39:52.109Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/4e23cb6eaa9892de917d72be96ca092225859934da39293302befce06f1af300.jpg
@@ -31,6 +31,9 @@ Compared to Kindle Paperwhite 1, the new model improved backlight, which Amazon 
 
 And in practical test, the backlight in Kindle Paperwhite 2 is brighter than original, we will rarely need to turn up to brightness to more than 50%. White the text is darker, I guess this is another reason the new screen looks sharper. With the brighter backlight and darker text, we reads the contents more easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Speed
 
 This is an unimpressive but really important improvement in Kindle Paperwhite 2\. Many people don't like E-Ink Kindle because they think the response speed is too slow after getting used to operating on tablets.
@@ -39,12 +42,18 @@ Amazon says the new Kindle Paperwhite's processor is 25% faster (800MHz to 1GHz)
 
 When I use the new Kindle Paperwhite, the wake up and book open speed is obviously quicker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Appearance
 
 The front sides of original Kindle Paperwhite and new Kindle Paperwhite looks almost the same, I definitely can't differ them when they are put in front of me in sleep mode.
 
 ![kindle paperwhite 2 back](http://www.epubor.com/images/Paperwhite2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 But the difference in appearance is pretty clear on the back sides. On the back of Kindle Paperwhite 1 the logo is Kindle, while it turns to Amazon on the Kindle Paperwhite 2\. And the new logo looks more striking than the old one.
 
 ### Features
@@ -57,12 +66,21 @@ Another new feature is pretty a good news for those people who use Kindle to lea
 
 ![kpw2-vocabulary-builder](http://www.epubor.com/images/vocabbuilder-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The new Kindle Match Book feature is the high-light among all these new stuff. For all your purchased or gonna-purchase paper book, you will be able to buy the Kindle edition for no more than $2.99.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Shortcomings
 
 The lack of headphone jack disables people to enjoy audio books; the web browser is still being a decoration; there is no auto-correct feature when taking notes, while it exists on Kindle for iOS app; and the most criticized rejection for EPUB files.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 All in all, the improvements of Kindle Paperwhite 2 is not that impressive, but it is still the best E-Ink eBook reading device in this industry.
