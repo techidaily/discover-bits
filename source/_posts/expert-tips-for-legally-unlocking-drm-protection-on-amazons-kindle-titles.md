@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Legally Unlocking DRM Protection on Amazon's Kindle Titles
-date: 2024-08-25T20:30:08.019Z
-updated: 2024-08-26T20:30:08.019Z
+date: 2024-09-03T22:35:15.327Z
+updated: 2024-09-04T22:35:15.327Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbdb0f91708d2d1f403ab43196.jpg
@@ -37,9 +37,6 @@ To begin with, firstly I strongly recommend you get your kindle books prepared o
 
 If you do not have Kindle device, you have to install Kindle App(kindle for pc/mac desktop application, or Kindle Cloud Reader web app). Launch the Kindle app, log in with your own amazon account, then all your purchased files in kindle store would be synced. Choose those files you want to deal with, double click on book cover, then downloading begins. Once you have done that, you can close the app, find your downloaded books files at destination folder ([kindle content folder location](https://tools.techidaily.com/epubor/products/)). 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Remove DRM from Kindle books with Calibre Plugin
 
 Calibre is an excellent ebook library management tool, open source software, helps you remove drm from books and convert format to others.
@@ -60,6 +57,12 @@ From the pref pane "Preferences"--"Change calibre behavior".
 
 ![change calibre behavior on mac](https://epubor.com/images/uppic/change-calibre-behavior.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 (**Note:** Do _not_ click “Get plugins to enhance calibre”).
 
 Click on Plugins (under “Advanced”) --"Load plugin from file".
@@ -67,14 +70,20 @@ Click on Plugins (under “Advanced”) --"Load plugin from file".
 ![load plugin files on mac](https://epubor.com/images/uppic/load-plugin.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Select the "DeDRM\_plugin.zip" file you placed in step 1 and click "Open". 
 
 ![select calibre DeDRM plugin on mac](https://epubor.com/images/uppic/select-dedrm-plugin-zip-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Click on the “Add” button, "Yes" in the "Are you sure?" warning dialogue that appears. 
 
@@ -84,6 +93,18 @@ After succeed the plug-in has been installed. Calibre will add this plugin under
 
 ![DeDRM under file type plugins](https://www.epubor.com/images/uppic/dedrm-location.png)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3  Repeat the previous step to add the KFX-ZIP plugin to Calibre.
 
 You should also have **[kfx input plugin](https://www.mobileread.com/forums/showthread.php?t=291290)** installed if trying to dedrm Kindle KFX books in 2024\. 
@@ -96,9 +117,6 @@ If your kindle books are downloaded via Kindle eReaders, you should customize th
 
 ![calibre kindle drm removal plugin](http://www.epubor.com/images/uppic/customize-dedrm-plugin.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **Update: (Due to a change in DRM) Calibre DeDRM plugins will no longer work with Kindle KFX books if Kindle for PC app updated to 2.4.1 (70946).** Re-install 2.4.70904, working as before, or you can also try to use the Epubor Ultimate as a better alternative. 
 
 ### Method 2: Remove DRM from Kindle books with Python Scripts
@@ -126,7 +144,16 @@ Run [KindleBooks.pyw](https://www.epubor.com/images/uppic/KindleBooks.zip), then
 ![run KindleBooks.pyw](https://epubor.com/images/uppic/KindleBookspyw.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 3: Remove DRM from Kindle books with Shareware (DRM-off-Able)
 
@@ -154,9 +181,6 @@ Add the Kindle books from the left sidebar to the right main window. Then all th
 
 ![epubor decrypt kfx](https://epubor.com/images/uppic/epubor-decrypt-kfx.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 It uses python scripts but much more easily to operate than method 2.
 
 It provides more friendly interface than Calibre. Of course it's also easier than calibre to learn how to use.
@@ -166,7 +190,10 @@ It provides more friendly interface than Calibre. Of course it's also easier tha
 ![](http://www.epubor.com/images/faq.png)Key Takeaways
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1\. To active the drm-removing function on Calibre, you need to install extra drm plugin.
 
@@ -188,11 +215,14 @@ I tried to convert the book to pdf with the Caliber software, but it didn't reco
 
 ![epubor ultimate review when dedrm kindle](http://www.epubor.com/images/uppic/ultimate-kindle-review.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
