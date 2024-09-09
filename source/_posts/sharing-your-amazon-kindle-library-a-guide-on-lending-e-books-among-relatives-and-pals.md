@@ -1,7 +1,7 @@
 ---
 title: "Sharing Your Amazon Kindle Library: A Guide on Lending E-Books Among Relatives & Pals"
-date: 2024-09-03T22:35:14.911Z
-updated: 2024-09-04T22:35:14.911Z
+date: 2024-09-08T23:29:43.639Z
+updated: 2024-09-09T23:29:43.639Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849f8a20bc7170c2547e3c8b5d.jpg
@@ -19,6 +19,12 @@ Posted by [Iris Yan](https://www.facebook.com/iris.yan.16718) on 4/3/2024 4:33:3
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 > Can I share a Kindle book? I have finished some interesting kindle books, but I don't know how to share them with my family.
 
 ![share Kindle books](http://www.epubor.com/images/uppic/share-kindl-books-banner.png)
@@ -62,6 +68,12 @@ Step 3 You will be asked if you agree to share your wallet. Click on "**Agree an
 
 ![agree to shar your wallet](http://www.epubor.com/images/uppic/agree-to-share-your-wallet.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4 Then choose what you'd like to share with your family or friends, check the option according to your own requirement.
 
 ![family library sharing items](http://www.epubor.com/images/uppic/family-library.png)
@@ -70,10 +82,22 @@ Step 5 A new page will prompt for sending out your invitation.
 
 ![send out the invitation](http://www.epubor.com/images/uppic/send-your-invite.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 6  Your family or friend will received the invitation notification as below. Just click on " **Get started**" button to join in the family library.
 
 ![family library invitation](http://www.epubor.com/images/uppic/family-library-invitation.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 7 A new page will prompt up, just click on "**Continue**" button to go to next step.
 
 ![invitation accepted](http://www.epubor.com/images/uppic/invitation-accepted.png)
@@ -82,10 +106,22 @@ Step 8 Your family or friend also have to agree to share the wallet. Click on "*
 
 ![agree to share wallet](http://www.epubor.com/images/uppic/agree-to-share-your-wallet2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 9 The one you invited also needs to select which item he/she wants to share with you. Then click on "**Continue**". 
 
 ![share ebooks](http://www.epubor.com/images/uppic/share-apps-ebooks.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Then go back to "**Manage Your content and device**", you will see all books in your family library as below picture.
 
 ![family library](http://www.epubor.com/images/uppic/family-household-library.png)
@@ -96,6 +132,18 @@ As Amazon has [a full list of device and apps](https://www.amazon.com/gp/help/cu
 
 ![enable kindle reading app sharing function](http://www.epubor.com/images/uppic/enable-kindle-reading-app-sharing.png)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Restart your Kindle reading apps, and you will see all the books in the Family library.
 
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions on Kindle Family Sharing
@@ -120,10 +168,10 @@ A: Yes, you can stop sharing your kindle audiobooks, ebook or apps. The setting 
 A: Yes, the Amazon Household allows you to share your Kindle library, including Kindle Unlimited, between two accounts. It is important to note that sharing Kindle Unlimited doesn't mean unlimited reading. Only one person can access and read the same title from Kindle Unlimited at a time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  How to Share Kindle Books without Family Library (5 Methods)
 
@@ -167,6 +215,12 @@ _**Note\*: If “ loan this title” is not an option, lending is not available 
 
 ![loan Kindle books](http://www.epubor.com/images/uppic/loan-Kindle-title.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Then “**Loan this book**” page will pop up and enter your friend’s email address to “**Recipient E-mail address**”. Then click on” **Send now**” to send out the notification. 
 
 ![enter recipient email address](http://www.epubor.com/images/uppic/enter-receipient-email.png)
@@ -191,14 +245,14 @@ Step 3  Log in your Kindle apps or Kindle device, you will see the book you borr
 
 ![download borrowed books](http://www.epubor.com/images/uppic/download-borrowed-books.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions on lending kindle books to others
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Q: How can I check whether a book can be loaned before purchasing it?
 
 A: Head to the product details on product page and check the lending option. If the lending option is "**Enabled**", this book can be loaned.
@@ -224,10 +278,10 @@ Step 1  Go to Kindle books's product detail page on Amazon as below. You will se
 ![buy for others](http://www.epubor.com/images/uppic/buy-for-others.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 2  Select the quantity you want to buy and provide your order details, then click "**place your order**" button to finish the order. If you only buy single copy, Amazon will email the book to the recipient on your behalf. If you purchase multiple copies, please send redemption links to your recipients. This is definitely a workaround to share Kindle books with your friends and family, but it costs too much. 
 
@@ -249,6 +303,12 @@ Step 2 Launch Epubor Ultimate, and the Kindle books you downloaded to your compu
 
 ![convert KFX ebooks](https://www.epubor.com/images/uppic/decrypt-Kindle-Kfx-ebooks.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3 Click the “**Decrypted**" at the end of each book, you can open the folder stored the DRM-free Kindle books. Now you get the DRM-free Kindle books and you can **share your Kindle books with your friend or family without any limitations**. 
 
 Warning
@@ -256,10 +316,16 @@ Warning
 Epubor software doesn't encourage piracy. Please don't share your DRM-free ebooks online or distribute them. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Frequently Asked Questions about Sharing Kindle Books
 
@@ -304,12 +370,6 @@ If there are items you prefer not to share with the other adult in your househol
 
 ![remove books from family library](https://www.epubor.com/images/uppic/manage-family-library.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Words
 
 With the assistance of [**Epubor Ultimate**](https://tools.techidaily.com/epubor/ultimate/), sharing your Kindle books with your family members has never been easier. If you have any other good ideas on sharing Kindle books with family or friends, please leave comments below so that we can update the article to benefit more users.
@@ -321,10 +381,16 @@ Download Epubor Ultimate for free
 ![author](http://www.epubor.com/images/uppic/iris.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 

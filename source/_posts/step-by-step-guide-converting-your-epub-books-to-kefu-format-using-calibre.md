@@ -1,12 +1,24 @@
 ---
 title: "Step-by-Step Guide: Converting Your EPUB Books to KEFU Format Using Calibre"
-date: 2024-09-03T22:35:15.972Z
-updated: 2024-09-04T22:35:15.972Z
+date: 2024-09-08T23:29:44.682Z
+updated: 2024-09-09T23:29:44.682Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19dbd124bdf2e50582d197ea31.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Converting Your EPUB Books to KEFU Format Using Calibre
 
 ## How to Convert EPUB to Kepub Calibre
@@ -19,10 +31,28 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 5/7/2022 4:17:16
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A kepub is just an epub with a lot of extra code, "kobo spans", that the Kobo uses. It's extension is ".kepub.epub".
 
 Why do you need to convert epub to kepub? First, KEPUB books support Kobo’s fast flip function. Second, KEPUB books support Kobo’s expanded reading statistics pop-up. Third, KEPUB provides access to Kobo’s built-in image viewer, which lets you zoom the images embedded within the book. If you need to make full use of these new features provided by KEPUB, you can try the following methods to convert epub to kepub. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can we convert EPUB to Kepub
 
 For converting EPUB to Kepub without limitation, we'd better make sure the EPUB files are DRM free. Here you can use the eBook DRM Removal tool -- [**Epubor Ultimate**](https://tools.techidaily.com/epubor/drm-removal-tools/) to decrypt DRMed EPUB files, then start converting EPUB to Kepub. It's a powerful DRM decryption program, compare with other similar software, its friendly and clean interface make it easier to use. Besides, conversion speed is also super fast.
@@ -45,6 +75,12 @@ Click "Preference" on the menu bar, a window below will pop up, then tap "Plugin
 
 ![Kobo touchextend plugin](http://www.epubor.com/images/uppic/get-kobotouchextend-plugin.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Next, you will see a following dialogue, simply click "Get new plugins" button on the bottom left corner to find the KoboTouchExtended plugin.
 
 ![get new plugin](http://www.epubor.com/images/uppic/get-new-plugin.png)
@@ -53,6 +89,12 @@ As there are so many plugins listed, we can enter "kobo" in the search box behin
 
 ![search kobo touch extended plugin](http://www.epubor.com/images/uppic/search-kobotouchextended-plugin.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2Convert epub to Kepub Calibre
 
 * Connect your Kobo eReader to computer with USB.
@@ -61,6 +103,12 @@ Step 2Convert epub to Kepub Calibre
 
 ![send epub to kobo](http://www.epubor.com/images/uppic/send-epub-to-kobo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 When the transfer has been finished, you can see the job status turns to "zero", open your KoboeReader drive, in the root folder, you will find there are several new created folders which are named as author's name. Open it, you can see your transferred EPUB files have become .kepub.epub format.
 
 Eject your Kobo, wait for a while, then you can see your newly transferred files. 
@@ -343,10 +391,3 @@ Leave a comment
 <li><a href="https://network-issues.techidaily.com/win10-resolved-intel-and-nvidia-hybrid-gpu-trouble/"><u>Win10 Resolved: Intel & Nvidia Hybrid GPU Trouble</u></a></li>
 <li><a href="https://driver-install.techidaily.com/windows-10-installing-new-lenovo-thinkpad-drivers/"><u>Windows 10: Installing New Lenovo ThinkPad Drivers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

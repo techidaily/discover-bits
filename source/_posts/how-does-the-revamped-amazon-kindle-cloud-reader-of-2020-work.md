@@ -1,14 +1,26 @@
 ---
 title: How Does the Revamped Amazon Kindle Cloud Reader of 2020 Work?
-date: 2024-09-03T22:35:15.360Z
-updated: 2024-09-04T22:35:15.360Z
+date: 2024-09-08T23:29:44.074Z
+updated: 2024-09-09T23:29:44.074Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc28694609982153cd6de4dd43a450d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does the Revamped Amazon Kindle Cloud Reader of 2020 Work?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is Kindle Cloud Reader (2020 Updated)
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 8/17/2020 3:19:39 PM.
@@ -19,8 +31,26 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 8
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![I like kindle cloud reader](https://epubor.com/images/uppic/what-is-kcr.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _**Kindle Cloud Reader**_ is familiar to those who often buy e-books at Amazon. Every time you select an e-book and choose a delivery method, you could see the "Deliver to someone's Kindle Cloud Reader" option. Generally we choose "Deliver to Kindle" so that we can directly read the book on our Kindle device. Some others may choose "Deliver to Kindle for PC" if they have installed Kindle for PC. For most people, these two methods are enough so that it seems like few people will notice the "Deliver to Kindle Cloud Reader" option. So what does the Kindle Cloud Reader do? Does it have some advantages? This article will tell you something about Kindle Cloud Reader and you'll get to know the charm of it.
 
 * [What is Kindle Cloud Reader](https://tools.techidaily.com/epubor/products/)
@@ -36,19 +66,31 @@ _**Kindle Cloud Reader**_ is familiar to those who often buy e-books at Amazon. 
 
 ![](https://www.epubor.com/images/uppic/deliver-to-kcr.png)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can get more details from this video.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **2\. How to access Kindle Cloud Reader**
 
@@ -57,10 +99,10 @@ Every time you type in the URL: [read.amazon.com](https://read.amazon.com/), you
 ![kindle for the web safari](https://www.epubor.com/images/uppic/kindle-for-the-web-safari.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The Google Chrome also provides an extension. Search "cloud reader" in Chrome Web store and click "ADD TO CHROME". 
 
@@ -70,16 +112,16 @@ Then an icon will show at the top menu bar. You can click it to access Kindle Cl
 
 ![kindle cloud reader extension](https://www.epubor.com/images/uppic/kcr-chrome-extension.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **3\. Supported Browsers**
 
 ![](https://www.epubor.com/images/uppic/kindle-cloud-reader-compatible-browsers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Even though Kindle Cloud Reader is a web app, it isn't like a common webpage that you can open it with any browsers. This is due to the fact that the Kindle Cloud Reader is based on HTML5, a new and strong web standard which some browsers don't support. At present Kindle Cloud Reader is available in Google Chrome, Apple Safari(both in Mac and iPad), Mozilla Firefox, IE.
 
 | **Kindle Cloud Reader compatible browsers:**    |
@@ -123,28 +165,22 @@ We can easily manage books by Kindle Cloud Reader. Like native Kindle App and Ki
 
 ![](https://www.epubor.com/images/uppic/kcr-sort.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 All your books are listed in the library. If your book is downloaded, there will be "Remove Book" when you right-click it. If you concern about the space (only 50MB), just right click or long press the book cover and choose "Remove Book" then the book will get deleted. This operation won't delete the book from your library actually, you can download it again.
 
 ![](https://www.epubor.com/images/uppic/kcr-book-remove.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### **3\. E-book customization**
 
 Kindle Cloud Reader provides rich options for you to customize your reading. You can adjust font size, margins, color mode, or look up words, take notes and highlight text.
 
 ![](https://www.epubor.com/images/uppic/reading-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **4\. Sync with your Kindle** (Notes & Highlights)
 
 The sync feature makes us read seamlessly. Just click the sync icon and all your content such as new books, reading progress, bookmarks, will be refreshed. If you find that there is a delay when syncing, don't worry, just close the Kindle Cloud Reader and reload it.
@@ -152,10 +188,10 @@ The sync feature makes us read seamlessly. Just click the sync icon and all your
 ![](https://www.epubor.com/images/uppic/what-is-kindle-cloud-reader-bookmark.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 I like this function most because I can copy the highlights without leaving the web browser. The highlight text is automatically added to my kindle account and I can reach in the web browser at <https://read.amazon.com/notebook>.
 
@@ -165,12 +201,6 @@ Amazon claims that the Kindle Cloud Reader can get a better experience on iPad. 
 
 ![](https://www.epubor.com/images/uppic/kindle-store-safari.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to backup Kindle Books?
 
 Though we can read kindle books with Kindle Cloud Reader for online reading, we should always read our Kindle books by using a browser on computer. For a better reading on multiple devices, the best solution is to back up our Kindle books. The recommended tool is a new product from Epubor team, [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/), which provides you with a rather easy way to remove Kindle DRM and convert Kindle books to PDF/Epub/Mobi/Azw3.

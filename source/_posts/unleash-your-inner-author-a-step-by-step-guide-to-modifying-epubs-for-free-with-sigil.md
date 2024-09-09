@@ -1,12 +1,18 @@
 ---
 title: "Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil"
-date: 2024-09-03T22:35:15.146Z
-updated: 2024-09-04T22:35:15.146Z
+date: 2024-09-08T23:29:43.856Z
+updated: 2024-09-09T23:29:43.856Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec32380919d66b5ed5af5b5df6bd28ce.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil
 
 ## How to Edit EPUB Files with Free Sigil
@@ -41,14 +47,38 @@ Make sure to download the correct version on your computer (with "Featured"). He
 
 ![Start install Sigil](https://www.epubor.com/images/uppic/sigil-install.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components" screen. Or every time you open an EPUB file, it will be opened with Sigil by default.
 
 ![install Sigil - select components](https://www.epubor.com/images/uppic/Sigil-open-with.png)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3 Open your EPUB book with Sigil. Right-click the book, select "Open with" -> Sigil is a ...
 
 ![edit EPUB files - open with Sigil](https://www.epubor.com/images/uppic/sigil-install-uncheck.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4 When the EPUB is opened, the cover page will come in front of you. All content pages are listed under the "Text" folder on the left-hand side.
 
 ![edit EPUB files](https://www.epubor.com/images/uppic/Sigil-open.png)
@@ -57,6 +87,18 @@ Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components"
 
 ![edit EPUB files - set cursor](https://www.epubor.com/images/uppic/sigil-cursor.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The icons on the upper tool bar are easy to use as well.
 
 ![edit EPUB files](https://www.epubor.com/images/uppic/sigil-edit.png)
@@ -69,14 +111,38 @@ Besides "Title", "Author", you can click "Add Basic" or "Add Role" button on the
 
 ![edit EPUB files - more metadata](https://www.epubor.com/images/uppic/sigil-edit-more-meta.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After finishing editting one page, you'd better close the corresponding page tab. Or Sigil might crash due to a shortage of system resource. The closed page will be saved automatically.
 
 ![edit EPUB files - close tab](https://www.epubor.com/images/uppic/sigil-close-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7 When all editting is done, click "File" -> "Save" to overwrite the original. Or select "Save as..." to save as a copy.
 
 ![save as EPUB](https://www.epubor.com/images/uppic/sigil-save.png)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Conclusion
 
 Sigil delivers an easy way for users to edit EPUB files manually, although the whole editting progress is a bit slow. If you know about HTML and CSS, a basic editting tool like notepad, would be enough.
@@ -246,10 +312,3 @@ Leave a comment
 <li><a href="https://mondly-stories.techidaily.com/1719576145082-update-privacy-policy-and-terms-of-use/"><u>Update: Privacy Policy & Terms Of Use</u></a></li>
 <li><a href="https://facebook-video-recording.techidaily.com/web-plus-add-on-fb-story-capture-tool/"><u>Web + Add-On  FB Story Capture Tool</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

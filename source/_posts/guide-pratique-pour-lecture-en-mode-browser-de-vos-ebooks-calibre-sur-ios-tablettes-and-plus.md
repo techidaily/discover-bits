@@ -1,16 +1,28 @@
 ---
 title: Guide Pratique Pour Lecture en Mode Browser De Vos eBooks Calibre Sur iOS, Tablettes & Plus
-date: 2024-09-03T22:35:15.340Z
-updated: 2024-09-04T22:35:15.340Z
+date: 2024-09-08T23:29:44.054Z
+updated: 2024-09-09T23:29:44.054Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a570e502a336cc42130adb602.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Guide Pratique Pour Lecture en Mode Browser De Vos eBooks Calibre Sur iOS, Tablettes & Plus
 
 [Accueil](http://www.epubor.com/fr/) \> [Guide](https://tools.techidaily.com/epubor/products/) \> [Comment accéder à bibliothèque calibre via iPad, Kindle Fire](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comment accéder à vos eBooks Calibre via un navigateur web dans iPad ou autre
 
 Calibre est une solution unique pour tous les besoins eBook, c'est un logiciel open-source et il est totalement gratuit. Beaucoup de gens l'utilisent pour convertir formats des eBooks, de gérer et stocker des eBooks, même [supprimer DRM avec des plugins Calibre](https://tools.techidaily.com/epubor/products/).
@@ -21,6 +33,12 @@ Calibre a un serveur de contenu qui exporte les livres de Calibre comme une page
 
 ![démarrer serveur de contenu dans calibre](https://www.epubor.com/images/uppic/drmarrer-serveur.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Puis suffit de pointer le navigateur web sur votre appareil à l'ordinateur exécutant le serveur de contenu et vous serez en mesure de naviguer dans votre collection de livres. Par exemple, si l'ordinateur qui exécute le serveur possède une adresse IP 192.168.1.119, dans le navigateur, vous devez taper:
 
 http://192.168.1.119:8080
@@ -29,14 +47,32 @@ Si vous obtenez ce message "Impossible de démarrer le serveur de contenu: Le po
 
 ![calibre dans iPad safari](https://www.epubor.com/images/uppic/calibre-index.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cliquer "Tous les livres", alors vous obtiendrez la liste des éléments dans votre bibliothèque Calibre.
 
 ![bibliothèque calibre](https://www.epubor.com/images/uppic/list.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cliquer "Obtenir" ou "Autres formats", alors il y aura une option pour vous permettre de choisir quelle application vous voulez lire cet eBook avec.
 
 ![](https://www.epubor.com/images/uppic/option.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Attention**: Si vous ne pouvez pas accéder à cette page, s'il vous plaît changer votre navigateur Web, Safari est recommandé.
 
 Certains appareils, comme le Kindle (1/2/DX), ne vous permettent pas d'accéder au port 8080 (le port par défaut sur ??lequel le serveur de contenu fonctionne Dans ce cas, changer le port dans la **Préférence calibre -.> Partage sur Internet en cours -> Port du serveur** à 80 (sur certains systèmes d'exploitation, vous ne pouvez pas être en mesure de lancer le serveur sur un numéro de port inférieur à 1024 en raison des paramètres de sécurité Dans ce cas, la solution la plus simple consiste à ajuster votre routeur pour rediriger les requêtes sur le port 80 au port 8080). 
@@ -119,10 +155,3 @@ Copyright © 2011-2021 www.epubor.com. Tous droits réservés.
 <li><a href="https://discover-bits.techidaily.com/unlocking-your-digital-library-effective-techniques-to-lift-drm-from-ebooks/"><u>Unlocking Your Digital Library: Effective Techniques to Lift DRM From eBooks</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-methods-for-diminishing-delay-effects-in-audio-production/"><u>Updated In 2024, Methods for Diminishing Delay Effects in Audio Production</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
