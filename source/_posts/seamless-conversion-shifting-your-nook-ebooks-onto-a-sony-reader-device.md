@@ -1,18 +1,12 @@
 ---
 title: "Seamless Conversion: Shifting Your Nook eBooks Onto a Sony Reader Device"
-date: 2024-09-08T23:29:44.631Z
-updated: 2024-09-09T23:29:44.631Z
+date: 2024-09-12T23:03:29.988Z
+updated: 2024-09-14T19:43:36.643Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4c6891c8d31a4e5e36657912.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Seamless Conversion: Shifting Your Nook eBooks Onto a Sony Reader Device
 
 ## How to transfer Nook ePUB books to Sony eReaders
@@ -20,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 12/25/2023 4:38:36 PM.
 
 5 [(1 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -33,12 +25,6 @@ If your Nook books have DRM protection, maybe your Sony Reader is not able to re
 
 As a result, if you want to read all your purchased Barnes&;Noble Nook books on your Sony Reader, the most reliable way is to strip your B&;N Nook book's DRM.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Transfer Nook DRM protected books to Sony Reader. 
 
 #### **1.Download your purchased Nook books to computer** 
@@ -47,18 +33,6 @@ You can download and install the Nook for Windows app and run it , click "Refres
 
 ![sync nook books](http://www.epubor.com/images/uppic/sync-nook-books-via-nook-for-pc.png)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Important Note: The bad news is the NOOK for Windows App is no longer available for new downloads from the Microsoft Store. However, existing customers can continue to use the app as usual, with all previous NOOK content accessible in their NOOK Library. If there is no way for you to download Nook for Windows app, the best way to transfer Nook books to other eReaders is to [**Remove Nook DRM on Android**](https://tools.techidaily.com/epubor/products/) by using **Epubor Nook Converter**.
 
 #### 2\. **Find your downloaded Nook books** in your hard drive.
@@ -85,18 +59,6 @@ Then plug your Sony Reader to your computer, copy & paste those books to your So
 
 #### **![sony ereader](https://www.epubor.com/images/uppic/18.jpg "sony ereader")**5, **Transfer Adobe DRM protected books to Sony Reader**
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1) Keeping your Sony Reader plugged to your computer with USB cable. Nook for PC will detect the eBook device and a "My library" dialog box will pop out. Then please click "Authorize Device" and "Finished". At the same time you will see an icon of Sony Reader appearing in the left column under "My library".
 
 2) Click on the Nook ePUB eBooks you want to transfer on the right side of the screen and keep holding the mouse button down. Drag the mouse until the arrow is over your device's icon in the left pane. Then let go.
@@ -129,17 +91,12 @@ If everything goes well, click on the Sony Reader icon, you can see the book dis
 ![ade transfer books to sony](https://www.epubor.com/images/ade-transfer-sony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### What if you want to transfer Nook books to other eReaders?
 
 Maybe you don't have a Sony Reader, but a Kindle Paperwhite, Kobo, or even other eReaders not that popular. You can also transfer Nook books to them.
@@ -156,6 +113,19 @@ For transferring Nook books to other eReaders, the majority of works are the sam
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -163,8 +133,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/reader/) 
-
-
 
 1 Comments
 
@@ -202,8 +170,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,43 +179,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-exploring-the-latest-in-instagram-filters-for-stunning-visuals/"><u>[New] Exploring the Latest in Instagram Filters for Stunning Visuals</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-connecting-tv-audiences-to-facebook-live-shows/"><u>[New] In 2024, Connecting TV Audiences to Facebook Live Shows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-switch-clash-top-10-intense-battles-to-play/"><u>[New] In 2024, Switch Clash  Top 10 Intense Battles to Play</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ios-guide-to-stunning-time-lapse-cinematography/"><u>[Updated] 2024 Approved  IOS Guide to Stunning Time-Lapse Cinematography</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-cinematic-hope-the-top-10-inspirational-films-for-2024/"><u>[Updated] Cinematic Hope  The Top 10 Inspirational Films for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-screenplays-reviewed/"><u>[Updated] Pinnacle Screenplays Reviewed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-transformative-youtube-decks-via-tailored-templates/"><u>2024 Approved  Transformative Youtube Decks via Tailored Templates</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-g2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo G2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/boost-your-websites-traffic-masterful-seo-strategies-revealed/"><u>Boost Your Website's Traffic: Masterful SEO Strategies Revealed</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/bypassing-ebook-drm-restrictions-for-book-page-8-a-comprehensive-guide/"><u>Bypassing Ebook DRM Restrictions for Book Page 8 - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/download-our-top-selection-of-free-resources-and-exclusive-e-books-at-no-cost/"><u>Download Our Top Selection of FREE Resources & Exclusive E-Books at No Cost!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-mp3-conversion-from-aax-for-windows-11-users-comprehensive-tutorial/"><u>Easy MP3 Conversion From AAX for Windows 11 Users: Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-steps-to-access-and-use-ebooks-in-acsm-format-on-a-mac-computer/"><u>Easy Steps to Access and Use eBooks in ACSM Format on a Mac Computer</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-tutorial-for-adding-books-to-the-google-play-books-platform/"><u>Easy Tutorial for Adding Books to the Google Play Books Platform</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effortless-file-conversion-how-to-turn-any-text-or-image-files-into-high-quality-pdfs-today/"><u>Effortless File Conversion: How to Turn Any Text or Image Files Into High-Quality PDFs Today</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/experience-premium-features-at-zero-expense-begin-your-free-demo-today/"><u>Experience Premium Features at Zero Expense: Begin Your Free Demo Today</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/expert-tips-for-legally-unlocking-drm-protection-on-amazons-kindle-titles/"><u>Expert Tips for Legally Unlocking DRM Protection on Amazon's Kindle Titles</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/explore-the-quintessential-challenges-the-top-6-flaws-in-kindle-fire-devices/"><u>Explore the Quintessential Challenges: The Top 6 Flaws in Kindle Fire Devices</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/extending-your-kindles-endurance-tips-to-prolong-battery-lifespan/"><u>Extending Your Kindle's Endurance: Tips to Prolong Battery Lifespan</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/guide-pratique-pour-lecture-en-mode-browser-de-vos-ebooks-calibre-sur-ios-tablettes-and-plus/"><u>Guide Pratique Pour Lecture en Mode Browser De Vos eBooks Calibre Sur iOS, Tablettes & Plus</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y200-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y200 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/high-quality-audio-extraction-convert-your-audible-books-into-crisp-mp3-files/"><u>High-Quality Audio Extraction: Convert Your Audible Books Into Crisp MP3 Files</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-does-the-revamped-amazon-kindle-cloud-reader-of-2020-work/"><u>How Does the Revamped Amazon Kindle Cloud Reader of 2020 Work?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-the-kindle-paperwhite-2-enhances-reading-experience-over-the-first-generation/"><u>How the Kindle Paperwhite 2 Enhances Reading Experience Over the First Generation</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-read-your-moved-titles-on-any-device-with-kindles-e-reader-tools/"><u>How to Read Your Moved Titles on Any Device with Kindle's E-Reader Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-transform-your-pdf-documents-into-kindle-ebooks-an-in-depth-walkthrough/"><u>How to Transform Your PDF Documents Into Kindle eBooks: An In-Depth Walkthrough</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 7 Plus and iPad?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-revive-your-videos-as-live-photos-best-conversion-tools-and-tips/"><u>In 2024, Revive Your Videos as Live Photos Best Conversion Tools and Tips</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/insight-into-courtroom-battles-navigating-through-a-legal-trial/"><u>Insight Into Courtroom Battles: Navigating Through a Legal Trial</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/navigating-your-kindle-unlimited-plan-answers-to-common-inquiries/"><u>Navigating Your Kindle Unlimited Plan: Answers to Common Inquiries</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/solving-kindle-file-errors-post-drm-stripping-a-step-by-step-guide/"><u>Solving Kindle File Errors Post-DRM Stripping: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-accessing-and-viewing-acsm-files-across-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Accessing and Viewing ACSM Files Across PC, MAC, Android & iOS Devices</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-converting-your-epub-books-to-kefu-format-using-calibre/"><u>Step-by-Step Guide: Converting Your EPUB Books to KEFU Format Using Calibre</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-how-to-update-your-amazon-kindle-device-to-version-572x/"><u>Step-by-Step Guide: How to Update Your Amazon Kindle Device to Version 5.7.2.x</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unlocking-knowledge-effective-methods-for-removing-drm-protection-on-pdf-and-ebook-files/"><u>Unlocking Knowledge: Effective Methods for Removing DRM Protection on PDF and eBook Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-all-you-need-to-know-about-bandicam-updated/"><u>[New] 2024 Approved All You Need to Know About Bandicam (Updated )</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-through-virtual-lenses-exploring-vr-ar-and-mixed-reality/"><u>[Updated] 2024 Approved Through Virtual Lenses Exploring VR, AR, and Mixed Reality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>[Updated] Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-s18e-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo S18e to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-desktop-to-deep-dive-installing-kali-linux-on-windows/"><u>From Desktop to Deep-Dive: Installing Kali Linux on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-y02t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo Y02T to New Phone | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lively-latins-interactive-and-exciting-education/"><u>Lively Latins: Interactive and Exciting Education</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-7-free-audio-editing-software-mp3-splitter-and-merger-tools/"><u>Top 7 Free Audio Editing Software: MP3 Splitter & Merger Tools</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-ebook-management-software-simplify-and-streamline-your-digital-library/"><u>Top eBook Management Software: Simplify & Streamline Your Digital Library</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-rated-drm-free-converter-for-kindle-kfv-in-2019-comprehensive-software-guide/"><u>Top Rated DRM-Free Converter for Kindle KFV in 2019: Comprehensive Software Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-strategies-for-converting-aax-audio-files-to-mp3-format-on-macos-this-year/"><u>Top Strategies for Converting AAX Audio Files to MP3 Format on macOS This Year</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ultimate-guide-transforming-your-pdf-documents-into-editable-word-files/"><u>Ultimate Guide: Transforming Your PDF Documents Into Editable Word Files</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-the-secrets-your-guide-to-reading-epub-on-a-kindle-device/"><u>Unlocking the Secrets: Your Guide to Reading EPUB on a Kindle Device</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-your-kindle-fire-7-az3-device-managing-digital-content/"><u>Unlocking Your Kindle Fire 7 (AZ3) Device: Managing Digital Content</u></a></li>
 </ul></div>
+
