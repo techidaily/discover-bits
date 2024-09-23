@@ -1,7 +1,7 @@
 ---
 title: "Seamless Conversion: Shifting Your Nook eBooks Onto a Sony Reader Device"
-date: 2024-09-14T00:48:06.298Z
-updated: 2024-09-18T20:22:18.574Z
+date: 2024-09-16T18:02:25.836Z
+updated: 2024-09-23T17:34:45.617Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4c6891c8d31a4e5e36657912.jpg
@@ -24,6 +24,13 @@ The following guide is about how to transfer Nook epub books to Sony Reader.
 If your Nook books have DRM protection, maybe your Sony Reader is not able to read them. Because a part of Nook books are protected by Nook DRM, while Sony Reader only supports Adobe Adept DRM protection.
 
 As a result, if you want to read all your purchased Barnes&;Noble Nook books on your Sony Reader, the most reliable way is to strip your B&;N Nook book's DRM.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Transfer Nook DRM protected books to Sony Reader. 
 
@@ -59,6 +66,13 @@ Then plug your Sony Reader to your computer, copy & paste those books to your So
 
 #### **![sony ereader](https://www.epubor.com/images/uppic/18.jpg "sony ereader")**5, **Transfer Adobe DRM protected books to Sony Reader**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1) Keeping your Sony Reader plugged to your computer with USB cable. Nook for PC will detect the eBook device and a "My library" dialog box will pop out. Then please click "Authorize Device" and "Finished". At the same time you will see an icon of Sony Reader appearing in the left column under "My library".
 
 2) Click on the Nook ePUB eBooks you want to transfer on the right side of the screen and keep holding the mouse button down. Drag the mouse until the arrow is over your device's icon in the left pane. Then let go.
@@ -91,10 +105,10 @@ If everything goes well, click on the Sony Reader icon, you can see the book dis
 ![ade transfer books to sony](https://www.epubor.com/images/ade-transfer-sony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What if you want to transfer Nook books to other eReaders?
@@ -114,10 +128,10 @@ For transferring Nook books to other eReaders, the majority of works are the sam
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -173,13 +187,16 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>[New] Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-digital-rehearsal-mastery-in-recording-streaming-audio/"><u>[Updated] 2024 Approved Digital Rehearsal Mastery in Recording Streaming Audio</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-darkest-hours-meet-brightest-blessings-for-2024/"><u>[Updated] Darkest Hours Meet Brightest Blessings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-igtvs-top-10-talents-to-follow-today-for-2024/"><u>[Updated] IGTV's Top 10 Talents to Follow Today for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-leading-edge-in-social-media-video-capture-5-apps-reviewed/"><u>2024 Approved The Leading Edge in Social Media Video Capture (5 Apps Reviewed)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/authentic-basketball-action-awaits-you-dive-into-nba-2k19/"><u>Authentic Basketball Action Awaits You: Dive Into NBA 2K19</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-black-screen-in-win11-fast-and-straightforward/"><u>Bypass Black Screen in Win11, Fast & Straightforward</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-ultra-short-timelapse-capture-methods/"><u>[New] Top Ultra-Short Timelapse Capture Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enhancing-vision-10-superb-text-methods-for-media/"><u>[Updated] 2024 Approved Enhancing Vision 10 Superb Text Methods for Media</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-digital-footprint-strategies-for-effective-fb-video-marketing/"><u>[Updated] Elevate Your Digital Footprint Strategies for Effective FB Video Marketing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-examining-the-effectiveness-of-iscreen-recording-for-2024/"><u>[Updated] Examining the Effectiveness of iScreen Recording for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc/"><u>[Updated] In 2024, The Ultimate How-To for Navigating Old Features on FB, Mobile/PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-apps-for-synching-pictures-and-beats/"><u>[Updated] Pioneering Apps For Synching Pictures & Beats</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unraveling-the-secrets-of-excellent-screen-recording-with-recmeister/"><u>2024 Approved Unraveling the Secrets of Excellent Screen Recording with Recmeister</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/batch-conversion-techniques-transforming-mxf-files-into-wav-format-efficiently/"><u>Batch Conversion Techniques: Transforming MXF Files Into WAV Format Efficiently</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-on-an-msi-laptop/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen on an MSI Laptop</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-tutorial-downloading-and-watching-youtube-on-amazons-kindle-fire-tablet/"><u>Complete Tutorial: Downloading and Watching YouTube on Amazon's Kindle Fire Tablet</u></a></li>
 <li><a href="https://discover-bits.techidaily.com/download-mp4-convert-software-discover-factory-pros-free-trial-and-easy-payment-features/"><u>Download MP4 Convert Software: Discover Factory Pro's Free Trial and Easy Payment Features</u></a></li>
 <li><a href="https://discover-bits.techidaily.com/easy-guide-to-converting-your-dvds-into-mp4-format-for-seamless-multi-device-compatibility/"><u>Easy Guide to Converting Your DVDs Into MP4 Format for Seamless Multi-Device Compatibility</u></a></li>
 <li><a href="https://discover-bits.techidaily.com/easy-guide-creating-iphone-ringtones-from-youtube-videos-using-m4r-format/"><u>Easy Guide: Creating iPhone Ringtones From YouTube Videos Using M4R Format</u></a></li>
@@ -187,7 +204,8 @@ Leave a comment
 <li><a href="https://discover-bits.techidaily.com/easy-methods-for-changing-mkv-file-types-to-mov-compatible-with-pc-mac-and-internet-solutions/"><u>Easy Methods for Changing MKV File Types to MOV - Compatible with PC, MAC, and Internet Solutions</u></a></li>
 <li><a href="https://discover-bits.techidaily.com/easy-steps-successfully-opening-an-iso-image-file/"><u>Easy Steps: Successfully Opening an ISO Image File</u></a></li>
 <li><a href="https://discover-bits.techidaily.com/effective-techniques-for-capturing-discord-voice-chat-using-obs/"><u>Effective Techniques for Capturing Discord Voice Chat Using OBS</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-nubia-red-magic-9-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Nubia Red Magic 9 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-cloud-synch-issues-in-steam-devices/"><u>Unraveling Cloud Synch Issues in Steam Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-6-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic 6 Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 8 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-bluetooth-connectivity-extending-range-and-improving-signal-strength-on-windows-11/"><u>Maximizing Your Bluetooth Connectivity: Extending Range & Improving Signal Strength on Windows 11</u></a></li>
 </ul></div>
 
