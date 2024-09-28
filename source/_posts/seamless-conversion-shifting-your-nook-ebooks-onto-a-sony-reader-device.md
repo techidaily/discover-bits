@@ -1,7 +1,7 @@
 ---
 title: "Seamless Conversion: Shifting Your Nook eBooks Onto a Sony Reader Device"
-date: 2024-09-16T18:02:25.836Z
-updated: 2024-09-23T17:34:45.617Z
+date: 2024-09-21T02:21:18.940Z
+updated: 2024-09-27T21:07:55.581Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4c6891c8d31a4e5e36657912.jpg
@@ -24,13 +24,6 @@ The following guide is about how to transfer Nook epub books to Sony Reader.
 If your Nook books have DRM protection, maybe your Sony Reader is not able to read them. Because a part of Nook books are protected by Nook DRM, while Sony Reader only supports Adobe Adept DRM protection.
 
 As a result, if you want to read all your purchased Barnes&;Noble Nook books on your Sony Reader, the most reliable way is to strip your B&;N Nook book's DRM.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Transfer Nook DRM protected books to Sony Reader. 
 
@@ -66,13 +59,6 @@ Then plug your Sony Reader to your computer, copy & paste those books to your So
 
 #### **![sony ereader](https://www.epubor.com/images/uppic/18.jpg "sony ereader")**5, **Transfer Adobe DRM protected books to Sony Reader**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1) Keeping your Sony Reader plugged to your computer with USB cable. Nook for PC will detect the eBook device and a "My library" dialog box will pop out. Then please click "Authorize Device" and "Finished". At the same time you will see an icon of Sony Reader appearing in the left column under "My library".
 
 2) Click on the Nook ePUB eBooks you want to transfer on the right side of the screen and keep holding the mouse button down. Drag the mouse until the arrow is over your device's icon in the left pane. Then let go.
@@ -84,6 +70,13 @@ Tips
 * [Strip ePUB DRM on Adobe Digital Editions(Kobo,Sony Reader,Google iRiver Story HD etc)](https://tools.techidaily.com/epubor/products/)
 * [Transfer ePUB to Kindle](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Transfer Adobe DRM protected books to Sony Reader
 
 The method above is suitable for a people who has purchased lots of Nook DRM protected books in B&N store. But if you have also purchased many books in B&N store which are **protected by Adobe DRM**, you should follow these steps.
@@ -91,6 +84,13 @@ The method above is suitable for a people who has purchased lots of Nook DRM pro
 To read Nook books on Sony Reader without stripping the copy-protection, you should confirm that the book is protected by Adobe DRM.
 
 ![plug sony to ade](https://www.epubor.com/images/ade-plug-sony.png)How to do it? Download the book through Nook for PC, and find the book in your computer. (For my Win XP computer, I find them in "My Documents\\My Barnes & Noble eBooks"). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then install [Adobe Digital Editions](http://www.adobe.com/products/digital-editions.html), this is a manager and reader for all Adobe protected books. Open the Nook book with ADE, if you can read it smoothly, then congratulations, you are able to transfer the book to your Sony Reader, but if not, then this book is protected by B&N Nook DRM, you can only read it by Nook app, unless you strip its DRM.
 
@@ -105,10 +105,10 @@ If everything goes well, click on the Sony Reader icon, you can see the book dis
 ![ade transfer books to sony](https://www.epubor.com/images/ade-transfer-sony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What if you want to transfer Nook books to other eReaders?
@@ -128,10 +128,10 @@ For transferring Nook books to other eReaders, the majority of works are the sam
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -185,5 +185,19 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-curated-selection-5-superior-android-ps2-game-emulators/"><u>[New] 2024 Approved Curated Selection 5 Superior Android PS2 Game Emulators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-rated-mobile-devices-for-pocket-sized-gaming/"><u>[Updated] In 2024, Top-Rated Mobile Devices for Pocket-Sized Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/androidavi/"><u>Android端末にてAvi動画ファイルの再生手順</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-steps-to-access-and-use-ebooks-in-acsm-format-on-a-mac-computer/"><u>Easy Steps to Access and Use eBooks in ACSM Format on a Mac Computer</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/explore-the-quintessential-challenges-the-top-6-flaws-in-kindle-fire-devices/"><u>Explore the Quintessential Challenges: The Top 6 Flaws in Kindle Fire Devices</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/extending-your-kindles-endurance-tips-to-prolong-battery-lifespan/"><u>Extending Your Kindle's Endurance: Tips to Prolong Battery Lifespan</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/high-quality-audio-extraction-convert-your-audible-books-into-crisp-mp3-files/"><u>High-Quality Audio Extraction: Convert Your Audible Books Into Crisp MP3 Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-how-luts-transform-visual-elements-in-photos/"><u>In 2024, Unveiling How LUTs Transform Visual Elements in Photos</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/navigating-your-kindle-unlimited-plan-answers-to-common-inquiries/"><u>Navigating Your Kindle Unlimited Plan: Answers to Common Inquiries</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-applications-transforming-vtuber-voices-on-the-fly-for-2024/"><u>Prime Applications Transforming VTuber Voices on the Fly for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transform-your-ogm-videos-into-wmv-format-quickly-expert-tips-and-tricks-for-no-cost-solutions/"><u>Transform Your OGM Videos Into WMV Format Quickly - Expert Tips and Tricks for No Cost Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wire-free-navigation-easily-connecting-mice-to-mac-and-pc-computers/"><u>Wire-Free Navigation: Easily Connecting Mice to Mac and PC Computers</u></a></li>
+</ul></div>
 

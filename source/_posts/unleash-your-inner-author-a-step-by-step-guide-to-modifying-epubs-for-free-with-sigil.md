@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil"
-date: 2024-09-19T17:20:31.663Z
-updated: 2024-09-23T17:08:51.728Z
+date: 2024-09-27T02:31:26.892Z
+updated: 2024-09-28T05:26:13.869Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec32380919d66b5ed5af5b5df6bd28ce.jpg
@@ -28,10 +28,10 @@ EPUB is actually a compressed file, which (the extension EPUB) can be directly c
 Sigil is a powerful EPUB editor supported on multi platforms: Windows, Mac and Linux. It can be used to not only edit EPUB files but also create EPUB books.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit EPUB files step by step
@@ -42,16 +42,16 @@ Make sure to download the correct version on your computer (with "Featured"). He
 
 ![Download Sigil](https://www.epubor.com/images/uppic/sigil-download.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2 Install Sigil on your computer.
 
 ![Start install Sigil](https://www.epubor.com/images/uppic/sigil-install.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components" screen. Or every time you open an EPUB file, it will be opened with Sigil by default.
 
@@ -61,19 +61,6 @@ Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components"
 
 ![edit EPUB files - open with Sigil](https://www.epubor.com/images/uppic/sigil-install-uncheck.png)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4 When the EPUB is opened, the cover page will come in front of you. All content pages are listed under the "Text" folder on the left-hand side.
 
 ![edit EPUB files](https://www.epubor.com/images/uppic/Sigil-open.png)
@@ -82,16 +69,16 @@ Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components"
 
 ![edit EPUB files - set cursor](https://www.epubor.com/images/uppic/sigil-cursor.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The icons on the upper tool bar are easy to use as well.
 
 ![edit EPUB files](https://www.epubor.com/images/uppic/sigil-edit.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6 Click "Tools" -> "Metadata Editor", you can manually edit the EPUB information / metadata.
 
@@ -105,22 +92,29 @@ After finishing editting one page, you'd better close the corresponding page tab
 
 ![edit EPUB files - close tab](https://www.epubor.com/images/uppic/sigil-close-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7 When all editting is done, click "File" -> "Save" to overwrite the original. Or select "Save as..." to save as a copy.
 
 ![save as EPUB](https://www.epubor.com/images/uppic/sigil-save.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Conclusion
 
 Sigil delivers an easy way for users to edit EPUB files manually, although the whole editting progress is a bit slow. If you know about HTML and CSS, a basic editting tool like notepad, would be enough.
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -236,5 +230,18 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-webcam-tech-unveiled-best-recording-practices-for-2024/"><u>[New] WebCam Tech Unveiled Best Recording Practices for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mastering-your-setup-essential-shooting-accessories/"><u>[Updated] 2024 Approved Mastering Your Setup Essential Shooting Accessories</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-leading-edge-the-ultimate-selection-of-10-top-background-switchers/"><u>2024 Approved Leading Edge The Ultimate Selection of 10 Top Background Switchers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sy-to-follow-guide-adding-youtube-playlists-to-your-online-platform-for-2024/"><u>An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-to-converting-your-dvds-into-mp4-format-for-seamless-multi-device-compatibility/"><u>Easy Guide to Converting Your DVDs Into MP4 Format for Seamless Multi-Device Compatibility</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-creating-iphone-ringtones-from-youtube-videos-using-m4r-format/"><u>Easy Guide: Creating iPhone Ringtones From YouTube Videos Using M4R Format</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-setting-up-the-arctic-zephyr-2-theme-in-your-kodi-interface/"><u>Easy Guide: Setting Up the Arctic Zephyr 2 Theme in Your Kodi Interface</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-methods-for-changing-mkv-file-types-to-mov-compatible-with-pc-mac-and-internet-solutions/"><u>Easy Methods for Changing MKV File Types to MOV - Compatible with PC, MAC, and Internet Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-steps-successfully-opening-an-iso-image-file/"><u>Easy Steps: Successfully Opening an ISO Image File</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme 12+ 5G Phone without PIN</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/srt-manipulation-a-mac-users-ultimate-guidebook/"><u>SRT Manipulation A Mac User's Ultimate Guidebook</u></a></li>
+</ul></div>
 

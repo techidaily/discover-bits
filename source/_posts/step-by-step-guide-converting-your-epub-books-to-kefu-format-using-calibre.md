@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Converting Your EPUB Books to KEFU Format Using Calibre"
-date: 2024-09-18T16:53:16.877Z
-updated: 2024-09-23T17:05:32.149Z
+date: 2024-09-27T04:43:08.332Z
+updated: 2024-09-27T23:33:04.195Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19dbd124bdf2e50582d197ea31.jpg
@@ -43,26 +43,26 @@ Click "Preference" on the menu bar, a window below will pop up, then tap "Plugin
 
 ![Kobo touchextend plugin](http://www.epubor.com/images/uppic/get-kobotouchextend-plugin.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, you will see a following dialogue, simply click "Get new plugins" button on the bottom left corner to find the KoboTouchExtended plugin.
 
 ![get new plugin](http://www.epubor.com/images/uppic/get-new-plugin.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As there are so many plugins listed, we can enter "kobo" in the search box behind "Filter by name", then we will find the KoboTouchExtended plugin easily. Simply select this plugin, hit "Install" button to install it. You may see an alert about the security risk, ignore it and click "Yes".
 
 ![search kobo touch extended plugin](http://www.epubor.com/images/uppic/search-kobotouchextended-plugin.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2Convert epub to Kepub Calibre
@@ -74,16 +74,10 @@ Step 2Convert epub to Kepub Calibre
 ![send epub to kobo](http://www.epubor.com/images/uppic/send-epub-to-kobo.png)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the transfer has been finished, you can see the job status turns to "zero", open your KoboeReader drive, in the root folder, you will find there are several new created folders which are named as author's name. Open it, you can see your transferred EPUB files have become .kepub.epub format.
@@ -99,10 +93,10 @@ Download Epubor Ultimate for Free Now
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -325,5 +319,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-distinguished-makers-elite-instagram-highlight-constructors/"><u>[New] In 2024, Distinguished Makers Elite Instagram Highlight Constructors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[Updated] 2024 Approved Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-access-unlimited-stock-photos-via-four-noteworthy-youtubes-for-2024/"><u>[Updated] Access Unlimited Stock Photos via Four Noteworthy YouTubes for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-swaying-scripts-an-introduction-to-bouncy-text-animations/"><u>[Updated] Swaying Scripts An Introduction to Bouncy Text Animations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-charting-the-course-visual-content-in-educational-endeavors/"><u>2024 Approved Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-zte-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on ZTE .</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-convert-youtube-to-mp4-safely-in-2024/"><u>How to Convert YouTube to MP4 Safely, In 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-read-your-moved-titles-on-any-device-with-kindles-e-reader-tools/"><u>How to Read Your Moved Titles on Any Device with Kindle's E-Reader Tools</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-transform-your-pdf-documents-into-kindle-ebooks-an-in-depth-walkthrough/"><u>How to Transform Your PDF Documents Into Kindle eBooks: An In-Depth Walkthrough</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-level-immersion-top-10-innovative-pc-vr-headsets-for-360-views/"><u>In 2024, Next-Level Immersion Top 10 Innovative PC VR Headsets for 360 Views</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/insight-into-courtroom-battles-navigating-through-a-legal-trial/"><u>Insight Into Courtroom Battles: Navigating Through a Legal Trial</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-epubor-the-ultimate-tool-for-converting-books-with-unmatched-precision/"><u>Mastering EPUBor: The Ultimate Tool for Converting Books with Unmatched Precision</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/navigating-the-rules-of-corporate-application-upgrades-and-maintenance-policies/"><u>Navigating the Rules of Corporate Application Upgrades and Maintenance Policies</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/optimizing-your-inbox-essential-tips-for-efficient-email-use/"><u>Optimizing Your Inbox: Essential Tips for Efficient Email Use</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/protecting-and-preserving-your-valuable-vitalsource-ebook-library-a-step-by-step-guide/"><u>Protecting and Preserving Your Valuable VitalSource eBook Library: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/simple-guide-to-crafting-and-editing-ebooks-master-your-digital-publishing-skills/"><u>Simple Guide to Crafting & Editing eBooks: Master Your Digital Publishing Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-insider-guide-to-intensified-minecraft-views-for-2024/"><u>The Insider Guide to Intensified Minecraft Views for 2024</u></a></li>
+</ul></div>
 
