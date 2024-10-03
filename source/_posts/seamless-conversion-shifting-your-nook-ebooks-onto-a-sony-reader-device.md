@@ -1,7 +1,7 @@
 ---
 title: "Seamless Conversion: Shifting Your Nook eBooks Onto a Sony Reader Device"
-date: 2024-09-21T02:21:18.940Z
-updated: 2024-09-27T21:07:55.581Z
+date: 2024-09-28T03:18:42.240Z
+updated: 2024-10-03T09:03:06.930Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4c6891c8d31a4e5e36657912.jpg
@@ -59,6 +59,13 @@ Then plug your Sony Reader to your computer, copy & paste those books to your So
 
 #### **![sony ereader](https://www.epubor.com/images/uppic/18.jpg "sony ereader")**5, **Transfer Adobe DRM protected books to Sony Reader**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1) Keeping your Sony Reader plugged to your computer with USB cable. Nook for PC will detect the eBook device and a "My library" dialog box will pop out. Then please click "Authorize Device" and "Finished". At the same time you will see an icon of Sony Reader appearing in the left column under "My library".
 
 2) Click on the Nook ePUB eBooks you want to transfer on the right side of the screen and keep holding the mouse button down. Drag the mouse until the arrow is over your device's icon in the left pane. Then let go.
@@ -71,10 +78,10 @@ Tips
 * [Transfer ePUB to Kindle](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Transfer Adobe DRM protected books to Sony Reader
@@ -86,10 +93,10 @@ To read Nook books on Sony Reader without stripping the copy-protection, you sho
 ![plug sony to ade](https://www.epubor.com/images/ade-plug-sony.png)How to do it? Download the book through Nook for PC, and find the book in your computer. (For my Win XP computer, I find them in "My Documents\\My Barnes & Noble eBooks"). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then install [Adobe Digital Editions](http://www.adobe.com/products/digital-editions.html), this is a manager and reader for all Adobe protected books. Open the Nook book with ADE, if you can read it smoothly, then congratulations, you are able to transfer the book to your Sony Reader, but if not, then this book is protected by B&N Nook DRM, you can only read it by Nook app, unless you strip its DRM.
@@ -103,13 +110,6 @@ Now click "All Items" in Bookshelves column, you will see all the books you have
 If everything goes well, click on the Sony Reader icon, you can see the book displays in the main window. Now you can read your Adobe protected ePub / PDF books on Sony Reader now.
 
 ![ade transfer books to sony](https://www.epubor.com/images/ade-transfer-sony.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What if you want to transfer Nook books to other eReaders?
 
@@ -128,10 +128,10 @@ For transferring Nook books to other eReaders, the majority of works are the sam
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
@@ -187,17 +187,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-curated-selection-5-superior-android-ps2-game-emulators/"><u>[New] 2024 Approved Curated Selection 5 Superior Android PS2 Game Emulators</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-rated-mobile-devices-for-pocket-sized-gaming/"><u>[Updated] In 2024, Top-Rated Mobile Devices for Pocket-Sized Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/androidavi/"><u>Android端末にてAvi動画ファイルの再生手順</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-steps-to-access-and-use-ebooks-in-acsm-format-on-a-mac-computer/"><u>Easy Steps to Access and Use eBooks in ACSM Format on a Mac Computer</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/explore-the-quintessential-challenges-the-top-6-flaws-in-kindle-fire-devices/"><u>Explore the Quintessential Challenges: The Top 6 Flaws in Kindle Fire Devices</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/extending-your-kindles-endurance-tips-to-prolong-battery-lifespan/"><u>Extending Your Kindle's Endurance: Tips to Prolong Battery Lifespan</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/high-quality-audio-extraction-convert-your-audible-books-into-crisp-mp3-files/"><u>High-Quality Audio Extraction: Convert Your Audible Books Into Crisp MP3 Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-how-luts-transform-visual-elements-in-photos/"><u>In 2024, Unveiling How LUTs Transform Visual Elements in Photos</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/navigating-your-kindle-unlimited-plan-answers-to-common-inquiries/"><u>Navigating Your Kindle Unlimited Plan: Answers to Common Inquiries</u></a></li>
-<li><a href="https://fox-access.techidaily.com/prime-applications-transforming-vtuber-voices-on-the-fly-for-2024/"><u>Prime Applications Transforming VTuber Voices on the Fly for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transform-your-ogm-videos-into-wmv-format-quickly-expert-tips-and-tricks-for-no-cost-solutions/"><u>Transform Your OGM Videos Into WMV Format Quickly - Expert Tips and Tricks for No Cost Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wire-free-navigation-easily-connecting-mice-to-mac-and-pc-computers/"><u>Wire-Free Navigation: Easily Connecting Mice to Mac and PC Computers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-anonymous-sharing-simplified-blurring-techniques-for-videos/"><u>[New] 2024 Approved Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-on-an-msi-laptop/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen on an MSI Laptop</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-tutorial-downloading-and-watching-youtube-on-amazons-kindle-fire-tablet/"><u>Complete Tutorial: Downloading and Watching YouTube on Amazon's Kindle Fire Tablet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-captivating-slideshows-with-ai-insights-on-using-chatgpt/"><u>Crafting Captivating Slideshows with AI: Insights on Using ChatGPT</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-mp4-convert-software-discover-factory-pros-free-trial-and-easy-payment-features/"><u>Download MP4 Convert Software: Discover Factory Pro's Free Trial and Easy Payment Features</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-to-converting-your-dvds-into-mp4-format-for-seamless-multi-device-compatibility/"><u>Easy Guide to Converting Your DVDs Into MP4 Format for Seamless Multi-Device Compatibility</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-creating-iphone-ringtones-from-youtube-videos-using-m4r-format/"><u>Easy Guide: Creating iPhone Ringtones From YouTube Videos Using M4R Format</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-setting-up-the-arctic-zephyr-2-theme-in-your-kodi-interface/"><u>Easy Guide: Setting Up the Arctic Zephyr 2 Theme in Your Kodi Interface</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-m6-pro-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Poco M6 Pro 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-spark-10c-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Spark 10C</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-the-acurite-pro-27-480-blackweatherproof-model-simple-configuration-robust-framework/"><u>The Ultimate Review of the AcuRite Pro 27-480 Black/Weatherproof Model: Simple Configuration, Robust Framework</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unveiling-the-quickest-method-to-construct-google-image-mosaics-for-2024/"><u>Unveiling the Quickest Method to Construct Google Image Mosaics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/3gp-swf-movavi/"><u>영구성 비용: 3GP 파일을 SWF로 사용자가 쉽게 변환하는 방법 - Movavi의 도우미 시리즈</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Does the Revamped Amazon Kindle Cloud Reader of 2020 Work?
-date: 2024-09-25T20:26:18.939Z
-updated: 2024-09-28T00:13:35.719Z
+date: 2024-09-29T22:47:10.739Z
+updated: 2024-10-03T06:21:14.723Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc28694609982153cd6de4dd43a450d.jpg
@@ -43,10 +43,10 @@ Every time you type in the URL: [read.amazon.com](https://read.amazon.com/), you
 ![kindle for the web safari](https://www.epubor.com/images/uppic/kindle-for-the-web-safari.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Google Chrome also provides an extension. Search "cloud reader" in Chrome Web store and click "ADD TO CHROME". 
@@ -56,19 +56,6 @@ Every time you type in the URL: [read.amazon.com](https://read.amazon.com/), you
 Then an icon will show at the top menu bar. You can click it to access Kindle Cloud Reader at any time.
 
 ![kindle cloud reader extension](https://www.epubor.com/images/uppic/kcr-chrome-extension.png)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Supported Browsers**
 
@@ -95,6 +82,13 @@ One thing must be pointed out is that the downloaded content is stored locally b
 
 ![](https://www.epubor.com/images/faq.png) Frequently Asked Questions
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Q: Where does Amazon Kindle Cloud Reader store those downloaded books?
 
 Windows Chrome _C:\\Users\\Username\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\databases\\https\_read.amazon.com\_0_
@@ -111,35 +105,21 @@ Mac Firefox _/Users/Library/Application\\ Support/Firefox/Profiles/\*\*\*.defaul
 
 ![where is kindle kcr file](https://www.epubor.com/images/uppic/where-are-kcr-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **2\. Library management**
 
 We can easily manage books by Kindle Cloud Reader. Like native Kindle App and Kindle for PC, the Kindle Cloud Reader supports three sorting orders (title, author, recent) and two display modes (grid and list). You can also adjust the cover size (not supports iPad).
 
 ![](https://www.epubor.com/images/uppic/kcr-sort.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 All your books are listed in the library. If your book is downloaded, there will be "Remove Book" when you right-click it. If you concern about the space (only 50MB), just right click or long press the book cover and choose "Remove Book" then the book will get deleted. This operation won't delete the book from your library actually, you can download it again.
 
 ![](https://www.epubor.com/images/uppic/kcr-book-remove.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **3\. E-book customization**
@@ -155,10 +135,10 @@ The sync feature makes us read seamlessly. Just click the sync icon and all your
 ![](https://www.epubor.com/images/uppic/what-is-kindle-cloud-reader-bookmark.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 I like this function most because I can copy the highlights without leaving the web browser. The highlight text is automatically added to my kindle account and I can reach in the web browser at <https://read.amazon.com/notebook>.
@@ -168,6 +148,13 @@ I like this function most because I can copy the highlights without leaving the 
 Amazon claims that the Kindle Cloud Reader can get a better experience on iPad. Besides some menu layout difference, this mainly refers to the Kindle Store. In PC browser, the Kindle Store of Kindle Cloud Reader links to a normal Amazon site. But on the Safari of iPad, the Kindle Store looks like a native app- UI elements are laid out in big, touchable areas and navigation is designed for the touchscreen user.
 
 ![](https://www.epubor.com/images/uppic/kindle-store-safari.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to backup Kindle Books?
 
@@ -182,6 +169,13 @@ Download Epubor Ultimate for Free
 * [How to Back up Your Kindle Books to Computer](https://tools.techidaily.com/epubor/products/).
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -359,18 +353,18 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mindful-meandering-leisurely-pc-games/"><u>[New] 2024 Approved Mindful Meandering Leisurely PC Games</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-complete-checklist-for-uploading-videos-on-twitpic/"><u>[New] In 2024, The Complete Checklist for Uploading Videos on Twitpic</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-backstage-pass-creating-content-that-works/"><u>[New] The Backstage Pass Creating Content That Works</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-complete-archive-of-high-quality-online-workshops/"><u>[Updated] The Complete Archive of High-Quality Online Workshops</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mega-popular-youtube-vids-everlasting-titles/"><u>2024 Approved Mega-Popular YouTube Vids Everlasting Titles</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-m34-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy M34 FRP Bypass</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/boost-your-websites-traffic-masterful-seo-strategies-revealed/"><u>Boost Your Website's Traffic: Masterful SEO Strategies Revealed</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/bypassing-ebook-drm-restrictions-for-book-page-8-a-comprehensive-guide/"><u>Bypassing Ebook DRM Restrictions for Book Page 8 - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/download-our-top-selection-of-free-resources-and-exclusive-e-books-at-no-cost/"><u>Download Our Top Selection of FREE Resources & Exclusive E-Books at No Cost!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-diy-system-refresh-how-to-factory-reset-windows-7-without-needing-an-installation-cd/"><u>Easy DIY System Refresh: How to Factory Reset Windows 7 Without Needing an Installation CD</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-mp3-conversion-from-aax-for-windows-11-users-comprehensive-tutorial/"><u>Easy MP3 Conversion From AAX for Windows 11 Users: Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-tutorial-for-adding-books-to-the-google-play-books-platform/"><u>Easy Tutorial for Adding Books to the Google Play Books Platform</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unlocking-knowledge-effective-methods-for-removing-drm-protection-on-pdf-and-ebook-files/"><u>Unlocking Knowledge: Effective Methods for Removing DRM Protection on PDF and eBook Files</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726028434227-usb/"><u>「USBを使って車載でも音楽再生方法！専門家による簡単チュートリアル」</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-easy-guide-to-converting-videos-for-android-playback-step-by-step-formatting-instructions/"><u>1. Easy Guide to Converting Videos for Android Playback: Step-by-Step Formatting Instructions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726027065719-vbrcbr/"><u>動画・オーディオコンテンツをVBRから一定ビットレート(CBR)に効率的変換の技術</u></a></li>
+<li><a href="https://games-able.techidaily.com/advantages-and-pitfalls-of-early-access-titles/"><u>Advantages & Pitfalls of Early Access Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6s-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6s Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726026593598-pc/"><u>PCでのアニメ動画のスクリーンレコーディング手順</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/smooth-out-flickers-fixes-wins11/"><u>Smooth Out Flickers, Fixes Wins11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-windows-11-sound-glitches-with-these-simple-5-step-techniques/"><u>Troubleshoot Your Windows 11 Sound Glitches with These Simple 5-Step Techniques</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/worldwide-dvd-viewing-freedom-discover-the-top-3-strategies-for-bypassing-regional-lockouts-effortlessly/"><u>Worldwide DVD Viewing Freedom: Discover the Top 3 Strategies for Bypassing Regional Lockouts Effortlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/bes-pinnacle-tools-studio-vs-next-gen-beta-for-2024/"><u>YouTube's Pinnacle Tools Studio Vs. Next-Gen Beta for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726029296115-dvd/"><u>ダビングで始めるパワーディレクター：DVDからの主要映像統合ガイド</u></a></li>
 </ul></div>
 

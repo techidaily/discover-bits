@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil"
-date: 2024-09-27T02:31:26.892Z
-updated: 2024-09-28T05:26:13.869Z
+date: 2024-09-29T06:05:07.494Z
+updated: 2024-10-02T16:38:54.741Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec32380919d66b5ed5af5b5df6bd28ce.jpg
@@ -28,10 +28,10 @@ EPUB is actually a compressed file, which (the extension EPUB) can be directly c
 Sigil is a powerful EPUB editor supported on multi platforms: Windows, Mac and Linux. It can be used to not only edit EPUB files but also create EPUB books.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit EPUB files step by step
@@ -41,13 +41,6 @@ Sigil is a powerful EPUB editor supported on multi platforms: Windows, Mac and L
 Make sure to download the correct version on your computer (with "Featured"). Here I take Sigil for Windows (the third item) for example.
 
 ![Download Sigil](https://www.epubor.com/images/uppic/sigil-download.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2 Install Sigil on your computer.
 
@@ -61,20 +54,33 @@ Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components"
 
 ![edit EPUB files - open with Sigil](https://www.epubor.com/images/uppic/sigil-install-uncheck.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4 When the EPUB is opened, the cover page will come in front of you. All content pages are listed under the "Text" folder on the left-hand side.
 
 ![edit EPUB files](https://www.epubor.com/images/uppic/Sigil-open.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5 Double-click each html / xhtml content page to open and edit. You can edit the EPUB files like other editting tools, such as MS word.
 
 ![edit EPUB files - set cursor](https://www.epubor.com/images/uppic/sigil-cursor.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The icons on the upper tool bar are easy to use as well.
 
@@ -83,6 +89,13 @@ The icons on the upper tool bar are easy to use as well.
 6 Click "Tools" -> "Metadata Editor", you can manually edit the EPUB information / metadata.
 
 ![edit EPUB metadata](https://www.epubor.com/images/uppic/sigil-edit-metadata.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Besides "Title", "Author", you can click "Add Basic" or "Add Role" button on the right-hand side to edit more metadata.
 
@@ -93,22 +106,15 @@ After finishing editting one page, you'd better close the corresponding page tab
 ![edit EPUB files - close tab](https://www.epubor.com/images/uppic/sigil-close-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7 When all editting is done, click "File" -> "Save" to overwrite the original. Or select "Save as..." to save as a copy.
 
 ![save as EPUB](https://www.epubor.com/images/uppic/sigil-save.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -232,16 +238,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-webcam-tech-unveiled-best-recording-practices-for-2024/"><u>[New] WebCam Tech Unveiled Best Recording Practices for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mastering-your-setup-essential-shooting-accessories/"><u>[Updated] 2024 Approved Mastering Your Setup Essential Shooting Accessories</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-leading-edge-the-ultimate-selection-of-10-top-background-switchers/"><u>2024 Approved Leading Edge The Ultimate Selection of 10 Top Background Switchers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/sy-to-follow-guide-adding-youtube-playlists-to-your-online-platform-for-2024/"><u>An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-guide-to-converting-your-dvds-into-mp4-format-for-seamless-multi-device-compatibility/"><u>Easy Guide to Converting Your DVDs Into MP4 Format for Seamless Multi-Device Compatibility</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-guide-creating-iphone-ringtones-from-youtube-videos-using-m4r-format/"><u>Easy Guide: Creating iPhone Ringtones From YouTube Videos Using M4R Format</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-guide-setting-up-the-arctic-zephyr-2-theme-in-your-kodi-interface/"><u>Easy Guide: Setting Up the Arctic Zephyr 2 Theme in Your Kodi Interface</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-methods-for-changing-mkv-file-types-to-mov-compatible-with-pc-mac-and-internet-solutions/"><u>Easy Methods for Changing MKV File Types to MOV - Compatible with PC, MAC, and Internet Solutions</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-steps-successfully-opening-an-iso-image-file/"><u>Easy Steps: Successfully Opening an ISO Image File</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12plus-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme 12+ 5G Phone without PIN</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srt-manipulation-a-mac-users-ultimate-guidebook/"><u>SRT Manipulation A Mac User's Ultimate Guidebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/72187869-new-2024-approved-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>[New] 2024 Approved Ultimate Guide to Calculate Your YouTube Views and Money.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[New] In 2024, From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success/"><u>[New] In 2024, Lightning Leap Fame Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-step-by-step-guide-converting-your-fb2-books-into-pdf-epub-mobi-azw3-and-txt-formats/"><u>1. Step-by-Step Guide: Converting Your FB2 Books Into PDF, EPUB, MOBI, AZW3 & TXT Formats</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nubia-z50-ultra-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nubia Z50 Ultra Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-quick-win-strategies-for-replying-on-discord-platforms/"><u>2024 Approved Quick-Win Strategies for Replying on Discord Platforms</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/a-comprehensive-tutorial-for-switching-languages-on-amazons-kindle-ereader-device/"><u>A Comprehensive Tutorial for Switching Languages on Amazon's Kindle eReader Device</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/can-you-find-a-kobo-repair-shop-in-india/"><u>Can You Find a Kobo Repair Shop in India?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-methods-for-converting-ebook-formats-from-kf8-to-high-quality-pdf-documents/"><u>Easy Methods for Converting eBook Formats From KF8 to High-Quality PDF Documents</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-tutorial-on-implementing-non-standard-fonts-into-kindle-ereaders-legally-and-safely/"><u>Easy Tutorial on Implementing Non-Standard Fonts Into Kindle eReaders Legally and Safely</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/effective-strategies-for-optimizing-text-content-for-search-engines/"><u>Effective Strategies for Optimizing Text Content for Search Engines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pvr-uno-customizable-media-solution/"><u>In 2024, PVR Uno Customizable Media Solution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/maintaining-optimal-connectivity-updating-wireless-hardware-for-windows-users/"><u>Maintaining Optimal Connectivity: Updating Wireless Hardware for Windows Users</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unveiling-the-secrets-behind-vbk-files-what-you-need-to-know/"><u>Unveiling the Secrets Behind VBK Files: What You Need To Know</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-ultimate-list-best-free-online-video-editing-software/"><u>Updated In 2024, The Ultimate List Best Free Online Video Editing Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/urgent-steps-for-disabling-ebook-protections-on-your-kindle-device/"><u>Urgent Steps for Disabling eBook Protections on Your Kindle Device</u></a></li>
 </ul></div>
 
