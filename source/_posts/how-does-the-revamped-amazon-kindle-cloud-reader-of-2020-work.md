@@ -1,7 +1,7 @@
 ---
 title: How Does the Revamped Amazon Kindle Cloud Reader of 2020 Work?
-date: 2024-09-29T22:47:10.739Z
-updated: 2024-10-03T06:21:14.723Z
+date: 2024-10-01T18:43:18.123Z
+updated: 2024-10-08T16:57:19.607Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc28694609982153cd6de4dd43a450d.jpg
@@ -36,18 +36,18 @@ _**Kindle Cloud Reader**_ is familiar to those who often buy e-books at Amazon. 
 
 You can get more details from this video.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. How to access Kindle Cloud Reader**
 
 Every time you type in the URL: [read.amazon.com](https://read.amazon.com/), you'll get access to the Kindle Cloud Reader. Save this site as a bookmark so that you don't need to type the URL next time.
 
 ![kindle for the web safari](https://www.epubor.com/images/uppic/kindle-for-the-web-safari.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Google Chrome also provides an extension. Search "cloud reader" in Chrome Web store and click "ADD TO CHROME". 
 
@@ -57,9 +57,23 @@ Then an icon will show at the top menu bar. You can click it to access Kindle Cl
 
 ![kindle cloud reader extension](https://www.epubor.com/images/uppic/kcr-chrome-extension.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Supported Browsers**
 
 ![](https://www.epubor.com/images/uppic/kindle-cloud-reader-compatible-browsers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Even though Kindle Cloud Reader is a web app, it isn't like a common webpage that you can open it with any browsers. This is due to the fact that the Kindle Cloud Reader is based on HTML5, a new and strong web standard which some browsers don't support. At present Kindle Cloud Reader is available in Google Chrome, Apple Safari(both in Mac and iPad), Mozilla Firefox, IE.
 
@@ -83,10 +97,10 @@ One thing must be pointed out is that the downloaded content is stored locally b
 ![](https://www.epubor.com/images/faq.png) Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Q: Where does Amazon Kindle Cloud Reader store those downloaded books?
@@ -111,15 +125,22 @@ We can easily manage books by Kindle Cloud Reader. Like native Kindle App and Ki
 
 ![](https://www.epubor.com/images/uppic/kcr-sort.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All your books are listed in the library. If your book is downloaded, there will be "Remove Book" when you right-click it. If you concern about the space (only 50MB), just right click or long press the book cover and choose "Remove Book" then the book will get deleted. This operation won't delete the book from your library actually, you can download it again.
 
 ![](https://www.epubor.com/images/uppic/kcr-book-remove.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **3\. E-book customization**
@@ -134,13 +155,6 @@ The sync feature makes us read seamlessly. Just click the sync icon and all your
 
 ![](https://www.epubor.com/images/uppic/what-is-kindle-cloud-reader-bookmark.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 I like this function most because I can copy the highlights without leaving the web browser. The highlight text is automatically added to my kindle account and I can reach in the web browser at <https://read.amazon.com/notebook>.
 
 #### **5\. Optimized for iPad**
@@ -148,13 +162,6 @@ I like this function most because I can copy the highlights without leaving the 
 Amazon claims that the Kindle Cloud Reader can get a better experience on iPad. Besides some menu layout difference, this mainly refers to the Kindle Store. In PC browser, the Kindle Store of Kindle Cloud Reader links to a normal Amazon site. But on the Safari of iPad, the Kindle Store looks like a native app- UI elements are laid out in big, touchable areas and navigation is designed for the touchscreen user.
 
 ![](https://www.epubor.com/images/uppic/kindle-store-safari.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to backup Kindle Books?
 
@@ -169,13 +176,6 @@ Download Epubor Ultimate for Free
 * [How to Back up Your Kindle Books to Computer](https://tools.techidaily.com/epubor/products/).
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -353,18 +353,16 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-bits.techidaily.com/1726028434227-usb/"><u>「USBを使って車載でも音楽再生方法！専門家による簡単チュートリアル」</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-easy-guide-to-converting-videos-for-android-playback-step-by-step-formatting-instructions/"><u>1. Easy Guide to Converting Videos for Android Playback: Step-by-Step Formatting Instructions</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726027065719-vbrcbr/"><u>動画・オーディオコンテンツをVBRから一定ビットレート(CBR)に効率的変換の技術</u></a></li>
-<li><a href="https://games-able.techidaily.com/advantages-and-pitfalls-of-early-access-titles/"><u>Advantages & Pitfalls of Early Access Titles</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6s-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6s Plus Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Smart 7 HD?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726026593598-pc/"><u>PCでのアニメ動画のスクリーンレコーディング手順</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-out-flickers-fixes-wins11/"><u>Smooth Out Flickers, Fixes Wins11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-windows-11-sound-glitches-with-these-simple-5-step-techniques/"><u>Troubleshoot Your Windows 11 Sound Glitches with These Simple 5-Step Techniques</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/worldwide-dvd-viewing-freedom-discover-the-top-3-strategies-for-bypassing-regional-lockouts-effortlessly/"><u>Worldwide DVD Viewing Freedom: Discover the Top 3 Strategies for Bypassing Regional Lockouts Effortlessly</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/bes-pinnacle-tools-studio-vs-next-gen-beta-for-2024/"><u>YouTube's Pinnacle Tools Studio Vs. Next-Gen Beta for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726029296115-dvd/"><u>ダビングで始めるパワーディレクター：DVDからの主要映像統合ガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>[New] Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-igniting-laughter-a-path-to-meme-fame/"><u>[Updated] Igniting Laughter A Path to Meme Fame</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-your-dialogue-a-google-meet-strategy-for-2024/"><u>[Updated] Perfecting Your Dialogue A Google Meet Strategy for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-premier-pro-templates-for-the-year-2023/"><u>2024 Approved Top Premier Pro Templates for the Year 2023</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ps5dvd/"><u>PS5におけるDVDの再生問題解決：視聴方法ガイド</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-a38-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo A38</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-clipboard-problems-on-windows-11-computers/"><u>Resolved! Troubleshooting Clipboard Problems on Windows 11 Computers</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-converting-mp3-files-to-aiff-format-on-mac-pc-and-online-platforms/"><u>Step-by-Step Guide: Converting MP3 Files to AIFF Format on Mac, PC & Online Platforms</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/transforming-audio-with-ease-converting-xa-tracks-into-mp3-files-a-beginners-guide/"><u>Transforming Audio with Ease: Converting XA Tracks Into MP3 Files - A Beginner's Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/trustworthy-techniques-unveiled-secure-your-favorite-soundgasm-tracks-in-just-5-steps/"><u>Trustworthy Techniques Unveiled: Secure Your Favorite SoundGasm Tracks in Just 5 Steps!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-fb-lite-content-discover-the-best-video-downloader-apps-for-2024/"><u>Unlock FB Lite Content Discover the Best Video Downloader Apps for 2024</u></a></li>
 </ul></div>
 

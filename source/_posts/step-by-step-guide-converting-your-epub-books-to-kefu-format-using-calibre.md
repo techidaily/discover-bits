@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Converting Your EPUB Books to KEFU Format Using Calibre"
-date: 2024-09-30T02:45:14.974Z
-updated: 2024-10-02T18:29:24.974Z
+date: 2024-10-06T17:29:34.986Z
+updated: 2024-10-08T16:36:33.276Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19dbd124bdf2e50582d197ea31.jpg
@@ -22,10 +22,10 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 5/7/2022 4:17:16
 Why do you need to convert epub to kepub? First, KEPUB books support Kobo’s fast flip function. Second, KEPUB books support Kobo’s expanded reading statistics pop-up. Third, KEPUB provides access to Kobo’s built-in image viewer, which lets you zoom the images embedded within the book. If you need to make full use of these new features provided by KEPUB, you can try the following methods to convert epub to kepub. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How can we convert EPUB to Kepub
@@ -50,27 +50,27 @@ Click "Preference" on the menu bar, a window below will pop up, then tap "Plugin
 
 ![Kobo touchextend plugin](http://www.epubor.com/images/uppic/get-kobotouchextend-plugin.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, you will see a following dialogue, simply click "Get new plugins" button on the bottom left corner to find the KoboTouchExtended plugin.
 
 ![get new plugin](http://www.epubor.com/images/uppic/get-new-plugin.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As there are so many plugins listed, we can enter "kobo" in the search box behind "Filter by name", then we will find the KoboTouchExtended plugin easily. Simply select this plugin, hit "Install" button to install it. You may see an alert about the security risk, ignore it and click "Yes".
 
 ![search kobo touch extended plugin](http://www.epubor.com/images/uppic/search-kobotouchextended-plugin.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2Convert epub to Kepub Calibre
 
@@ -79,13 +79,6 @@ Step 2Convert epub to Kepub Calibre
 * Select EPUB files you want to send to device and click "Send to device" button.
 
 ![send epub to kobo](http://www.epubor.com/images/uppic/send-epub-to-kobo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When the transfer has been finished, you can see the job status turns to "zero", open your KoboeReader drive, in the root folder, you will find there are several new created folders which are named as author's name. Open it, you can see your transferred EPUB files have become .kepub.epub format.
 
@@ -98,6 +91,19 @@ Download Epubor Ultimate for Free Now
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -321,16 +327,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>[New] Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-virtual-space-essential-guidelines-9-must-know/"><u>[Updated] Mastering Virtual Space Essential Guidelines (9 Must Know)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-start-guide-easy-steps-for-effective-video-calling-on-zoom/"><u>[Updated] Quick Start Guide Easy Steps for Effective Video Calling on Zoom</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-lens-mastery-essential-photography-hacks/"><u>In 2024, IPhone Lens Mastery Essential Photography Hacks</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/pcdji23/"><u>PC上でDJIポケット2/3で録画した動画を簡単に編集する方法</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/quick-and-easy-mkv-conversion-transforming-videots-into-impeccable-playback-quality/"><u>Quick and Easy MKV Conversion: Transforming Video_TS Into Impeccable Playback Quality</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/quick-guide-how-to-simplify-audio-extraction-from-bink-files/"><u>Quick Guide: How To Simplify Audio Extraction From BINK Files</u></a></li>
-<li><a href="https://some-skills.techidaily.com/reviewing-microsoft-hololens-the-3d-interactive-future-for-2024/"><u>Reviewing Microsoft HoloLens The 3D Interactive Future for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/seamless-mp3-adjustments-learn-how-to-alter-audio-duration-on-windows-and-via-the-web/"><u>Seamless MP3 Adjustments: Learn How to Alter Audio Duration on Windows & Via the Web!</u></a></li>
-<li><a href="https://win-web.techidaily.com/steven-ballmer-previously-at-the-helm-of-microsoft-discusses-his-courageous-traits-or-lack-thereof-the-verge/"><u>Steven Ballmer, Previously at the Helm of Microsoft, Discusses His Courageous Traits or Lack Thereof | The Verge</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transform-your-content-top-5-techniques-to-upgrade-from-hd-to-ultra-hd-for-stunning-clarity/"><u>Transform Your Content: Top 5 Techniques to Upgrade From HD to Ultra HD for Stunning Clarity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-videovault-youtube-extractor-fb/"><u>[Updated] 2024 Approved VideoVault YouTube Extractor FB</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-enrich-your-tweeting-experience-the-ultimate-toolkit-review/"><u>[Updated] Enrich Your Tweeting Experience The Ultimate Toolkit Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-5-virtual-film-maker-gadgets/"><u>[Updated] Essential 5 Virtual Film Maker Gadgets</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mp4avivob/"><u>「MP4・AVI・VOBファイルからクリアで鮮明なビデオへの高解像度変換ガイド」</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-create-impactful-youtube-videos-top-20-font-picks/"><u>2024 Approved Create Impactful YouTube Videos Top 20 Font Picks</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-and-use-the-top-rated-app-to-transform-youtube-into-ogv-files-on-pc/"><u>Download and Use the Top-Rated App to Transform YouTube Into OGV Files on PC</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/dvdwindows-11/"><u>DVDプレイヤーが動かないWindows 11 - エラー原因と解決法</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-instructions-for-integrating-fetch-plugin-into-kodi-on-nexus-and-matrix-systems/"><u>Easy Instructions for Integrating Fetch Plugin Into Kodi on Nexus and Matrix Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/expanding-horizons-the-vr-in-classroom-effect-for-2024/"><u>Expanding Horizons The VR in Classroom Effect for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/free-vimeo-video-downloading-guide-to-converting-files-to-mp3-format/"><u>Free Vimeo Video Downloading: Guide to Converting Files to MP3 Format</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/gpu-chronicles-radeon-reimagined-for-2024/"><u>GPU Chronicles Radeon Reimagined for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-quickly-and-easily-transform-your-mp4-videos-into-m4v-best-free-online-methods-unveiled/"><u>How To Quickly And Easily Transform Your MP4 Videos Into M4V - Best FREE Online Methods Unveiled!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola G24 Power Phone without PIN</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-media-conversion-transforming-mxf-to-prores-with-ease-and-expertise/"><u>Mastering Media Conversion: Transforming MXF to ProRes with Ease and Expertise</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-pls-file-handling-techniques-for-successful-access-and-transformation/"><u>Mastering PLS File Handling: Techniques for Successful Access & Transformation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swiftly-address-iphone-photography-blur/"><u>Swiftly Address iPhone Photography Blur</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-create-cartoon-avatars-from-your-photos/"><u>Updated 2024 Approved Create Cartoon Avatars From Your Photos</u></a></li>
 </ul></div>
 
