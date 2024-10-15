@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Legally Unlocking DRM Protection on Amazon's Kindle Titles
-date: 2024-10-02T16:27:00.533Z
-updated: 2024-10-08T17:27:39.291Z
+date: 2024-10-13T18:59:48.152Z
+updated: 2024-10-14T18:35:19.056Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbdb0f91708d2d1f403ab43196.jpg
@@ -47,19 +47,6 @@ Then [download the latest DeDRM-tools](https://github.com/noDRM/DeDRM%5Ftools/re
 
 ![open calibre dedrm plugin folder from dedrm plugin zip](https://www.epubor.com/images/uppic/dedrm-plugin-zip-file.png)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2  Install Calibre DeDRM Plugins.
 
 Run Calibre on computer (here takes mac as an example, remove DRM from Kindle books with calibre mac).
@@ -69,10 +56,10 @@ From the pref pane "Preferences"--"Change calibre behavior".
 ![change calibre behavior on mac](https://epubor.com/images/uppic/change-calibre-behavior.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 (**Note:** Do _not_ click “Get plugins to enhance calibre”).
@@ -90,15 +77,28 @@ Click on the “Add” button, "Yes" in the "Are you sure?" warning dialogue tha
 ![calibre DeDRM plugin added on mac](https://epubor.com/images/uppic/add-calibre-plugin-zip-on-mac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After succeed the plug-in has been installed. Calibre will add this plugin under its "File type plugins" list in the Preferences window, OK. Restart Calibre please.
 
 ![DeDRM under file type plugins](https://www.epubor.com/images/uppic/dedrm-location.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3  Repeat the previous step to add the KFX-ZIP plugin to Calibre.
 
@@ -139,10 +139,10 @@ Run [KindleBooks.pyw](https://www.epubor.com/images/uppic/KindleBooks.zip), then
 ![run KindleBooks.pyw](https://epubor.com/images/uppic/KindleBookspyw.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Remove DRM from Kindle books with Shareware (DRM-off-Able)
@@ -171,26 +171,26 @@ Add the Kindle books from the left sidebar to the right main window. Then all th
 
 ![epubor decrypt kfx](https://epubor.com/images/uppic/epubor-decrypt-kfx.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It uses python scripts but much more easily to operate than method 2.
 
 It provides more friendly interface than Calibre. Of course it's also easier than calibre to learn how to use.
 
 ![epubor works when calibre doesn't](http://www.epubor.com/images/uppic/epubor-kindle-better-calibre.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](http://www.epubor.com/images/faq.png)Key Takeaways
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1\. To active the drm-removing function on Calibre, you need to install extra drm plugin.
@@ -1064,18 +1064,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-use-igtv-hashtags-to-get-more-followers/"><u>[Updated] 2024 Approved How to Use IGTV Hashtags to Get More Followers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-efficient-iphoneandroid-guide-for-tweets-as-visuals/"><u>[Updated] In 2024, Efficient iPhone/Android Guide for Tweets as Visuals</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-nostalgia-spin-off-the-goofy-movie-on-tape/"><u>[Updated] Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-strategies-to-bypass-invisible-restrictions-on-tiktok-for-2024/"><u>[Updated] Strategies to Bypass Invisible Restrictions on TikTok for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-auditory-peaks-control-volume-levels-in-logic-pro/"><u>2024 Approved Avoiding Auditory Peaks Control Volume Levels in Logic Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-and-science-of-compelling-headlines/"><u>In 2024, The Art & Science of Compelling Headlines</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/noise-free-ai-transcription-technology-for-2024/"><u>Noise-Free AI Transcription Technology for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-5-essential-applications-every-owner-of-a-kindle-paperwhite-3-should-have/"><u>Top 5 Essential Applications Every Owner of a Kindle Paperwhite 3 Should Have</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-effortlessly-transform-your-pdfs-into-audio-files/"><u>Ultimate Guide: Effortlessly Transform Your PDFs Into Audio Files</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/uncover-three-methods-for-checking-the-power-remaining-on-your-kindle/"><u>Uncover Three Methods for Checking the Power Remaining on Your Kindle</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-document-layouts-how-proper-formatting-enhances-comprehension/"><u>Understanding Document Layouts: How Proper Formatting Enhances Comprehension</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-the-basics-of-audio-formatting-an-in-depth-guide/"><u>Understanding the Basics of Audio Formatting: An In-Depth Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-author-a-step-by-step-guide-to-modifying-epubs-for-free-with-sigil/"><u>Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>[New] Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlining-screen-captures-on-mi-11-lite/"><u>[New] In 2024, Streamlining Screen Captures on Mi 11 Lite</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-ten-must-watch-vr-scenes-on-youtube/"><u>[New] Top Ten Must-Watch VR Scenes on Youtube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expand-your-audience-with-vimeo-links/"><u>[Updated] Expand Your Audience with Vimeo Links</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-freeze-entire-browser-display/"><u>2024 Approved Freeze Entire Browser Display</u></a></li>
+<li><a href="https://facebook.techidaily.com/analyzing-apples-reluctance-to-enter-metaverse-arena/"><u>Analyzing Apple's Reluctance to Enter Metaverse Arena</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/breakthrough-pdf-encryption-step-by-step-tutorial-for-password-removal-and-freedom-from-constraints/"><u>Breakthrough PDF Encryption: Step-by-Step Tutorial for Password Removal and Freedom From Constraints</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/discovering-the-world-of-ebooks-with-epub-your-ultimate-resource/"><u>Discovering the World of eBooks with EPUB: Your Ultimate Resource</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-tools-for-bypassing-pdf-protection/"><u>Download Tools for Bypassing PDF Protection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/humor-hacks-techniques-for-parody-filmmaking-for-2024/"><u>Humor Hacks Techniques for Parody Filmmaking for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/leading-dvd-editors-for-pc-and-mac-users-streamline-video-editing-workflows-on-windows-10macos/"><u>Leading DVD Editors for PC & Mac Users: Streamline Video Editing Workflows on Windows 10/MacOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-cross-platform-reading-transition-from-nook-to-amazon-kindle/"><u>Mastering Cross-Platform Reading: Transition From Nook to Amazon Kindle</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-strategies-for-efficiently-transferring-dvds-to-your-synology-or-qnap-network-attached-storage/"><u>Top Strategies for Efficiently Transferring DVDs to Your Synology or QNAP Network Attached Storage</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/two-effective-techniques-transforming-dts-tracks-into-ac3-format/"><u>Two Effective Techniques: Transforming DTS Tracks Into AC3 Format</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ultimate-guide-reliable-way-of-converting-wpp-files-into-high-quality-mp3-audio/"><u>Ultimate Guide: Reliable Way of Converting WPP Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows-1011dvdiso/"><u>Windows 10および11にてDVDからISO画像を作り出す手順</u></a></li>
 </ul></div>
 

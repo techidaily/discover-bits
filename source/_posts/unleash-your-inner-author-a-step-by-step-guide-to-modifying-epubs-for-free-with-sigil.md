@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Inner Author: A Step-by-Step Guide to Modifying EPUBs for Free with Sigil"
-date: 2024-10-05T17:21:39.308Z
-updated: 2024-10-08T17:07:06.950Z
+date: 2024-10-08T19:20:36.803Z
+updated: 2024-10-14T20:17:47.825Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec32380919d66b5ed5af5b5df6bd28ce.jpg
@@ -35,13 +35,6 @@ Make sure to download the correct version on your computer (with "Featured"). He
 
 ![Download Sigil](https://www.epubor.com/images/uppic/sigil-download.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2 Install Sigil on your computer.
 
 ![Start install Sigil](https://www.epubor.com/images/uppic/sigil-install.png)
@@ -55,10 +48,10 @@ Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components"
 ![edit EPUB files - open with Sigil](https://www.epubor.com/images/uppic/sigil-install-uncheck.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4 When the EPUB is opened, the cover page will come in front of you. All content pages are listed under the "Text" folder on the left-hand side.
@@ -74,10 +67,16 @@ The icons on the upper tool bar are easy to use as well.
 ![edit EPUB files](https://www.epubor.com/images/uppic/sigil-edit.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6 Click "Tools" -> "Metadata Editor", you can manually edit the EPUB information / metadata.
@@ -85,10 +84,10 @@ The icons on the upper tool bar are easy to use as well.
 ![edit EPUB metadata](https://www.epubor.com/images/uppic/sigil-edit-metadata.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Besides "Title", "Author", you can click "Add Basic" or "Add Role" button on the right-hand side to edit more metadata.
@@ -96,10 +95,10 @@ Besides "Title", "Author", you can click "Add Basic" or "Add Role" button on the
 ![edit EPUB files - more metadata](https://www.epubor.com/images/uppic/sigil-edit-more-meta.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After finishing editting one page, you'd better close the corresponding page tab. Or Sigil might crash due to a shortage of system resource. The closed page will be saved automatically.
@@ -109,6 +108,19 @@ After finishing editting one page, you'd better close the corresponding page tab
 7 When all editting is done, click "File" -> "Save" to overwrite the original. Or select "Save as..." to save as a copy.
 
 ![save as EPUB](https://www.epubor.com/images/uppic/sigil-save.png)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -232,24 +244,22 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-manual-pinning-people-on-snapchat/"><u>[New] 2024 Approved The Ultimate Manual Pinning People on Snapchat</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-15-best-cine-luts-for-gopro-action-cam/"><u>[Updated] 15 Best Cine LUTs for Gopro Action Cam</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-conduct-screenshares-in-zoom/"><u>[Updated] How to Conduct Screenshares in Zoom</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/breakthrough-pdf-encryption-step-by-step-tutorial-for-password-removal-and-freedom-from-constraints/"><u>Breakthrough PDF Encryption: Step-by-Step Tutorial for Password Removal and Freedom From Constraints</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/discovering-the-world-of-ebooks-with-epub-your-ultimate-resource/"><u>Discovering the World of eBooks with EPUB: Your Ultimate Resource</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/download-tools-for-bypassing-pdf-protection/"><u>Download Tools for Bypassing PDF Protection</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/download-tools-for-eliminating-epub-digital-rights-management-drm/"><u>Download Tools for Eliminating EPUB Digital Rights Management (DRM)</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-steps-to-access-and-use-ebooks-in-acsm-format-on-a-mac-computer/"><u>Easy Steps to Access and Use eBooks in ACSM Format on a Mac Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-fixing-missing-mfc42ddll-files-on-your-windows-pc/"><u>Expert Strategies for Fixing Missing mfc42d.dll Files on Your Windows PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-spark-10-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mastering-cross-platform-reading-transition-from-nook-to-amazon-kindle/"><u>Mastering Cross-Platform Reading: Transition From Nook to Amazon Kindle</u></a></li>
-<li><a href="https://games-able.techidaily.com/old-ps5-vs-slimmer-a-technological-shift/"><u>Old PS5 Vs. Slimmer: A Technological Shift</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fixes-for-4-major-account-restrictions-on-gpt/"><u>Quick Fixes for 4 Major Account Restrictions on GPT</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-invalid-inf-configuration/"><u>Resolving Invalid INF Configuration</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/two-effective-techniques-transforming-dts-tracks-into-ac3-format/"><u>Two Effective Techniques: Transforming DTS Tracks Into AC3 Format</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-reliable-way-of-converting-wpp-files-into-high-quality-mp3-audio/"><u>Ultimate Guide: Reliable Way of Converting WPP Files Into High-Quality MP3 Audio</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-ranking-the-best-explainer-video-makers-for-businesses/"><u>Updated Ranking the Best Explainer Video Makers for Businesses</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/windows-1011dvdiso/"><u>Windows 10および11にてDVDからISO画像を作り出す手順</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-harnessing-the-power-of-personal-success-stories-in-videos/"><u>[New] In 2024, Harnessing the Power of Personal Success Stories in Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-blending-past-and-present-film-aesthetics/"><u>[Updated] 2024 Approved Blending Past and Present Film Aesthetics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-peeling-back-the-layers-of-magix-image-suite/"><u>[Updated] Peeling Back the Layers of MAGIX Image Suite</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726029584691-tar/"><u>「Tar形式ファイルの最適な圧縮方法について学ぶポイント集」</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726028434227-usb/"><u>「USBを使って車載でも音楽再生方法！専門家による簡単チュートリアル」</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726027065719-vbrcbr/"><u>動画・オーディオコンテンツをVBRから一定ビットレート(CBR)に効率的変換の技術</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/90windows-11115/"><u>動画90度回転・保存方法：Windows 11/11で選べば楽しい範囲5つ</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726030322324-pc7/"><u>無料・有料問わずPC向けリッチ実況ビデオ記録ソフト7選ベストセレクション</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-next-google-pixel-projections-on-cost-debut-moment-and-potential-features/"><u>Anticipating the Next Google Pixel - Projections on Cost, Debut Moment & Potential Features</u></a></li>
+<li><a href="https://discover-great.techidaily.com/digiarty-winx-dvd-dvd/"><u>DigiArty WinX DVD公式サイト - 公認最適化ウィンドウズ DVDソフトウェア</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gaming-mice-high-pixels-per-inch-excellence/"><u>Elite Gaming Mice - High Pixels Per Inch Excellence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-infinix-smart-8-hd-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Infinix Smart 8 HD on Mac?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-s23frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel S23FRP Lock</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726029791016-mp4mkv/"><u>MP4からMKVへの迅速な大量変換技術 - 完全品質保持</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726026593598-pc/"><u>PCでのアニメ動画のスクリーンレコーディング手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-fix-ensuring-wd-my-passport-ultra-is-compatible-and-visible-to-windows-systems/"><u>The Fix: Ensuring WD My Passport Ultra Is Compatible and Visible to Windows Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726029296115-dvd/"><u>ダビングで始めるパワーディレクター：DVDからの主要映像統合ガイド</u></a></li>
 </ul></div>
 

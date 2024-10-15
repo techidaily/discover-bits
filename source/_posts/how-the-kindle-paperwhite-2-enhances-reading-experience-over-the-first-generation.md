@@ -1,7 +1,7 @@
 ---
 title: How the Kindle Paperwhite 2 Enhances Reading Experience Over the First Generation
-date: 2024-10-07T18:43:56.645Z
-updated: 2024-10-08T16:17:04.675Z
+date: 2024-10-11T22:36:49.271Z
+updated: 2024-10-14T21:33:38.178Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/4e23cb6eaa9892de917d72be96ca092225859934da39293302befce06f1af300.jpg
@@ -20,13 +20,6 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 2
 Unlike Apple's ceremonious new product conference, Amazon choose to introduce their new generation of Kindle Fire HD and Kindle Paperwhite quietly on the homepage of amazon.com.
 
 As we've already compiled a post about the [comparison between Kindle Fire HD and the new Kindle Fire HDX](https://www.slideshare.net/AdaWyy/kindle-fire-hdx-vs-kindle-fire-hd), today we are going to cover the comparison between Kindle Paperwhite 1 (2012) and Kindle Paperwhite 2 (2013).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Screen
 
@@ -50,19 +43,20 @@ The front sides of original Kindle Paperwhite and new Kindle Paperwhite looks al
 
 ![kindle paperwhite 2 back](http://www.epubor.com/images/Paperwhite2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 But the difference in appearance is pretty clear on the back sides. On the back of Kindle Paperwhite 1 the logo is Kindle, while it turns to Amazon on the Kindle Paperwhite 2\. And the new logo looks more striking than the old one.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Features
@@ -71,29 +65,22 @@ The Kindle Paperwhite 2 gets lots of new features. With the new Page Flip featur
 
 ![kpw2-pageflip](http://www.epubor.com/images/showme-pageflip.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Another new feature is pretty a good news for those people who use Kindle to learn a language. Now when you are looking for the definition of a work, it will be automatically added to Vocabulary Builder, and you can check it anytime you like.
 
 ![kpw2-vocabulary-builder](http://www.epubor.com/images/vocabbuilder-2.png)
 
 The new Kindle Match Book feature is the high-light among all these new stuff. For all your purchased or gonna-purchase paper book, you will be able to buy the Kindle edition for no more than $2.99.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Shortcomings
 
 The lack of headphone jack disables people to enjoy audio books; the web browser is still being a decoration; there is no auto-correct feature when taking notes, while it exists on Kindle for iOS app; and the most criticized rejection for EPUB files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -107,6 +94,13 @@ Related Readings
 * [The Most Slim Kindle Paperwhite Cases](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -149,20 +143,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-5-next-level-editors-to-transcend-the-standard-youtube-videos-for-2024/"><u>[New] 5 Next-Level Editors to Transcend the Standard Youtube Videos for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-wonderfox-dvd-transfer-tool-v11-now-available-on-your-ipad/"><u>1. WonderFox DVD Transfer Tool v1.1: Now Available on Your iPad!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-troubleshooting-how-to-fix-error-code-23-quickly-and-easily/"><u>Apex Legends Troubleshooting: How to Fix Error Code 23 Quickly and Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/facing-hurdles-in-reaching-oculus-software-platform-get-help-here/"><u>Facing Hurdles in Reaching Oculus Software Platform? Get Help Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark 20C? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-igtv-content-expansion-direct-sharing-on-facebook-platform/"><u>In 2024, IGTV Content Expansion Direct Sharing on Facebook Platform</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726028709359-kodi-kodi/"><u>Kodiヘルプ＆ガイド - Kodiの使い方を学ぶ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-playing-king-of-fighters-xv-without-any-pc-setbacks-or-interruptions/"><u>Master the Art of Playing King of Fighters XV without Any PC Setbacks or Interruptions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-instagrams-music-stickers-integration-for-2024/"><u>Mastering Instagram's Music Stickers Integration for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-lava-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Lava</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-discover-the-12-greatest-free-gif-generators-for-any-device/"><u>Ultimate Guide: Discover the 12 Greatest Free GIF Generators for Any Device</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726029938759-windows-pc/"><u>Windows PC(マイクロソフト)用画面録画のための詳細ガイド</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726026503278-windows/"><u>Windowsパソコンでマルチタスク環境のビデオ記録手法</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1726028955271-4/"><u>お使い推薦: テキスト入力無しで簡単なラジオ番組記録 - 上位4つの選択肢</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/44oi44ol44k44o844k144o844ov44kn44k544gn44gu5yuv55s76yyy55s744og44kv44ol44od44kv6zugioodrplusocpoodpoodroocueawuew8jplusinoplusiqra/"><u>モニターサーフェスでの動画録画テクニック集 ワイヤレス方式解説</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-essential-guide-to-low-cost-cloud-storage-plans/"><u>[Updated] In 2024, The Essential Guide to Low-Cost Cloud Storage Plans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shared-sights-behind-the-memeayer/"><u>[Updated] Shared Sights Behind the Meme'ayer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-invigorating-cold-season-selecting-warm-video-themes/"><u>2024 Approved Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-tutorial-for-adding-books-to-the-google-play-books-platform/"><u>Easy Tutorial for Adding Books to the Google Play Books Platform</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/effortless-file-conversion-how-to-turn-any-text-or-image-files-into-high-quality-pdfs-today/"><u>Effortless File Conversion: How to Turn Any Text or Image Files Into High-Quality PDFs Today</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/experience-premium-features-at-zero-expense-begin-your-free-demo-today/"><u>Experience Premium Features at Zero Expense: Begin Your Free Demo Today</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/expert-tips-for-legally-unlocking-drm-protection-on-amazons-kindle-titles/"><u>Expert Tips for Legally Unlocking DRM Protection on Amazon's Kindle Titles</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-pratique-pour-lecture-en-mode-browser-de-vos-ebooks-calibre-sur-ios-tablettes-and-plus/"><u>Guide Pratique Pour Lecture en Mode Browser De Vos eBooks Calibre Sur iOS, Tablettes & Plus</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-does-the-revamped-amazon-kindle-cloud-reader-of-2020-work/"><u>How Does the Revamped Amazon Kindle Cloud Reader of 2020 Work?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-read-your-moved-titles-on-any-device-with-kindles-e-reader-tools/"><u>How to Read Your Moved Titles on Any Device with Kindle's E-Reader Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-camon-20-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Camon 20 to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>In 2024, A Stepwise Journey Converting Smartphones Into VR Hubs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capture-like-a-pro-gopro-model-comparison-guide/"><u>In 2024, Capture Like a Pro Gopro Model Comparison Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-x50-gt-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor X50 GT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-future-of-action-photography-tomtoms-bandit-review/"><u>The Future of Action Photography TomTom's Bandit Review</u></a></li>
 </ul></div>
 

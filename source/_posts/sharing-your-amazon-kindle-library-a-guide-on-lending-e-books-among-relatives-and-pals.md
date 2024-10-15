@@ -1,7 +1,7 @@
 ---
 title: "Sharing Your Amazon Kindle Library: A Guide on Lending E-Books Among Relatives & Pals"
-date: 2024-10-02T16:43:36.231Z
-updated: 2024-10-08T18:31:43.081Z
+date: 2024-10-13T16:59:19.562Z
+updated: 2024-10-14T18:41:47.935Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849f8a20bc7170c2547e3c8b5d.jpg
@@ -60,6 +60,19 @@ Step 3 You will be asked if you agree to share your wallet. Click on "**Agree an
 
 ![agree to shar your wallet](http://www.epubor.com/images/uppic/agree-to-share-your-wallet.png)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4 Then choose what you'd like to share with your family or friends, check the option according to your own requirement.
 
 ![family library sharing items](http://www.epubor.com/images/uppic/family-library.png)
@@ -68,15 +81,22 @@ Step 5 A new page will prompt for sending out your invitation.
 
 ![send out the invitation](http://www.epubor.com/images/uppic/send-your-invite.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6  Your family or friend will received the invitation notification as below. Just click on " **Get started**" button to join in the family library.
 
 ![family library invitation](http://www.epubor.com/images/uppic/family-library-invitation.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 7 A new page will prompt up, just click on "**Continue**" button to go to next step.
@@ -90,13 +110,6 @@ Step 8 Your family or friend also have to agree to share the wallet. Click on "*
 Step 9 The one you invited also needs to select which item he/she wants to share with you. Then click on "**Continue**". 
 
 ![share ebooks](http://www.epubor.com/images/uppic/share-apps-ebooks.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then go back to "**Manage Your content and device**", you will see all books in your family library as below picture.
 
@@ -118,10 +131,10 @@ A: If any of you has purchased any book or audiobook, it will be shared automati
 ![share picked books](https://www.epubor.com/images/uppic/share-individual-kindle books-family-library.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Q: Can both adults sharing the family library have access to the book during the same time period? For example, adult A reads the book from 3 - 4:00 PM, and adult B reads the same book on a different device from 7 - 8:00 PM of the same day?
@@ -135,10 +148,10 @@ A: Yes, you can stop sharing your kindle audiobooks, ebook or apps. The setting 
  If you have some specific book that don't want to share with your family member's, you can just go to [Content and Devices](https://www.amazon.com/myh/manage?ref%5F=hh%5Fmycd%5Fmyh%5Fmanage), click the "More action" next to the title you don’t want to share, choose “Manage Family Library” and when the names of everyone in your Household pop up, just click “Remove From Library”.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Q: Can I share Kindle unlimited books with my family?
@@ -188,15 +201,22 @@ _**Note\*: If “ loan this title” is not an option, lending is not available 
 ![loan Kindle books](http://www.epubor.com/images/uppic/loan-Kindle-title.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then “**Loan this book**” page will pop up and enter your friend’s email address to “**Recipient E-mail address**”. Then click on” **Send now**” to send out the notification. 
 
 ![enter recipient email address](http://www.epubor.com/images/uppic/enter-receipient-email.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note: The recipient email address should be your friends email address, not their "send to Kindle" email address.**
 
@@ -219,10 +239,10 @@ Step 3  Log in your Kindle apps or Kindle device, you will see the book you borr
 ![download borrowed books](http://www.epubor.com/images/uppic/download-borrowed-books.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions on lending kindle books to others
@@ -250,19 +270,6 @@ Recently, Amazon has released a new feature--buying Kindle books for others. If 
 Step 1  Go to Kindle books's product detail page on Amazon as below. You will see "**Buy for others**" section at the right corner as below picture.
 
 ![buy for others](http://www.epubor.com/images/uppic/buy-for-others.png)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2  Select the quantity you want to buy and provide your order details, then click "**place your order**" button to finish the order. If you only buy single copy, Amazon will email the book to the recipient on your behalf. If you purchase multiple copies, please send redemption links to your recipients. This is definitely a workaround to share Kindle books with your friends and family, but it costs too much. 
 
@@ -332,13 +339,6 @@ This occurs because only specific Kindle books qualify for the lending feature. 
 If there are items you prefer not to share with the other adult in your household account, you can access "Content Libary" on Amazon. Click on the three dots next to the title you wish to exclude, select “Manage Family Library,” and when the list of everyone in your Household appears, simply click “Remove From Library” next to the desired name.
 
 ![remove books from family library](https://www.epubor.com/images/uppic/manage-family-library.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Final Words
 
@@ -519,20 +519,19 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-free-online-video-communication-tools-rated-best/"><u>[New] 2024 Approved Free Online Video Communication Tools Rated Best</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-optimal-youtube-playback-adjusting-speed-settings/"><u>[Updated] 2024 Approved Optimal YouTube Playback Adjusting Speed Settings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-guide-to-virtual-reality-gaming-gear/"><u>[Updated] 2024 Approved Ultimate Guide to Virtual Reality Gaming Gear</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-optimal-sound-systems-under-100-for-immersive-gameplay-for-2024/"><u>[Updated] Optimal Sound Systems Under $100 for Immersive Gameplay for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-headlines-with-effective-slug-lines/"><u>2024 Approved Optimizing Headlines with Effective Slug Lines</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-synchronizing-social-media-channels-for-broad-distribution/"><u>2024 Approved Synchronizing Social Media Channels for Broad Distribution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g34-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G34 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-linking-chromecast-with-amazon-fire-tv/"><u>Step-by-Step Tutorial on Linking Chromecast with Amazon Fire TV</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-to-converting-bk2-files-into-popular-video-formats-like-mp4-and-avi/"><u>Ultimate Guide to Converting BK2 Files Into Popular Video Formats Like MP4 & AVI</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-tutorial-on-converting-your-videos-into-individual-framesimages/"><u>Ultimate Tutorial on Converting Your Videos Into Individual Frames/Images</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-the-m4b-format-top-6-multiplatform-apps-for-audiobooks/"><u>Understanding the M4B Format: Top 6 Multiplatform Apps for Audiobooks</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/watching-anime-legally-the-animeseason-site-and-more-options-for-streaming-episode-without-cost/"><u>Watching Anime Legally - The Animeseason Site & More Options for Streaming Episode Without Cost</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/webm-mp3/"><u>WEBMファイル音声抽出: MP3形式に完全移行方法</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/windows-11m2tsmp4top11/"><u>Windows 11上のM2TSファイルを優れた品質のMP4に最適な変換方法TOP11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/wonderfox-ultra-fast-hd-dvd-and-video-format-conversion/"><u>WonderFox Ultra-Fast HD DVD & Video Format Conversion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-social-media-mastery-how-to-make-a-post-take-off-on-fb-for-2024/"><u>[New] Social Media Mastery How to Make a Post Take Off on FB for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-sustainable-streaming-a-deep-dive-into-youtubes-financial-dynamics/"><u>[Updated] In 2024, Sustainable Streaming A Deep Dive Into YouTube's Financial Dynamics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-5-iphone-apps-for-auditory-escapades/"><u>2024 Approved Pinnacle 5 iPhone Apps for Auditory Escapades</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>2024 Approved Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-perfect-tiktok-captions-the-ultimate-20-guide/"><u>Crafting Perfect TikTok Captions The Ultimate 20 Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fastest-audible-audiobook-mp3-converter-up-to-10-times-speed-boost/"><u>Fastest Audible Audiobook MP3 Converter - Up to 10 Times Speed Boost!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/free-online-ebook-convertor-transforming-rtf-into-portable-document-format-epub/"><u>Free Online eBook Convertor: Transforming RTF Into Portable Document Format (EPUB)</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/freedom-from-pdf-encryption-comprehensive-guide-to-bypassing-drm-in-adobe-acrobat-reader-and-more/"><u>Freedom From PDF Encryption: Comprehensive Guide to Bypassing DRM in Adobe Acrobat Reader and More</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-fix-for-your-intel-wireless-ac-3160-quick-driver-update-steps/"><u>Get the Latest Fix for Your Intel Wireless-AC 3160: Quick Driver Update Steps!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/get-your-hands-on-premium-downloads-at-no-cost-choose-from-the-best-tools-and-books/"><u>Get Your Hands on Premium Downloads at No Cost – Choose From the Best Tools and Books</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-liberating-your-amazon-kindle-fire-library-by-disabling-drm-protection-on-books/"><u>Guide: Liberating Your Amazon Kindle Fire Library by Disabling DRM Protection on Books</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-effortlessly-convert-aax-audio-to-mp3-faq-and-ultimate-techniques-unveiled/"><u>How to Effortlessly Convert AAX Audio to MP3 - FAQ and Ultimate Techniques Unveiled!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-gt-5-240w-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme GT 5 (240W) to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-must-know-facts-for-asmr-content-lovers/"><u>In 2024, Must-Know Facts for ASMR Content Lovers</u></a></li>
 </ul></div>
 
