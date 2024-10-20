@@ -1,7 +1,7 @@
 ---
 title: "Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol"
-date: 2024-10-12T21:54:00.441Z
-updated: 2024-10-14T16:06:46.940Z
+date: 2024-10-14T13:04:15.874Z
+updated: 2024-10-19T23:00:20.173Z
 tags:
   - product
   - antivirus
@@ -54,13 +54,6 @@ Without getting too technical,  QUIC cuts the number of times computers need to 
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Goodbye TCP
 
 Before we get to further details, a few words about UDP (User Datagram Protocol), a new technology that Google has been working on. This TCP replacement is designed to make transmissions much smoother and faster by removing many of the unnecessary functions that TCP performs.
@@ -91,9 +84,23 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will HTTP/3 be used?
 
@@ -109,13 +116,6 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Brower support for HTTP/3
 
 The technology is fine and dandy, but what about software? Well, Google, which has been arguing for QUIC for years now, already built it into [Chrome](https://www.google.com/chrome/) in version 29\. In case you’re wondering, this version came out all the way back in 2013, so it has been a long time coming.
@@ -123,10 +123,10 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
@@ -136,10 +136,10 @@ Other browser and software makers will, undoubtedly, add support for this new st
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -183,16 +183,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-command-and-conquer-triumphant-tales-of-the-best-7-total-wars/"><u>[Updated] 2024 Approved Command & Conquer Triumphant Tales of the Best 7 Total Wars</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-narrative-mastery-essential-tactics-for-youtube-success/"><u>[Updated] Narrative Mastery Essential Tactics for YouTube Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-selecting-your-perfect-21-hdmi-monitor-a-buyers-guide-for-2024/"><u>[Updated] Selecting Your Perfect 2.1 HDMI Monitor - A Buyer's Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/economical-pc-playback-devices/"><u>Economical PC Playback Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-se-2020-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone SE (2020) How to Bypass?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mp3-youtube/"><u>MP3音楽配信 - YouTubeへのアップロードガイドライン</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mp4wav3/"><u>MP4形式へのWAVファイル変換手順：3つの簡単な技術</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mp4-dvdmp4/"><u>MP4形式へのブルーレイビデオ変換ガイド | DVD/ブルーレイからMP4コピー手順</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/offline-viewing-how-to-securely-watch-redtube-content-without-internet-connection/"><u>Offline Viewing: How To Securely Watch RedTube Content Without Internet Connection</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/pcdji23/"><u>PC上でDJIポケット2/3で録画した動画を簡単に編集する方法</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-8-iphonecomputer-apps-for-seamless-video-editing/"><u>Top 8 iPhone/Computer Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide/"><u>[New] Mastering Instagram Broadcasting with OBS A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-skyrocket-savings-on-clouds-compare-prices-s-lows-for-2024/"><u>[New] Skyrocket Savings on Clouds Compare Prices 'S Lows for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-hd-cameras-for-wildlife-enthusiasts/"><u>[Updated] 2024 Approved Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728461481467-windows/"><u>如何在不互相影響下，将 Windows 系统转移到新硬盘上：三种方法浏览</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/almost-here-the-anticipated-windows-11-upgrade-of-2024/"><u>Almost Here: The Anticipated Windows 11 Upgrade of 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/apricorn-ez-gig-iv-alternate-internal-fix-resolution-steps/"><u>Apricorn EZ Gig IV Alternate Internal Fix: Resolution Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-wizardry-admin-skills-unveiled/"><u>Command Prompt Wizardry: Admin Skills Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversation-champions-which-ai-triumphs-gpt-or-bard/"><u>Conversation Champions: Which AI Triumphs, GPT or Bard?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-updated-nvidia-mx1-gpu-drivers-on-your-pc-windows-supported/"><u>Download & Install Updated Nvidia MX1# GPU Drivers on Your PC - Windows Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-bcm207e0-usb-drivers-fast-compatible-with-all-windows-versions/"><u>Download BCM207e0 USB Drivers Fast – Compatible with All Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-hp-laptops-unresponsive-usb-port-a-step-by-step-guide/"><u>Fixing HP Laptop's Unresponsive USB Port - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-complet-a-lechelle-macro-et-micro-pour-accelerer-windows-11-top-8-strategies-doptimisation-efficaces/"><u>Guide Complet À L'Échelle Macro Et Micro Pour Accélérer Windows 11 – Top 8 Stratégies D'Optimisation Efficaces</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/problemes-avec-le-hdd-toshiba-qui-ne-fonctionne-plus-sur-un-systeme-windows-astuces-pour-recuperer-les-donnees-et-restaurer-lacces/"><u>Problèmes Avec Le HDD Toshiba Qui Ne Fonctionne Plus Sur Un Système Windows : Astuces Pour Récupérer Les Données Et Restaurer L'accès</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728507362416-sandisk-sd/"><u>SanDisk SD卡全面修复流程详解：最新指南</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-tutorial-on-moving-songs-from-windows-laptop-to-iphones-using-a-universal-cable/"><u>Step-by-Step Tutorial on Moving Songs From Windows Laptop to iPhones Using a Universal Cable</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/transferieren-sie-ihre-daten-nahtlos-von-einem-surface-pro-auf-ein-anderes/"><u>Transferieren Sie Ihre Daten Nahtlos Von Einem Surface Pro Auf Ein Anderes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-a34-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy A34 5G FRP Bypass</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows-11-file-explorer-crash-solutions-discover-7-effective-methods/"><u>Windows 11 File Explorer Crash Solutions: Discover 7 Effective Methods!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728500637409-windows-11/"><u>Windows 11で効果的なディスクバックアップ手順：保護措置の実行</u></a></li>
 </ul></div>
 
