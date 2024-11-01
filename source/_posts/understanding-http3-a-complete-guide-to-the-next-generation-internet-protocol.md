@@ -1,7 +1,7 @@
 ---
 title: "Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol"
-date: 2024-10-19T20:09:40.029Z
-updated: 2024-10-25T17:45:08.701Z
+date: 2024-10-28T03:45:08.673Z
+updated: 2024-10-31T16:55:14.254Z
 tags:
   - product
   - antivirus
@@ -72,6 +72,13 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -96,25 +103,11 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
 
@@ -129,10 +122,10 @@ Other browser and software makers will, undoubtedly, add support for this new st
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -141,22 +134,23 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -190,18 +184,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-essential-steps-to-update-your-macos-sierra-system-for-2024/"><u>[New] Essential Steps to Update Your macOS Sierra System for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>[New] In 2024, Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-expertly-record-and-save-your-favorite-hulu-shows/"><u>[Updated] 2024 Approved How To Expertly Record and Save Your Favorite Hulu Shows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-zooming-in-youtube-videos/"><u>2024 Approved The Art of Zooming in YouTube Videos</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/accelerate-your-icloud-music-library-upload-speed-with-these-6-essential-tips/"><u>Accelerate Your iCloud Music Library Upload Speed with These 6 Essential Tips</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/boot-failure-on-windows-11-learn-how-to-restore-your-efi-system-partition-easily/"><u>Boot Failure on Windows 11? Learn How to Restore Your EFI System Partition Easily!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-to-restoring-sound-on-the-astro-a50-wireless-system/"><u>Quick Fix Guide to Restoring Sound on the Astro A50 Wireless System</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/replica-di-un-supporto-usb-avviabile-da-un-altro-in-sistema-operativo-windows-7/"><u>Replica Di Un Supporto USB Avviabile Da Un Altro in Sistema Operativo Windows 7</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/store-the-processed-data-in-a-mongodb-database-including-the-tweets-text-timestamp-sentiment-score-and-associated-cryptocurrency-name/"><u>Store the Processed Data in a MongoDB Database Including the Tweet's Text, Timestamp, Sentiment Score, and Associated Cryptocurrency Name.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-autogpt-setup-problems-and-solutions-easy-fixes-for-smooth-running/"><u>Top 6 AutoGPT Setup Problems & Solutions – Easy Fixes for Smooth Running</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-the-significance-of-fps-frames-per-second-in-virtual-reality-experience/"><u>Understanding the Significance of FPS (Frames Per Second) in Virtual Reality Experience</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/windows-updatewin10win11/"><u>Windows Update：最新のWin10からWin11へ、効果的なデータ転送方法 - 第三者の解決策</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-blocking-unwanted-youtube-channels-pc-and-mobile-edition/"><u>[New] In 2024, Blocking Unwanted Youtube Channels PC & Mobile Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-building-connections-with-your-channels-audience/"><u>[New] In 2024, Building Connections with Your Channel's Audience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-download-facebook-story-5-methods/"><u>[New] In 2024, How to Download Facebook Story [5 Methods]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-efficient-video-marketing-incorporating-timestamps-effectively/"><u>[Updated] 2024 Approved Efficient Video Marketing Incorporating Timestamps Effectively</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>[Updated] 2024 Approved Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/become-a-science-whiz-with-these-prime-15-youtube-picks/"><u>Become a Science Whiz with These Prime 15 YouTube Picks</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-your-system-backup-next-steps-for-safely-powering-down-your-pc/"><u>Complete Your System Backup? Next Steps for Safely Powering Down Your PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-c50-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/online-photo-deletion-techniques-discover-the-top-3-easy-strategies/"><u>Online Photo Deletion Techniques: Discover the Top 3 Easy Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/realms-of-reality-understanding-the-metaverse-through-6-instances/"><u>Realms of Reality Understanding the Metaverse Through 6 Instances</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/strategies-pour-transferer-vos-partitions-de-systeme-and-demarrage-entre-des-disques-individuels-methodes-pratiques-expliquees/"><u>Stratégies Pour Transférer Vos Partitions De Système & Démarrage Entre Des Disques Individuels - Méthodes Pratiques Expliquées</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshoot-and-fix-wukong-game-crashes-in-windows-winning-over-black-myth-woes/"><u>Troubleshoot & Fix Wukong Game Crashes in Windows – Winning Over Black Myth Woes!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows-server-201nhdd/"><u>Windows Server 201N儲存至外置HDD兩條路線</u></a></li>
 </ul></div>
 
