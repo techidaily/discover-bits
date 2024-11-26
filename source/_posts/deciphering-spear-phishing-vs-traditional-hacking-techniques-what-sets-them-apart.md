@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Spear Phishing Vs. Traditional Hacking Techniques: What Sets Them Apart?"
-date: 2024-11-13T21:30:06.566Z
-updated: 2024-11-17T05:05:00.424Z
+date: 2024-11-24T16:10:34.395Z
+updated: 2024-11-26T16:11:09.006Z
 tags:
   - product
   - antivirus
@@ -46,6 +46,10 @@ One such method is spear phishing. It may sound very similar to phishing. Howeve
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Spear Phishing?
 
 Security software firm Trend Micro [reports](https://www.techworld.com/news/security/91-of-cyberattacks-begin-with-spear-phishing-email-3413574/) that 91% of cyberattacks begin with a spear phishing email. The report in 2012 continues to get worse as large-scale security attacks on companies get worse.
@@ -59,13 +63,6 @@ The compelling emails will fool the recipient into clicking links or attachments
 Cybercriminals can now access much information. They can even broadcast attacks to the organization’s customers through its network.
 
 [What is Browser Hijacker](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Spear Phishing Vs Phishing
 
@@ -82,10 +79,7 @@ On the other hand, **spear phishing is a specialized phishing attack on an indiv
 Hackers will pretend to be sources or people familiar to their victims. They may use the names, letterheads, signatures, addresses, and other usual information to appear legitimate. Spear phishing aims to collect as much information from the individual or organization before launching a much strong attack. It is more difficult to spot a spear phishing attack because of its highly specific methods.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Spear Phishing Vs Whaling
@@ -108,6 +102,10 @@ One famous example of spear phishing is the [Democratic National Committee cyber
 
 Another compelling case of spear phishing is the [W-2 Spear Phishing Attacks](https://blog.cloudmark.com/2016/03/31/55-companies-and-counting-w-2-spear-phishing-attacks-continue-to-increase/). More than 50 companies fell victim to highly-customized spear phishing campaigns between 2015 to 2016\. W-2 US tax records of employees working in the targeted companies were compromised. It targeted employees working under high-ranking executives. The information is valuable and can even be sold on the dark web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Protect yourself?
 
 You can protect yourself and your organization by following a couple of steps. While it is difficult to filter everything, you can decrease the possibility of being a victim.
@@ -124,13 +122,6 @@ Social engineering is one of the most significant elements of spear phishing. Ha
 
 Moreover, make sure that you are using secure passwords. It is strongly recommended to use passwords with random numbers, letters, and characters. You can also use active password managers such as [KeePass](https://keepass.info/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Increase Security
 
 Individuals and organizations should always have a robust security suite in their systems. Antivirus suites are not enough anymore. And having only one security software is often not enough to protect you from threats.
@@ -140,15 +131,16 @@ You should have anti-malware that can protect you from a wide variety of threats
 MalwareFox also protects your computer in real-time. It includes browser protection which removes threats early on. The security program also examines any files your download. MalwareFox analyzes the behavior of suspicious files and promptly blocks them. It prevents actual infection from both identified and unknown threats.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final Thoughts
 
 There are countless threats online. It is more dangerous for organizations as they have assets that need protecting. The combination of education and layers of protection reduces the chances of being a victim. Knowing the existence of spear phishing is the beginning of your security.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -175,22 +167,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-the-time-travel-of-facebook-memories-via-devices/"><u>[New] 2024 Approved Navigating the Time Travel of Facebook Memories via Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-extents-of-vr-technology/"><u>[New] Exploring the Extents of VR Technology</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-premiered-top-8-crowd-pleasing-ae-setups/"><u>[Updated] Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-selection-of-simple-effective-gamers-edit-tools/"><u>[Updated] Prime Selection of Simple, Effective Gamers' Edit Tools</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/emmcssd/"><u>「EMMCデータをSSDに簡単且つ無料で複製する手順」</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-3-ways-to-live-stream-on-youtube-without-1000-subscribers/"><u>2024 Approved 3 Ways to Live Stream on YouTube without 1000 Subscribers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-timeout-issue-windows-1110-semaphore-error-0x80070079/"><u>Addressing Timeout Issue - Windows 11/10 Semaphore Error 0X80070079</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/alloy-development-combines-various-metals-to-achieve-specific-properties-for-targeted-applications/"><u>Alloy Development Combines Various Metals to Achieve Specific Properties for Targeted Applications.</u></a></li>
-<li><a href="https://win-updates.techidaily.com/best-top-4-substitutes-for-transwiz-you-need-to-try/"><u>Best Top 4 Substitutes for Transwiz You Need to Try</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ekskwizyjne-ratownosci-dodatkowanie-zasiegu-ssd-na-dysku-windows-1011/"><u>Ekskwizyjne Ratowności: Dodatkowanie Zasięgu SSD Na Dysku Windows 10/11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/el-software-ideal-para-la-movilizacion-conexion-y-cooperacion-en-las-empresas-una-guia-completa/"><u>El Software Ideal Para La Movilización, Conexión Y Cooperación en Las Empresas: Una Guía Completa</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-recover-deleted-files-in-windows-1011-a-complete-guide/"><u>How to Recover Deleted Files in Windows 10/11: A Complete Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-7-plus-5-ways-to-get-into-a-locked-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 7 Plus? 5 Ways to get into a Locked Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/solucion-para-problemas-de-historial-en-el-explorador-de-archivos-de-windows-11/"><u>Solución Para Problemas De Historial en El Explorador De Archivos De Windows 11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-mastering-data-recovery-with-windows-server-2012-wbadmin/"><u>Step-by-Step Guide: Mastering Data Recovery with Windows Server 2012 WBAdmin</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-methods-to-fix-a-damaged-user-profile-on-windows-71011/"><u>Top Methods to Fix a Damaged User Profile on Windows 7/10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/transforming-data-integrating-windows-with-qr-technology/"><u>Transforming Data: Integrating Windows with QR Technology</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming/"><u>[New] In 2024, Oculus Rift, HTC Vive, and PS VR Which Is the Best for Gaming?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-your-gameplay-with-this-gratuitous-voice-alterer/"><u>[Updated] Revolutionize Your Gameplay with This Gratuitous Voice Alterer</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/diysd/"><u>「DIY車上録画データ復元術｜SDカードの再生化手法」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-10-iphone-camera-features-you-should-know-in-ios-11/"><u>In 2024, 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/it-maintains-focus-on-setting-up-a-network-backup-solution-for-a-server-running-the-windows-operating-system/"><u>It Maintains Focus on Setting up a Network Backup Solution for a Server Running the Windows Operating System.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-pc-compatibility-challenges-with-mir4/"><u>Overcoming PC Compatibility Challenges with Mir4</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/proteggi-i-tuoi-dati-come-eseguire-correttamente-un-backup-del-pc-sul-disco-rigido-esterno-nelle-ultime-versioni-di-windows/"><u>Proteggi I Tuoi Dati: Come Eseguire Correttamente Un Backup Del PC Sul Disco Rigido Esterno Nelle Ultime Versioni Di Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-k70-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi K70 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-the-benefits-and-drawbacks-of-using-dynamic-memory-in-microsoft-hyper-v/"><u>Understanding the Benefits & Drawbacks of Using Dynamic Memory in Microsoft Hyper-V</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-career-fulfillment-surpasses-tech-giants-the-joy-of-working-outside-the-apple-orchard/"><u>Why Career Fulfillment Surpasses Tech Giants: The Joy of Working Outside the Apple Orchard</u></a></li>
 </ul></div>
 

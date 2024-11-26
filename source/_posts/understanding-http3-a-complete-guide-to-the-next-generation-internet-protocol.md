@@ -1,7 +1,7 @@
 ---
 title: "Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol"
-date: 2024-11-12T22:18:17.735Z
-updated: 2024-11-16T20:16:08.115Z
+date: 2024-11-24T16:10:02.851Z
+updated: 2024-11-26T17:57:05.320Z
 tags:
   - product
   - antivirus
@@ -40,6 +40,10 @@ Let’s take an acronyms and abbreviations filled look at HTTP/3, and how it aim
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is HTTP/3?
 
 HTTP, as you are aware, is the system web browsers use to fetch data from web servers. It is the technology that is used to load web pages and other files and information from the Internet. And this third and latest version of HTTP is designed to offer a faster experience when browsing the web.
@@ -50,15 +54,16 @@ Basically, Google is leading the charge here with [QUIC](https://www.chromium.or
 
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye TCP
@@ -91,13 +96,6 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
@@ -109,13 +107,6 @@ Soon. The transition has already begun, and slowly but surely the entire web wil
 This independent organization was founded by the US government in 1986, and is made up from volunteers from leading technology companies. They have been overseeing the proceedings for Internet technologies since 1993.
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
@@ -141,6 +132,10 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
@@ -153,10 +148,7 @@ QUIC (technically, QUIC over IP), by contrast, is a technology developed initial
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -184,19 +176,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-free-windows-software-perfect-tv-recording-techniques-for-2024/"><u>[New] Free Windows Software Perfect TV Recording Techniques for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-art-of-blurring-iphone-images-four-steps-covered-for-2024/"><u>[New] The Art of Blurring iPhone Images - Four Steps Covered for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-11-best-free-youtube-name-generators-you-should-try/"><u>[Updated] In 2024, 11 Best Free YouTube Name Generators You Should Try</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-retrieving-information-from-a-non-functional-iphone-a-guide-without-needing-previous-backups/"><u>1. Retrieving Information From a Non-Functional iPhone: A Guide Without Needing Previous Backups</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>2024 Approved Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/datentragerpartitionierung-und-festplattenrestaurierung-ein-umfassender-leitfaden/"><u>Datenträgerpartitionierung Und Festplattenrestaurierung: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effective-strategies-for-setting-up-a-network-mapped-backup-on-your-windows-server/"><u>Effective Strategies for Setting Up a Network-Mapped Backup on Your Windows Server</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/essential-fixes-for-the-missing-boot-partition-problem-a-step-by-step-solution-manual/"><u>Essential Fixes for the Missing Boot Partition Problem: A Step-by-Step Solution Manual</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/fehlerbehebung-fur-pcs-mit-betriebssystem-windows-die-nicht-auf-excel-dokumente-zugreifen-konnen/"><u>Fehlerbehebung Für PCs Mit Betriebssystem Windows, Die Nicht Auf EXCEL-Dokumente Zugreifen Können</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hero7-black-the-pinnacle-of-professional-action-cameras/"><u>HERO7 Black: The Pinnacle of Professional Action Cameras?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-avoiding-storage-woes-removing-youtube-media/"><u>In 2024, Avoiding Storage Woes Removing YouTube Media</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-musicality-in-whatsapp-expressions/"><u>In 2024, Musicality in WhatsApp Expressions</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ntldr-errors-fixed-5-proven-methods-and-a-handy-tip-for-when-its-missing-or-compressed/"><u>NTLDR Errors Fixed! 5 Proven Methods and a Handy Tip for When It's Missing or Compressed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/rca-video-doorbell-an-overview-of-its-competent-and-powerful-imaging-capabilities/"><u>RCA Video Doorbell: An Overview of Its Competent and Powerful Imaging Capabilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-innovative-vfx-equipment-for-eco-warriors/"><u>[New] Innovative VFX Equipment for Eco Warriors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-investing-wisely-in-subscribers-get-more-for-less-for-2024/"><u>[Updated] Investing Wisely in Subscribers Get More for Less for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guide-uploading-iphone-pictures-directly-to-your-windows-based-computer-windows-7-8-10-and-11/"><u>Guide: Uploading iPhone Pictures Directly to Your Windows-Based Computer (Windows 7, 8, 10 & 11)</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-configure-automatic-awakening-of-windows-11-systems-from-standby-mode/"><u>How To Configure Automatic Awakening of Windows 11 Systems From Standby Mode</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-g22-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia G22 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-essential-text-to-speech-mac-tools-dont-miss-these/"><u>In 2024, Essential Text-to-Speech Mac Tools Don't Miss These</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>In 2024, Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-lenovo-ideapad-100-running-smoothly-in-windows-11-driver-download-and-update-guide/"><u>Keeping Your Lenovo IdeaPad 100 Running Smoothly in Windows 11 - Driver Download & Update Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/recuperacion-efectiva-de-archivos-desde-una-unidad-flash-usando-el-simbolo-del-sistema-en-windows/"><u>Recuperación Efectiva De Archivos Desde Una Unidad Flash Usando El Símbolo Del Sistema en Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-pcs-football-manager-2021-crash-problems-with-ease-a-complete-tutorial/"><u>Solve Your PC's Football Manager 2021 Crash Problems with Ease - A Complete Tutorial</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/synology-to-qnap-nas-conversion-guide-the-three-best-strategies-for-a-smooth-transition/"><u>Synology to QNAP NAS Conversion Guide: The Three Best Strategies for a Smooth Transition</u></a></li>
 </ul></div>
 
