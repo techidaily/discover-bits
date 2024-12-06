@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Application, Version 1.10.3, Compatible with PCDJ Systems
-date: 2024-11-23T17:33:49.225Z
-updated: 2024-11-26T18:08:17.682Z
+date: 2024-12-04T06:07:30.434Z
+updated: 2024-12-06T07:11:02.474Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Updates Included in LYRX 1.10.3
@@ -46,7 +46,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 _Have questions about the latest 1.10.3 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,18 +68,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/12/lyrx1.10.3.jpg?fit=1176%2C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-soundscape-integration-for-statements/"><u>[Updated] 2024 Approved Soundscape Integration for Statements</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-flipping-through-frames-instagrams-video-reversal-wizardry/"><u>2024 Approved Flipping Through Frames Instagram's Video Reversal Wizardry</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728506288403-windows-1011nvme-ssd/"><u>如何完美复制Windows 10和11到NVMe SSD：细致入微的全解决方案</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-bass-controls-a-deep-dive-into-the-mechanics-of-bass-management/"><u>Demystifying Bass Controls: A Deep Dive Into the Mechanics of Bass Management</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-to-installing-amd-radeon-rx-590-drivers-on-windows-systems/"><u>Easy Guide to Installing AMD Radeon RX 590 Drivers on Windows Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/elevate-your-content-selecting-the-best-video-aspect-ratio-for-2024/"><u>Elevate Your Content Selecting the Best Video Aspect Ratio for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-quickly-save-and-restore-pc-data-on-windows-1011-via-online-services/"><u>How To Quickly Save & Restore PC Data on Windows 10/11 via Online Services</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722958517390-improved-functionality-alert-download-the-new-driver-for-your-dell-2330d-or-2330dn-laser-printer-now/"><u>Improved Functionality Alert: Download the New Driver for Your Dell 2330D or 2330Dn Laser Printer Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-picture-organizers-for-striking-grids/"><u>In 2024, 10 Best Picture Organizers for Striking Grids</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/reparar-rapidamente-carpetas-faltantes-en-el-explorador-de-archivos-de-windows-10/"><u>Reparar Rápidamente Carpetas Faltantes en El Explorador De Archivos De Windows 10</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/strategie-piu-semplici-per-eseguire-backup-dei-tuoi-messaggi-di-posta-elettronica-pop3-utilizzando-outlook/"><u>Strategie Più Semplici per Eseguire Backup Dei Tuoi Messaggi Di Posta Elettronica POP3 Utilizzando Outlook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-laptops-comprehensive-reviews-by-tech-experts-insights/"><u>Top-Rated Laptops : Comprehensive Reviews by Tech Experts - Insights</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-how-to-seamlessly-transfer-your-files-from-windows-10-to-windows-11/"><u>Ultimate Guide: How to Seamlessly Transfer Your Files From Windows 10 to Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[Updated] 2024 Approved Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-turn-off-youtube-previews-on-all-devices/"><u>[Updated] 2024 Approved Turn Off YouTube Previews on All Devices</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-how-to-personalize-your-windows-desktop-look-with-control-panel-settings-tips-by-yl-software/"><u>1. How to Personalize Your Windows Desktop Look with Control Panel Settings - Tips by YL Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>2024 Approved Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/boost-your-pcs-speed-and-efficiency-expert-tips-from-yl-computing/"><u>Boost Your PC's Speed & Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/effective-strategies-to-remove-viruses-and-malware-a-comprehensive-guide-powered-by-yl-computing/"><u>Effective Strategies to Remove Viruses & Malware: A Comprehensive Guide - Powered by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/enhance-online-confidentiality-in-windows-10-expert-tips-from-yl-computing-for-adjusting-user-privacy-options/"><u>Enhance Online Confidentiality in Windows 10: Expert Tips From YL Computing for Adjusting User Privacy Options</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/essential-cybersecurity-measures-for-safe-cryptocurrency-transactions-expert-insights-by-yl-computing/"><u>Essential Cybersecurity Measures for Safe Cryptocurrency Transactions - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/handling-ink-depleted-messages-expert-advice-for-printer-owners-by-yl-software-solutions/"><u>Handling 'Ink Depleted' Messages: Expert Advice for Printer Owners by YL Software Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-fix-graphics-card-unrecognized-error-in-windows-advice-from-expert-yl-software-team/"><u>How To Fix 'Graphics Card Unrecognized' Error in Windows, Advice From Expert YL Software Team</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-to-resolve-windows-11-backup-tool-failures-effectively/"><u>How to Resolve Windows 11 Backup Tool Failures Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-13-mini-by-drfone-ios/"><u>How to Unlock Verizon iPhone 13 mini</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-crafting-an-ideal-speech-translation-experience-in-google/"><u>In 2024, Crafting an Ideal Speech Translation Experience in Google</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-best-hardware-options-tips-from-toms-domain/"><u>Navigating the Best Hardware Options - Tips From Tom's Domain</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-version-available-secure-your-pc-with-a-fingerprint-login-application/"><u>New Version Available - Secure Your PC with a Fingerprint Login Application</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/setting-up-user-permissions-through-the-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Setting Up User Permissions Through the Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/transferring-your-excel-spreadsheet-a-step-by-step-guide-tips-by-yl-solutions/"><u>Transferring Your Excel Spreadsheet: A Step-by-Step Guide - Tips by YL Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functioning-voice-chat-in-fortnite-tips-for-swift-resolution/"><u>Troubleshooting Non-Functioning Voice Chat in Fortnite: Tips for Swift Resolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninstall-and-reinstall-strategy-microsoft-store-problems/"><u>Uninstall and Reinstall Strategy: Microsoft Store Problems</u></a></li>
 </ul></div>
 

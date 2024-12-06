@@ -1,7 +1,7 @@
 ---
 title: Eerie Shader Packs Perfectly Tuned for DEX 3 & LYRX - Halloween Edition
-date: 2024-11-24T17:20:07.152Z
-updated: 2024-11-26T18:03:12.540Z
+date: 2024-11-29T06:58:19.285Z
+updated: 2024-12-06T07:10:33.996Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Click a button below to review search results as described on each button. The v
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Shaders to DEX 3 or LYRX) ([CLICK HERE FOR DETAILED INSTRUCTIONS](https://tools.techidaily.com/pcdj/products/))
@@ -45,13 +45,13 @@ Click a button below to review search results as described on each button. The v
 ![](https://i0.wp.com/www.pcdj.com/vidupload/SHADER-demo.gif?w=1500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about how to add Shaders to our **DJ Mixing Software** for **Karaoke Software** products? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,17 +73,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/10/shaders-2019-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-livestream-capturing-solutions-for-content-makers/"><u>[New] In 2024, Best Livestream Capturing Solutions for Content Makers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-views-degrees-of-rotation-on-youtube-a-2023-guide/"><u>[New] In 2024, Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-from-concept-to-completion-essential-design-actions/"><u>[New] In 2024, From Concept to Completion Essential Design Actions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-listeners-crossroads-podcasts-versus-youtube-for-your-favorite-content/"><u>[New] Listeners' Crossroads Podcasts versus YouTube for Your Favorite Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-apple-m1-pro-vs-m1-max-the-difference-between-them/"><u>[Updated] Apple M1 Pro Vs. M1 Max The Difference Between Them</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comprendre-la-recuperation-des-donnees-laissez-vous-tomber-le-formatage-dune-carte-sd-detruit-il-vos-informations/"><u>Comprendre La Récupération Des Données: Laissez-Vous Tomber Le Formatage D'une Carte SD, Détruit-Il Vos Informations ?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/los-metodos-mas-eficaces-para-restaurar-archivos-eliminados-definitivamente-de-tu-iphone/"><u>Los Métodos Más Eficaces Para Restaurar Archivos Eliminados Definitivamente De Tu iPhone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/masterclass-der-besten-methoden-zum-aktualisieren-von-windows-11-auf-deinem-asus-laptop-ranking-der-top-4-strategien/"><u>Masterclass Der Besten Methoden Zum Aktualisieren Von Windows 11 Auf Deinem ASUS Laptop: Ranking Der Top 4 Strategien</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/schnell-erfahren-sie-wie-sie-ihre-wps-datei-mit-der-myrecover-software-retten-konnen/"><u>Schnell Erfahren Sie, Wie Sie Ihre WPS-Datei Mit Der MyRecover Software Retten Können.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-budget-friendly-laptops-(1k-comprehensive-gadgets-reviews-by-experts-techradar/"><u>Top-Rated Budget-Friendly Laptops ($<1K) - Comprehensive Gadgets Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/two-methods-of-transferring-data-backing-up-your-pc-onto-an-external-hdd-tutorial-video/"><u>Two Methods of Transferring Data: Backing Up Your PC Onto an External HDD - Tutorial Video</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-rundown-top-8-exceptional-free-online-translation-platforms/"><u>[Updated] A Rundown Top 8 Exceptional Free Online Translation Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-fine-tune-youtube-video-pacing-desktopmobile/"><u>[Updated] Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-good-to-great-elevate-your-tiktok-edits/"><u>2024 Approved From Good to Great Elevate Your TikTok Edits</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/connect-your-printer-efficiently-to-windows-expert-advice-from-yl-computings-professionals/"><u>Connect Your Printer Efficiently to Windows: Expert Advice From YL Computing's Professionals</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oneplus-11-5g-easily-by-drfone-android/"><u>How To Unlock a OnePlus 11 5G Easily?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-building-a-winning-portfolio-with-windows-11-video-editing-skills/"><u>In 2024, Building a Winning Portfolio with Windows 11 Video Editing Skills</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/personalizing-your-windows-10-experience-modifying-the-taskbar-expert-tips-by-yl-computing/"><u>Personalizing Your Windows 10 Experience: Modifying the Taskbar - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/streamlining-account-administration-a-guide-using-yl-software-tools/"><u>Streamlining Account Administration: A Guide Using YL Software Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-your-scanner-why-wont-it-turn-on-with-a-power-tap-expert-solutions-by-yl-computing/"><u>Troubleshooting Your Scanner: Why Won't It Turn On with a Power Tap? - Expert Solutions by YL Computing</u></a></li>
 </ul></div>
 

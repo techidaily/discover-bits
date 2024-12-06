@@ -1,7 +1,7 @@
 ---
 title: The Insider's Tutorial on Hot Cue Techniques with Pioneer DEX III DJ Gear for Music Maestros
-date: 2024-11-24T16:11:37.671Z
-updated: 2024-11-26T17:42:35.449Z
+date: 2024-12-04T04:42:13.143Z
+updated: 2024-12-06T08:03:19.568Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,24 +67,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-getting-started-on-youtube-setting-up-and-generating-income/"><u>[New] 2024 Approved Getting Started on YouTube Setting Up & Generating Income</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/3-effective-methods-for-retrieving-iphone-note-data-from-backups-step-by-step-guide/"><u>3 Effective Methods for Retrieving iPhone Note Data From Backups: Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comment-arreter-la-rotation-automatique-de-lecran-sous-windows-11/"><u>Comment Arrêter La Rotation Automatique De L'Écran Sous Windows 11</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comment-choisir-le-gestionnaire-de-sauvegarde-ideal-avantages-fonctionnalites-et-criteres-devaluation/"><u>Comment Choisir Le Gestionnaire De Sauvegarde Idéal: Avantages, Fonctionnalités Et Critères D'Évaluation</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/easy-to-follow-tutorial-on-implementing-encryption-in-sql-server-backups/"><u>Easy-to-Follow Tutorial on Implementing Encryption in SQL Server Backups</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/experts-reveal-how-to-fix-connection-failed-in-hitman-3-gameplay/"><u>Experts Reveal How to Fix 'Connection Failed' In Hitman 3 Gameplay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gaming-revolutionized-learn-and-create-via-chatgpts-my-bot-features/"><u>Gaming Revolutionized: Learn & Create via ChatGPT's My Bot Features</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gopro-hero7-black-review-one-of-the-best-action-cameras-out-there/"><u>GoPro HERO7 Black Review: One of the Best Action Cameras Out There</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-fix-acronis-true-image-wd-editions-failure-in-cloning-process-now-solved/"><u>How To Fix: Acronis True Image WD Editions Failure in Cloning Process Now Solved</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-move-a-disk-drive-from-hdd-to-ssd-on-windows-11-10-8-or-7/"><u>How to Move a Disk Drive From HDD to SSD on Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-motivational-moments-the-ultimate-list-for-insta/"><u>In 2024, Motivational Moments The Ultimate List for Insta</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-epson-gt-s50-printer-driver-on-windows-7-8-or-10-download-now/"><u>Install Epson GT S50 Printer Driver on Windows 7, 8 or 10 - Download Now!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/losungsansatz-fur-das-windows-sysimage-erstellungsproblem-in-windows-7-schritt-fur-schritt-guideline/"><u>Lösungsansatz Für Das Windows #SysImage-Erstellungsproblem in Windows 7 - Schritt-Für-Schritt-Guideline</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/sh-only-computers-recording-youtube-video-playback-for-screenshots-for-2024/"><u>No Cash, Only Computers Recording YouTube Video Playback for Screenshots for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-free-tools-para-respaldar-sistema-en-windows-11-una-guia-completa/"><u>Top FREE Tools Para Respaldar Sistema en Windows 11: Una Guía Completa</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-ten-backup-losungen-die-beste-ersatzoption-fur-onedrive/"><u>Top-Ten Backup-Lösungen: Die Beste Ersatzoption Für OneDrive</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-quick-fix-for-downloading-funny-images-on-pc-for-2024/"><u>Twitter's Quick-Fix for Downloading Funny Images on PC for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-ssd-operations-the-thorough-breakdown-of-cloning-versus-fresh-installation/"><u>Understanding SSD Operations: The Thorough Breakdown of Cloning Versus Fresh Installation</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nokia-c110-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia C110 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-2023s-scarcity-pioneering-vr-content-shortcomings/"><u>[New] 2023’S Scarcity Pioneering VR Content Shortcomings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essence-of-dji-inspire-2-distilled/"><u>[New] The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-navigating-through-vrs-digital-storyscapes/"><u>2024 Approved Navigating Through VR's Digital Storyscapes</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-enable-parental-guidance-settings-via-windows-control-panel-tutorial-by-yl-computing/"><u>How to Enable Parental Guidance Settings via Windows Control Panel - Tutorial by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-play-7t-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor Play 7T to Another | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/identifying-signs-of-a-malfunctioning-graphics-card-tips-from-yl-computings-expertise/"><u>Identifying Signs of a Malfunctioning Graphics Card: Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-effortless-iphone-screen-recording-techniques-unveiled/"><u>In 2024, Effortless iPhone Screen Recording Techniques Unveiled</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/is-your-motherboard-compatible-with-new-generation-cpus-insights-from-yl-computing/"><u>Is Your Motherboard Compatible with New Generation CPUs? - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/live-rotating-soccer-match-high-definition-wallpaper-plus-full-hd-looped-videos-create-immersive-experience-with-yl-tech/"><u>Live Rotating Soccer Match High-Definition Wallpaper + Full HD Looped Videos - Create Immersive Experience with YL Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-ways-to-convert-youtube-music-tracks-safely-to-mp3-format-for-2024/"><u>Three Ways to Convert YouTube Music Tracks Safely to MP3 Format for 2024</u></a></li>
 </ul></div>
 

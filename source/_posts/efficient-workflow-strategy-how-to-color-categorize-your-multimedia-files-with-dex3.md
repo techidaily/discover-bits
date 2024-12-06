@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3"
-date: 2024-11-24T16:02:06.964Z
-updated: 2024-11-26T16:53:29.992Z
+date: 2024-12-03T16:07:33.276Z
+updated: 2024-12-05T17:29:28.886Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,19 +64,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlined-techniques-for-accumulating-large-tiktok-datasets/"><u>[Updated] Streamlined Techniques for Accumulating Large TikTok Datasets</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728470873570-windows-11/"><u>如何在更换Windows 11硬盘之前备份文件：高效技巧分享</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-accessories-for-immersive-gaming-worlds/"><u>Advanced Accessories for Immersive Gaming Worlds</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/building-an-impressive-instagram-network/"><u>Building an Impressive Instagram Network</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/dos-estrategias-exitosas-para-evitar-que-tu-correo-de-outlook-se-llene-y-un-tipo-secreto-para-seguridad-de-tu-boletin/"><u>Dos Estrategias Exitosas Para Evitar Que Tu Correo De Outlook Se Llene Y Un Tipo Secreto Para Seguridad De Tu Boletín</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/effortless-conversion-of-heic-pictures-from-iphones-to-jpg-for-universal-use/"><u>Effortless Conversion of HEIC Pictures From iPhones to JPG for Universal Use</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/error-the-content-youre-looking-for-isnt-available/"><u>Error: The Content You're Looking For Isn't Available</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-restore-all-lost-files-after-an-unintentional-full-system-wipe/"><u>How to Restore All Lost Files After an Unintentional Full System Wipe</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-lurker-to-leader-the-roadmap-to-higher-fb-page-rankings/"><u>In 2024, From Lurker to Leader The Roadmap to Higher FB Page Rankings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mac-screen-grabber-including-microphone-recording-for-2024/"><u>Mac Screen Grabber Including Microphone Recording for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/simple-steps-to-restore-accidentally-erased-images-on-your-pc/"><u>Simple Steps to Restore Accidentally Erased Images on Your PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/single-airpod-problem-discover-the-best-methods-for-repair/"><u>Single AirPod Problem? Discover the Best Methods for Repair</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshoot-persistent-percentage-lock-in-windows-11-reset-operation-discover-6-solutions-to-unstick-your-system-update-from-1-to-99/"><u>Troubleshoot Persistent Percentage Lock in Windows 11 Reset Operation - Discover 6 Solutions to Unstick Your System Update From 1% to 99%</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unraveling-the-purpose-of-facebooks-blue-messenger-emblem/"><u>Unraveling the Purpose of Facebook's Blue Messenger Emblem</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-immersive-odyssey-top-10-best-free-mmorpgs-ever/"><u>[New] 2024 Approved Immersive Odyssey Top 10 Best Free MMORPGs Ever</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-online-broadcast-platforms/"><u>[New] 2024 Approved Ultimate Online Broadcast Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieve-high-quality-streams-the-top-4k-youtube-tools/"><u>[New] Achieve High-Quality Streams The Top 4K YouTube Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finalizing-your-linkedin-journey-steps-for-termination/"><u>[Updated] Finalizing Your LinkedIn Journey Steps for Termination</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-gamers-top-nine-live-video-destinations/"><u>[Updated] In 2024, Gamer’s Top Nine Live Video Destinations</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/a-step-by-step-guide-mastering-the-art-of-opening-editing-and-saving-office-files-with-yl-computing-tools/"><u>A Step-by-Step Guide: Mastering the Art of Opening, Editing & Saving Office Files with YL Computing Tools</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/clear-your-space-removing-clutter-and-temp-files-with-ease-expert-tips-from-yl-computing/"><u>Clear Your Space: Removing Clutter & Temp Files with Ease - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/do-memory-errors-trigger-computer-freezes-detailed-analysis-by-yl-software-professionals/"><u>Do Memory Errors Trigger Computer Freezes? Detailed Analysis by YL Software Professionals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fix-downloadinstall-problems-for-age-of-empires-iv-on-microsofts-platform/"><u>Guide to Fix Download/Install Problems for Age of Empires IV on Microsoft's Platform</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-identify-and-fix-audio-distortions-in-your-pc-insights-from-yl-computing/"><u>How to Identify and Fix Audio Distortions in Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-luts-for-improved-photography-techniques/"><u>In 2024, Navigating Through LUTs for Improved Photography Techniques</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/secure-your-computer-efficiently-understanding-windows-defender-status-with-yl-computing-techniques/"><u>Secure Your Computer Efficiently: Understanding Windows Defender Status with YL Computing Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-carrying-your-switch-games-securely/"><u>The Essential Guide to Carrying Your Switch Games Securely</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-and-updating-your-network-adapters-driver-in-windows-10-expert-tips/"><u>Troubleshooting and Updating Your Network Adapters Driver in Windows 10 - Expert Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/vision-meets-movement-in-game-setups/"><u>Vision Meets Movement in Game Setups</u></a></li>
 </ul></div>
 
