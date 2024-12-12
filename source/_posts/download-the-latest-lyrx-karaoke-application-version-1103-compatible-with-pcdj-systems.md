@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Application, Version 1.10.3, Compatible with PCDJ Systems
-date: 2024-12-04T06:07:30.434Z
-updated: 2024-12-06T07:11:02.474Z
+date: 2024-12-05T07:18:09.030Z
+updated: 2024-12-11T16:14:13.339Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Updates Included in LYRX 1.10.3
@@ -46,7 +46,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 _Have questions about the latest 1.10.3 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,24 +68,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/12/lyrx1.10.3.jpg?fit=1176%2C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-exclusive-mac-hd-scribing-plus-auditory-logging-solution/"><u>[Updated] 2024 Approved Exclusive Mac HD Scribing + Auditory Logging Solution</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-turn-off-youtube-previews-on-all-devices/"><u>[Updated] 2024 Approved Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-how-to-personalize-your-windows-desktop-look-with-control-panel-settings-tips-by-yl-software/"><u>1. How to Personalize Your Windows Desktop Look with Control Panel Settings - Tips by YL Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>2024 Approved Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/boost-your-pcs-speed-and-efficiency-expert-tips-from-yl-computing/"><u>Boost Your PC's Speed & Efficiency: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/effective-strategies-to-remove-viruses-and-malware-a-comprehensive-guide-powered-by-yl-computing/"><u>Effective Strategies to Remove Viruses & Malware: A Comprehensive Guide - Powered by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/enhance-online-confidentiality-in-windows-10-expert-tips-from-yl-computing-for-adjusting-user-privacy-options/"><u>Enhance Online Confidentiality in Windows 10: Expert Tips From YL Computing for Adjusting User Privacy Options</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/essential-cybersecurity-measures-for-safe-cryptocurrency-transactions-expert-insights-by-yl-computing/"><u>Essential Cybersecurity Measures for Safe Cryptocurrency Transactions - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/handling-ink-depleted-messages-expert-advice-for-printer-owners-by-yl-software-solutions/"><u>Handling 'Ink Depleted' Messages: Expert Advice for Printer Owners by YL Software Solutions</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-fix-graphics-card-unrecognized-error-in-windows-advice-from-expert-yl-software-team/"><u>How To Fix 'Graphics Card Unrecognized' Error in Windows, Advice From Expert YL Software Team</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/how-to-resolve-windows-11-backup-tool-failures-effectively/"><u>How to Resolve Windows 11 Backup Tool Failures Effectively</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-13-mini-by-drfone-ios/"><u>How to Unlock Verizon iPhone 13 mini</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-crafting-an-ideal-speech-translation-experience-in-google/"><u>In 2024, Crafting an Ideal Speech Translation Experience in Google</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-best-hardware-options-tips-from-toms-domain/"><u>Navigating the Best Hardware Options - Tips From Tom's Domain</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-version-available-secure-your-pc-with-a-fingerprint-login-application/"><u>New Version Available - Secure Your PC with a Fingerprint Login Application</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/setting-up-user-permissions-through-the-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Setting Up User Permissions Through the Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/transferring-your-excel-spreadsheet-a-step-by-step-guide-tips-by-yl-solutions/"><u>Transferring Your Excel Spreadsheet: A Step-by-Step Guide - Tips by YL Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functioning-voice-chat-in-fortnite-tips-for-swift-resolution/"><u>Troubleshooting Non-Functioning Voice Chat in Fortnite: Tips for Swift Resolution</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uninstall-and-reinstall-strategy-microsoft-store-problems/"><u>Uninstall and Reinstall Strategy: Microsoft Store Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audiotrack-collection-pc-noises/"><u>[Updated] 2024 Approved Audiotrack Collection PC Noises</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtube-success-with-top-8-thumbnail-strategies/"><u>[Updated] Unlock YouTube Success with Top 8 Thumbnail Strategies</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/compatibility-check-windows-defender-for-mac-devices-by-yl-software/"><u>Compatibility Check: Windows Defender for Mac Devices by YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/connect-your-printer-efficiently-to-windows-expert-advice-from-yl-computings-professionals/"><u>Connect Your Printer Efficiently to Windows: Expert Advice From YL Computing's Professionals</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-universal-sm-bus-controller-driver-compatible-with-win-11-win-10-win-8-and-win-7-retro-edition/"><u>Easy Download: Universal SM Bus Controller Driver Compatible with Win 11, Win 10, Win 8 and Win ([7] - Retro Edition)</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/identifying-and-fixing-usb-connectivity-problems-on-windows-devices-comprehveins-by-yl-software-solutions/"><u>Identifying and Fixing USB Connectivity Problems on Windows Devices - Comprehveins by YL Software Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-reinstalling-your-pcs-network-adapter-in-windows-tech-solutions-by-yl/"><u>Step-by-Step Guide: Reinstalling Your PC's Network Adapter in Windows - Tech Solutions by YL</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailoring-viewing-experience-with-custom-speeds-in-netflix/"><u>Tailoring Viewing Experience with Custom Speeds in Netflix</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-your-scanner-why-wont-it-turn-on-with-a-power-tap-expert-solutions-by-yl-computing/"><u>Troubleshooting Your Scanner: Why Won't It Turn On with a Power Tap? - Expert Solutions by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-the-multiple-wallet-forms-for-your-digital-coins-insights-from-yl-software/"><u>Understanding The Multiple Wallet Forms for Your Digital Coins - Insights From YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-battle-between-iphone-15-pro-max-and-s24-ultra-by-samsung/"><u>Unpacking the Battle Between iPhone 15 Pro Max and S24 Ultra by Samsung</u></a></li>
 </ul></div>
 

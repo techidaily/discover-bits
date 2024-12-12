@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3"
-date: 2024-12-03T16:07:33.276Z
-updated: 2024-12-05T17:29:28.886Z
+date: 2024-12-08T04:37:18.916Z
+updated: 2024-12-11T19:16:16.525Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,20 +64,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-immersive-odyssey-top-10-best-free-mmorpgs-ever/"><u>[New] 2024 Approved Immersive Odyssey Top 10 Best Free MMORPGs Ever</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-ultimate-online-broadcast-platforms/"><u>[New] 2024 Approved Ultimate Online Broadcast Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-high-quality-streams-the-top-4k-youtube-tools/"><u>[New] Achieve High-Quality Streams The Top 4K YouTube Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finalizing-your-linkedin-journey-steps-for-termination/"><u>[Updated] Finalizing Your LinkedIn Journey Steps for Termination</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-gamers-top-nine-live-video-destinations/"><u>[Updated] In 2024, Gamer’s Top Nine Live Video Destinations</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/a-step-by-step-guide-mastering-the-art-of-opening-editing-and-saving-office-files-with-yl-computing-tools/"><u>A Step-by-Step Guide: Mastering the Art of Opening, Editing & Saving Office Files with YL Computing Tools</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/clear-your-space-removing-clutter-and-temp-files-with-ease-expert-tips-from-yl-computing/"><u>Clear Your Space: Removing Clutter & Temp Files with Ease - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/do-memory-errors-trigger-computer-freezes-detailed-analysis-by-yl-software-professionals/"><u>Do Memory Errors Trigger Computer Freezes? Detailed Analysis by YL Software Professionals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-fix-downloadinstall-problems-for-age-of-empires-iv-on-microsofts-platform/"><u>Guide to Fix Download/Install Problems for Age of Empires IV on Microsoft's Platform</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-identify-and-fix-audio-distortions-in-your-pc-insights-from-yl-computing/"><u>How to Identify and Fix Audio Distortions in Your PC - Insights From YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-luts-for-improved-photography-techniques/"><u>In 2024, Navigating Through LUTs for Improved Photography Techniques</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/secure-your-computer-efficiently-understanding-windows-defender-status-with-yl-computing-techniques/"><u>Secure Your Computer Efficiently: Understanding Windows Defender Status with YL Computing Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-carrying-your-switch-games-securely/"><u>The Essential Guide to Carrying Your Switch Games Securely</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-and-updating-your-network-adapters-driver-in-windows-10-expert-tips/"><u>Troubleshooting and Updating Your Network Adapters Driver in Windows 10 - Expert Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/vision-meets-movement-in-game-setups/"><u>Vision Meets Movement in Game Setups</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-ps4-gaming-magic-in-full-detail-using-obs-for-2024/"><u>[New] Capturing PS4 Gaming Magic in Full Detail Using OBS for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-comprehensive-guide-to-fisheye-panoramas-for-2024/"><u>[New] Comprehensive Guide to Fisheye Panoramas for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-video-visibility-top-strategies-on-fb/"><u>[Updated] Maximizing Video Visibility Top Strategies on FB</u></a></li>
+<li><a href="https://win-bits.techidaily.com/clearscan-mastery-diagnosing-and-fixing-fuzzy-results-with-yls-expertise-in-imaging-technology/"><u>ClearScan Mastery: Diagnosing and Fixing Fuzzy Results with YL's Expertise in Imaging Technology</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/club-djs-and-mobile-djs-navigating-the-overlap-in-the-digital-age/"><u>Club DJs and Mobile DJs: Navigating the Overlap in the Digital Age</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/dive-into-battle-royale-aesthetics-with-premium-pubg-photos-hd-backgrounds-and-full-resolution-artwork-from-yl-software/"><u>Dive Into Battle Royale Aesthetics with Premium PUBG Photos, HD Backgrounds, and Full-Resolution Artwork From YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-advanced-video-features-on-nikon-1j5/"><u>Exploring Advanced Video Features on Nikon 1J5</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-whatsapp-web-chat-basics-for-pc-users/"><u>In 2024, WhatsApp Web Chat Basics for PC Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-tips-restoring-the-lucidsound-ls30-microphones-performance/"><u>Repair Tips: Restoring the LucidSound LS30 Microphone's Performance</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/setting-up-or-modifying-hardware-components-via-control-panel-a-guide-by-yl-computing/"><u>Setting Up or Modifying Hardware Components via Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-to-correcting-driver-errors-by-yl-software-specialists/"><u>Step-by-Step Guide to Correcting Driver Errors by YL Software Specialists</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-purchasing-digital-coins-with-yl-computing/"><u>Step-by-Step Guide: Purchasing Digital Coins with YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/this-title-promises-immediate-assistance-top-fixes-and-suggests-current-solutions-relevant-to-the-year-202ebxg-addressing-a-common-issue-players-may-face/"><u>This Title Promises Immediate Assistance (Top Fixes) and Suggests Current Solutions Relevant to the Year 202Ebxg, Addressing a Common Issue Players May Face.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-ranked-video-formats-for-optimal-performance-on-mac-systems/"><u>Top-Ranked Video Formats for Optimal Performance on Mac Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unveiling-typical-reasons-behind-sound-card-malfunctions-insights-from-yl-computing/"><u>Unveiling Typical Reasons Behind Sound Card Malfunctions: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/will-sec-chair-gary-genslers-actions-cause-bitcoin-etf-turmoil-industry-experts-weigh-in-insights-from-yl-computing/"><u>Will SEC Chair Gary Gensler's Actions Cause Bitcoin ETF Turmoil? Industry Experts Weigh In - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-software-showcases-essential-applications-to-enhance-computer-speed-and-performance/"><u>YL Software Showcases Essential Applications to Enhance Computer Speed and Performance</u></a></li>
 </ul></div>
 
