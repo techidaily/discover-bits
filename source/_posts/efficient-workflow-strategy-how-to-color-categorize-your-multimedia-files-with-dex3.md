@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3"
-date: 2024-12-08T04:37:18.916Z
-updated: 2024-12-11T19:16:16.525Z
+date: 2024-12-12T19:08:09.402Z
+updated: 2024-12-18T16:29:53.801Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,22 +64,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capturing-ps4-gaming-magic-in-full-detail-using-obs-for-2024/"><u>[New] Capturing PS4 Gaming Magic in Full Detail Using OBS for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-comprehensive-guide-to-fisheye-panoramas-for-2024/"><u>[New] Comprehensive Guide to Fisheye Panoramas for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-video-visibility-top-strategies-on-fb/"><u>[Updated] Maximizing Video Visibility Top Strategies on FB</u></a></li>
-<li><a href="https://win-bits.techidaily.com/clearscan-mastery-diagnosing-and-fixing-fuzzy-results-with-yls-expertise-in-imaging-technology/"><u>ClearScan Mastery: Diagnosing and Fixing Fuzzy Results with YL's Expertise in Imaging Technology</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/club-djs-and-mobile-djs-navigating-the-overlap-in-the-digital-age/"><u>Club DJs and Mobile DJs: Navigating the Overlap in the Digital Age</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/dive-into-battle-royale-aesthetics-with-premium-pubg-photos-hd-backgrounds-and-full-resolution-artwork-from-yl-software/"><u>Dive Into Battle Royale Aesthetics with Premium PUBG Photos, HD Backgrounds, and Full-Resolution Artwork From YL Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-advanced-video-features-on-nikon-1j5/"><u>Exploring Advanced Video Features on Nikon 1J5</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-whatsapp-web-chat-basics-for-pc-users/"><u>In 2024, WhatsApp Web Chat Basics for PC Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/repair-tips-restoring-the-lucidsound-ls30-microphones-performance/"><u>Repair Tips: Restoring the LucidSound LS30 Microphone's Performance</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/setting-up-or-modifying-hardware-components-via-control-panel-a-guide-by-yl-computing/"><u>Setting Up or Modifying Hardware Components via Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-to-correcting-driver-errors-by-yl-software-specialists/"><u>Step-by-Step Guide to Correcting Driver Errors by YL Software Specialists</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-purchasing-digital-coins-with-yl-computing/"><u>Step-by-Step Guide: Purchasing Digital Coins with YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/this-title-promises-immediate-assistance-top-fixes-and-suggests-current-solutions-relevant-to-the-year-202ebxg-addressing-a-common-issue-players-may-face/"><u>This Title Promises Immediate Assistance (Top Fixes) and Suggests Current Solutions Relevant to the Year 202Ebxg, Addressing a Common Issue Players May Face.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-ranked-video-formats-for-optimal-performance-on-mac-systems/"><u>Top-Ranked Video Formats for Optimal Performance on Mac Systems</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unveiling-typical-reasons-behind-sound-card-malfunctions-insights-from-yl-computing/"><u>Unveiling Typical Reasons Behind Sound Card Malfunctions: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/will-sec-chair-gary-genslers-actions-cause-bitcoin-etf-turmoil-industry-experts-weigh-in-insights-from-yl-computing/"><u>Will SEC Chair Gary Gensler's Actions Cause Bitcoin ETF Turmoil? Industry Experts Weigh In - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/yl-software-showcases-essential-applications-to-enhance-computer-speed-and-performance/"><u>YL Software Showcases Essential Applications to Enhance Computer Speed and Performance</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-turn-off-a-discord-server-device-wise/"><u>[New] How to Turn Off a Discord Server Device-Wise</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-the-experience-top-4-ways-to-preserve-your-gaming-adventures-for-2024/"><u>[New] Live the Experience Top 4 Ways to Preserve Your Gaming Adventures for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-cinematic-lighting-5-must-haves-for-streams/"><u>[Updated] 2024 Approved Cinematic Lighting 5 Must-Haves for Streams</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-clear-youtubes-obscured-visual-field/"><u>[Updated] 2024 Approved Clear Youtube's Obscured Visual Field</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-edit-audio-on-youtube-for-2024/"><u>[Updated] How to Edit Audio on YouTube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/can-you-use-this-scanner-on-a-windows-10-system-find-out-with-yl-software-solutions/"><u>Can You Use This Scanner on a Windows 10 System? Find Out with YL Software Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-intels-stream-assist-transforms-video-gaming/"><u>How Intel's Stream Assist Transforms Video Gaming</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/iconic-avengers-sidekick-scenes-professional-hdr-wallpapers-and-imagery-for-hawkeye-fans-by-yl-software-solutions/"><u>Iconic Avengers' Sidekick Scenes: Professional HDR Wallpapers and Imagery for Hawkeye Fans by YL Software Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/pcdj-essentials-mastering-data-preservation-with-easy-guide-on-saving-and-retrieving-dex-amoeba-databases/"><u>PCDJ Essentials: Mastering Data Preservation with Easy Guide on Saving & Retrieving DEX Amoeba Databases</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/prehistoric-pixel-paradise-jurassic-world-vistas-dynamic-desktops-and-digital-decor-from-yl-software/"><u>Prehistoric Pixel Paradise: Jurassic World Vistas - Dynamic Desktops & Digital Decor From YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-your-non-functional-cd-player-expert-tips-from-yl-computing/"><u>Troubleshooting Your Non-Functional CD Player: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-your-pc-what-makes-a-mouse-fail-to-respond-insights-by-yl-computing/"><u>Understanding Your PC: What Makes a Mouse Fail to Respond - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-star-with-our-premium-karaoke-subscription-service-elevate-every-celebration-now/"><u>Unleash Your Inner Star with Our Premium Karaoke Subscription Service - Elevate Every Celebration Now!</u></a></li>
 </ul></div>
 

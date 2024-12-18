@@ -1,7 +1,7 @@
 ---
 title: Eerie Shader Packs Perfectly Tuned for DEX 3 & LYRX - Halloween Edition
-date: 2024-12-07T19:54:13.698Z
-updated: 2024-12-11T23:59:13.095Z
+date: 2024-12-12T17:07:07.203Z
+updated: 2024-12-18T17:25:59.967Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Click a button below to review search results as described on each button. The v
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Shaders to DEX 3 or LYRX) ([CLICK HERE FOR DETAILED INSTRUCTIONS](https://tools.techidaily.com/pcdj/products/))
@@ -45,13 +45,13 @@ Click a button below to review search results as described on each button. The v
 ![](https://i0.wp.com/www.pcdj.com/vidupload/SHADER-demo.gif?w=1500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about how to add Shaders to our **DJ Mixing Software** for **Karaoke Software** products? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,18 +73,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/10/shaders-2019-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[New] 2024 Approved Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-choosing-between-an-ipad-pro-or-a-macbook-air/"><u>A Comprehensive Guide to Choosing Between an iPad Pro or a MacBook Air</u></a></li>
-<li><a href="https://video-capture.techidaily.com/avantree-aria-the-unconventional-listeners-choice/"><u>Avantree Aria: The Unconventional Listener's Choice</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/elegant-mathematical-notation-wallpaper-designs-by-yl-computing-digital-artistry-and-educational-graphics/"><u>Elegant Mathematical Notation Wallpaper Designs by YL Computing - Digital Artistry & Educational Graphics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-essential-web-portals-delivering-impeccable-text-effects/"><u>In 2024, Explore Essential Web Portals Delivering Impeccable Text Effects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-g2-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo G2 for Free? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/protect-your-digital-assets-expert-tips-on-restoring-damaged-or-missing-backup-files-yl-software-solutions/"><u>Protect Your Digital Assets: Expert Tips on Restoring Damaged or Missing Backup Files - YL Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-navigating-to-windows-network-configuration-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Navigating to Windows Network Configuration via Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/yl-computings-ultimate-tricks-for-viewing-and-transforming-pictures-in-windows-environments-using-yl-tools/"><u>YL Computing's Ultimate Tricks for Viewing and Transforming Pictures in Windows Environments Using YL Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tepwise-strategies-to-perfect-youtube-trailers-by-filmora/"><u>[New] Stepwise Strategies to Perfect YouTube Trailers by Filmora</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-financial-anatomy-of-youtube-shorts-money-splitting/"><u>[New] The Financial Anatomy of YouTube Shorts Money Splitting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweaking-your-tweets-audience-engagement-techniques/"><u>[New] Tweaking Your Tweets Audience Engagement Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-sims-4-gametime-the-recorders-handbook/"><u>[Updated] 2024 Approved Sims 4 Gametime The Recorder's Handbook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-windows-8-screen-snapping-tools/"><u>[Updated] 2024 Approved Windows 8 Screen Snapping Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-comprehensive-tour-youtube-creator-suite/"><u>[Updated] In 2024, A Comprehensive Tour YouTube Creator Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-pose-risks-or-benefits-to-modern-search-engines/"><u>How Does ChatGPT Pose Risks or Benefits to Modern Search Engines?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-discover-the-best-open-worlds-today/"><u>In 2024, Discover the Best Open Worlds Today</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/modify-system-languages-easily-in-windows-10-with-yl-software-expertise/"><u>Modify System Languages Easily in Windows 10 with YL Software Expertise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-resolving-astro-a20-mic-not-working/"><u>Step-by-Step Guide to Resolving Astro A20 Mic Not Working</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-saving-your-microsoft-powerpoint-presentation-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Saving Your Microsoft PowerPoint Presentation on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unlocking-full-potential-the-denon-mcx8000-joins-forces-with-dj-software-dex-3-how-to-get-started-downloads-included/"><u>Unlocking Full Potential: The Denon MCX8000 Joins Forces with DJ Software DEX 3 - How to Get Started | Downloads Included</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unveiling-hidden-hazards-in-system-tweaks-a-comprehensive-guide-to-the-perils-of-registry-modification-by-yl-software/"><u>Unveiling Hidden Hazards in System Tweaks: A Comprehensive Guide to the Perils of Registry Modification by YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-computings-ultimate-strategy-for-finding-your-ideal-digital-coin/"><u>YL Computing's Ultimate Strategy for Finding Your Ideal Digital Coin</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-softwares-guide-to-streamlining-your-system-by-turning-off-unused-programs-and-services/"><u>YL Software's Guide to Streamlining Your System by Turning Off Unused Programs and Services</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-technologys-official-bts-themed-digital-artwork-and-pc-screensavers-collection/"><u>YL Technology's Official BTS Themed Digital Artwork and PC Screensavers Collection</u></a></li>
 </ul></div>
 

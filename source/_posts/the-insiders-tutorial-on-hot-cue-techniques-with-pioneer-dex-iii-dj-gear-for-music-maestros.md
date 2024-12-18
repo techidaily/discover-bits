@@ -1,7 +1,7 @@
 ---
 title: The Insider's Tutorial on Hot Cue Techniques with Pioneer DEX III DJ Gear for Music Maestros
-date: 2024-12-04T18:42:41.769Z
-updated: 2024-12-12T06:28:14.588Z
+date: 2024-12-11T18:49:44.037Z
+updated: 2024-12-18T19:16:43.742Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/urbing-common-mishaps-youtube-short-edition-for-2024/"><u>[New] Curbing Common Mishaps YouTube Short Edition for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-freedom-in-focus-top-20-prisoner-wit-punchlines-on-social-media/"><u>[Updated] 2024 Approved Freedom in Focus Top 20 Prisoner-Wit Punchlines on Social Media</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-use-obs-with-zoom/"><u>[Updated] In 2024, How to Use OBS with Zoom</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-illustrate-laughter-memes-in-adobe/"><u>[Updated] In 2024, Illustrate Laughter Memes in Adobe</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/crafting-the-core-plot-for-2024/"><u>Crafting the Core Plot for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/discover-fresh-features-in-pcdjs-new-aria-skin-for-karaoke-software-beta-version-08easy-to-use/"><u>Discover Fresh Features in PCDJ's New Aria Skin for Karaoke Software - Beta Version 0.8.easy to Use!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/effortlessly-enhanced-images-learn-the-insider-snapchat-tactics/"><u>Effortlessly Enhanced Images Learn the Insider Snapchat Tactics</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/elevate-your-decor-with-yl-softwares-exquisite-cottagecore-flower-background-imagery-and-graphics/"><u>Elevate Your Decor with YL Software's Exquisite Cottagecore Flower Background Imagery and Graphics</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/emerging-technology-insights-at-the-digital-nigeria-conference-2023-discover-how-yl-is-shaping-our-tech-future/"><u>Emerging Technology Insights at the Digital Nigeria Conference 2023 – Discover How YL Is Shaping Our Tech Future!</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-moto-g04-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola Moto G04 Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy Z Flip 5 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/is-your-pc-protected-understanding-how-windows-defender-scans-for-malware/"><u>Is Your PC Protected?: Understanding How Windows Defender Scans for Malware</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/prehistoric-pixel-paradise-jurassic-world-vistas-dynamic-desktops-and-digital-decor-from-yl-software/"><u>Prehistoric Pixel Paradise: Jurassic World Vistas - Dynamic Desktops & Digital Decor From YL Software</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/recognizing-signs-of-a-deteriorating-cpu-expert-advice-from-yl-computing/"><u>Recognizing Signs of a Deteriorating CPU: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-common-factors-leading-to-motherboard-issues-expertise-by-yl-software-team/"><u>Understanding Common Factors Leading to Motherboard Issues - Expertise by YL Software Team</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-star-with-our-premium-karaoke-subscription-service-elevate-every-celebration-now/"><u>Unleash Your Inner Star with Our Premium Karaoke Subscription Service - Elevate Every Celebration Now!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728481660788-windows-server/"><u>Windows Serverのバックアップで増分更新失敗を修正する方法</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-add-music-in-premiere-pro-for-2024/"><u>[New] Add Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-complete-breakdown-hero4-black-usage-for-2024/"><u>[New] Complete Breakdown Hero4 Black Usage for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-revenue-streams-cross-device-studio-strategies/"><u>[Updated] In 2024, YouTube Revenue Streams Cross-Device Studio Strategies</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-repairing-a-damaged-windows-registry-expert-guide-and-steps-yl-computing-solutions/"><u>1. Repairing a Damaged Windows Registry: Expert Guide and Steps - YL Computing Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/adjusting-mypower-configurations-a-step-by-step-guide-with-yl-software/"><u>Adjusting MyPower Configurations: A Step-by-Step Guide with YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazon-offers-early-exclusive-sale-iphone-m2-macbook-pro-at-a-steal-for-only-800-latest-news/"><u>Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-battery-alerts-windows-insider-guide/"><u>Enhancing Battery Alerts: Windows Insider Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/expert-tips-for-fixing-your-gpus-drivers-tech-advice-from-yl-software/"><u>Expert Tips for Fixing Your GPU's Drivers - Tech Advice From YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-15-pro-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 15 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-14-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi 14 Ultra to iPad | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/investment-security-in-digital-assets-evaluating-the-risks-of-cryptocurrency-insights-by-yl-computing-and-yl-software/"><u>Investment Security in Digital Assets: Evaluating the Risks of Cryptocurrency - Insights by YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/optimizing-system-stability-for-flawless-operation-insights-from-yl-computing-experts/"><u>Optimizing System Stability for Flawless Operation: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-corrupted-audio-visual-content-on-phones/"><u>Recovering Corrupted Audio-Visual Content on Phones</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/setting-up-your-pcs-security-a-step-by-step-guide-to-configuring-windows-firewall-yl-tech-tips/"><u>Setting Up Your PC's Security: A Step-by-Step Guide to Configuring Windows Firewall - YL Tech Tips</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-gpu-malfunctions-reasons-for-freezingcrashing-explained-by-yl-software-professionals/"><u>Understanding GPU Malfunctions: Reasons for Freezing/Crashing Explained by YL Software Professionals</u></a></li>
 </ul></div>
 

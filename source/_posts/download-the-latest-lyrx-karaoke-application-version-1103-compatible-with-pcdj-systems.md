@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Application, Version 1.10.3, Compatible with PCDJ Systems
-date: 2024-12-05T07:18:09.030Z
-updated: 2024-12-11T16:14:13.339Z
+date: 2024-12-15T17:37:06.055Z
+updated: 2024-12-18T16:43:09.820Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Updates Included in LYRX 1.10.3
@@ -46,7 +46,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 _Have questions about the latest 1.10.3 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,18 +68,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/12/lyrx1.10.3.jpg?fit=1176%2C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audiotrack-collection-pc-noises/"><u>[Updated] 2024 Approved Audiotrack Collection PC Noises</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtube-success-with-top-8-thumbnail-strategies/"><u>[Updated] Unlock YouTube Success with Top 8 Thumbnail Strategies</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/compatibility-check-windows-defender-for-mac-devices-by-yl-software/"><u>Compatibility Check: Windows Defender for Mac Devices by YL Software</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/connect-your-printer-efficiently-to-windows-expert-advice-from-yl-computings-professionals/"><u>Connect Your Printer Efficiently to Windows: Expert Advice From YL Computing's Professionals</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-download-universal-sm-bus-controller-driver-compatible-with-win-11-win-10-win-8-and-win-7-retro-edition/"><u>Easy Download: Universal SM Bus Controller Driver Compatible with Win 11, Win 10, Win 8 and Win ([7] - Retro Edition)</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/identifying-and-fixing-usb-connectivity-problems-on-windows-devices-comprehveins-by-yl-software-solutions/"><u>Identifying and Fixing USB Connectivity Problems on Windows Devices - Comprehveins by YL Software Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-reinstalling-your-pcs-network-adapter-in-windows-tech-solutions-by-yl/"><u>Step-by-Step Guide: Reinstalling Your PC's Network Adapter in Windows - Tech Solutions by YL</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-viewing-experience-with-custom-speeds-in-netflix/"><u>Tailoring Viewing Experience with Custom Speeds in Netflix</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/troubleshooting-your-scanner-why-wont-it-turn-on-with-a-power-tap-expert-solutions-by-yl-computing/"><u>Troubleshooting Your Scanner: Why Won't It Turn On with a Power Tap? - Expert Solutions by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-the-multiple-wallet-forms-for-your-digital-coins-insights-from-yl-software/"><u>Understanding The Multiple Wallet Forms for Your Digital Coins - Insights From YL Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unpacking-the-battle-between-iphone-15-pro-max-and-s24-ultra-by-samsung/"><u>Unpacking the Battle Between iPhone 15 Pro Max and S24 Ultra by Samsung</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-ultimate-list-10-costless-video-caption-extractors/"><u>[Updated] In 2024, Ultimate List 10 Costless Video Caption Extractors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-understanding-and-executing-photo-gender-modification-online/"><u>[Updated] In 2024, Understanding and Executing Photo Gender Modification Online</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/a-step-by-step-tutorial-restore-your-images-using-stellars-proven-windows-technique/"><u>A Step-by-Step Tutorial: Restore Your Images Using Stellar's Proven Windows Technique</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-13-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 13 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/detecting-graphics-card-heat-issues-expert-advice-by-yl-software-professionals/"><u>Detecting Graphics Card Heat Issues: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/diy-fixes-for-your-windows-scanner-issues-tips-and-tricks-by-yl-software-professionals/"><u>DIY Fixes for Your Windows Scanner Issues - Tips & Tricks by YL Software Professionals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor 100 Pro Phone without PIN</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/identifying-signs-of-a-malfunctioning-graphics-card-tips-from-yl-computings-expertise/"><u>Identifying Signs of a Malfunctioning Graphics Card: Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-vs-yi-who-will-lead-the-high-quality-action-race/"><u>In 2024, GoPro Vs. YI Who Will Lead the High-Quality Action Race?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-mac-livestream-tech-best-of-the-best-ranked-1-to-5/"><u>In 2024, Masterful Mac Livestream Tech Best of the Best, Ranked 1 to 5</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/is-your-motherboard-compatible-with-new-generation-cpus-insights-from-yl-computing/"><u>Is Your Motherboard Compatible with New Generation CPUs? - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/live-rotating-soccer-match-high-definition-wallpaper-plus-full-hd-looped-videos-create-immersive-experience-with-yl-tech/"><u>Live Rotating Soccer Match High-Definition Wallpaper + Full HD Looped Videos - Create Immersive Experience with YL Tech</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/solving-audio-issues-expert-guide-to-fixing-your-pcs-sound-card-yl-computing-solutions/"><u>Solving Audio Issues: Expert Guide to Fixing Your PC's Sound Card - YL Computing Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/steps-for-retrieving-files-after-your-pc-suffers-a-viral-attack-guidance-by-yl-software-experts/"><u>Steps for Retrieving Files After Your PC Suffers a Viral Attack: Guidance by YL Software Experts</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windows/"><u>Windows</u></a></li>
 </ul></div>
 
