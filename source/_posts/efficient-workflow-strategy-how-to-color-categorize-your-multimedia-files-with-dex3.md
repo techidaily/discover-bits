@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3"
-date: 2025-01-01T17:09:40.331Z
-updated: 2025-01-05T19:07:50.169Z
+date: 2025-01-09T21:20:20.378Z
+updated: 2025-01-12T02:06:32.042Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,16 +64,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-effortless-video-integration-into-blog-posts-and-essays-for-2024/"><u>[Updated] Effortless Video Integration Into Blog Posts & Essays for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-streamlining-your-avatar-on-google-meet-devices/"><u>2024 Approved Streamlining Your Avatar on Google Meet Devices</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/best-free-and-secure-itunes-management-tools-on-windows-top-3-picks/"><u>Best Free and Secure iTunes Management Tools on Windows: Top 3 Picks!</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-realme-c67-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme C67 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-beyerdynamic-mmx-300-pro-stellar-audio-performance-in-a-straightforward-package/"><u>Evaluating the Beyerdynamic MMX 300 Pro - Stellar Audio Performance in a Straightforward Package</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-securing-every-frame-best-practices-for-vimeo-record-use/"><u>In 2024, Securing Every Frame Best Practices for Vimeo Record Use</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-zte-blade-a73-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for ZTE Blade A73 5G Users</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/navigating-the-deadline-essential-info-on-the-windows-server-2016-end-of-support-period/"><u>Navigating the Deadline: Essential Info on the Windows Server 2016 End of Support Period</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/solved-how-to-fix-itunes-error-insufficient-storage-when-restoring-your-iphone/"><u>Solved: How to Fix iTunes Error - 'Insufficient Storage' When Restoring Your iPhone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-5-utmarkta-redigerar-utgifter-for-spridande-av-din-online-och-offline-videoomslutning/"><u>Top 5 Utmärkta Redigerar Utgifter För Spridande Av Din Online- Och Offline Videoomslutning</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-the-price-structure-and-plan-details-of-malwarefox-antivirus-software/"><u>Understanding the Price Structure and Plan Details of MalwareFox Antivirus Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-come-recuperare-le-foto-di-sistema-dal-tuo-disco-rigido-esterno/"><u>1. Come Recuperare Le Foto Di Sistema Dal Tuo Disco Rigido Esterno?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-mastery-choosing-between-free-and-paid-video-download-solutions/"><u>2024 Approved Vimeo Mastery Choosing Between Free and Paid Video-Download Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-cure-google-chromes-persistent-black-display-problem/"><u>Comprehensive Solutions to Cure Google Chrome's Persistent Black Display Problem</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades-for-2024/"><u>Enrich Facebook Tales Unlimited, No-Cost Online & Mobile Upgrades for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-safely-clear-a-solid-state-drive-ssd-with-m2-interface-in-windows-10-or-11/"><u>How to Safely Clear a Solid-State Drive (SSD) with M.2 Interface in Windows 10 or 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c55-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme C55 Phone without PIN</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-7-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Smart 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-python-basics-with-our-newbie-friendly-course-secure-your-spot-at-only-40-before-the-offer-ends-zdnet/"><u>Master Python Basics with Our Newbie-Friendly Course: Secure Your Spot at Only $40 Before the Offer Ends - ZDNet!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/understanding-the-risks-is-your-web-browsers-assistant-a-potential-threat-and-steps-for-removal/"><u>Understanding the Risks: Is Your Web Browser's Assistant a Potential Threat and Steps for Removal?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728508805059-usbwindows-11/"><u>USB経由でWindows 11をセットアップするための徹底解説</u></a></li>
 </ul></div>
 

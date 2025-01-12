@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Application, Version 1.10.3, Compatible with PCDJ Systems
-date: 2024-12-29T17:35:26.441Z
-updated: 2025-01-05T17:10:25.429Z
+date: 2025-01-10T00:50:38.309Z
+updated: 2025-01-12T05:51:01.093Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Updates Included in LYRX 1.10.3
@@ -46,7 +46,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 _Have questions about the latest 1.10.3 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,24 +68,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/12/lyrx1.10.3.jpg?fit=1176%2C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/everaging-yt-playlist-features-for-site-enhancement-for-2024/"><u>[New] Leveraging YT Playlist Features for Site Enhancement for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-fabulous-video-showcase/"><u>[Updated] 2024 Approved Facebook's Fabulous Video Showcase</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-accessories-for-immersive-gaming-worlds/"><u>[Updated] Advanced Accessories for Immersive Gaming Worlds</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/bestfreie-klon-anwendungen-fur-windows-8-bis-11-professionelle-losungen-ohne-kosten/"><u>Bestfreie Klon-Anwendungen Für Windows 8 Bis 11 - Professionelle Lösungen Ohne Kosten</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-xbox-mic-blockages-for-flawless-windows-11-operation/"><u>Clearing Up Xbox Mic Blockages for Flawless Windows 11 Operation</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-xs-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone XS Without Previous Owner?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-90-gt-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor 90 GT Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/itunes-tracks-direkt-auf-ihr-ipad-kopieren-synchronisierungsfreie-losung/"><u>ITunes Tracks Direkt Auf Ihr iPad Kopieren: Synchronisierungsfreie Lösung</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/lost-deleted-notes-from-your-ipad-and-no-backup-discover-the-steps-for-retrieval/"><u>Lost Deleted Notes From Your iPad and No Backup? Discover the Steps for Retrieval!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/oops-encountering-a-glitch-in-language-strategies-and-suggestions-to-overcome-wordly-mishaps/"><u>Oops! Encountering a Glitch in Language: Strategies and Suggestions to Overcome Wordly Mishaps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-lenovo-thinkpad-x230-driver-downloads-for-speedy-configuration/"><u>Quick Setup: Lenovo ThinkPad X230 Driver Downloads for Speedy Configuration</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/recover-lost-excel-spreadsheets-on-windows-11-a-guide-to-four-successful-approaches/"><u>Recover Lost Excel Spreadsheets on Windows 11: A Guide to Four Successful Approaches</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728500232697-synology-nas/"><u>Synology NASデバイスに保存したデータを外部ドライブへ安全に複写する方法</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/tecnicas-simples-para-sharing-de-arquivos-entre-muitos-pcs-por-rede-local/"><u>Técnicas Simples Para Sharing De Arquivos Entre Muitos PCs Por Rede Local</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-photographers-roadmap-to-stunning-hdr-portraits/"><u>The Photographer's Roadmap to Stunning HDR Portraits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-rog-gt-ax110-router-review-for-gamers-high-speeds-and-robust-features/"><u>The Ultimate Guide to the Asus ROG GT-AX110# Router Review for Gamers, High Speeds and Robust Features</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728503296300-windows-10-windows-11/"><u>Windows 10 及 Windows 11起動修復故障糾正</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/windows-11-desktop-suddenly-vanishes-discover-our-top-7-solutions/"><u>Windows 11 Desktop Suddenly Vanishes? Discover Our Top 7 Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/emmcssd/"><u>「EMMCデータをSSDに簡単且つ無料で複製する手順」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-ios-ipados-and-macos-get-apples-collaboration-with-openai-for-access-to-chatgpt-exclusive-insights/"><u>1. 'IOS, iPadOS, and macOS Get Apple's Collaboration with OpenAI for Access to ChatGPT: Exclusive Insights '</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ekskwizyjne-ratownosci-dodatkowanie-zasiegu-ssd-na-dysku-windows-1011/"><u>Ekskwizyjne Ratowności: Dodatkowanie Zasięgu SSD Na Dysku Windows 10/11</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/el-software-ideal-para-la-movilizacion-conexion-y-cooperacion-en-las-empresas-una-guia-completa/"><u>El Software Ideal Para La Movilización, Conexión Y Cooperación en Las Empresas: Una Guía Completa</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-improved-brilliance-of-apple-watch-series-4-a-comprehensive-overview/"><u>Exploring the Improved Brilliance of Apple Watch Series 4 – A Comprehensive Overview</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-tech-evolution-vr-now-and-beyond-for-2024/"><u>Immersive Tech Evolution VR Now & Beyond for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/solucion-para-problemas-de-historial-en-el-explorador-de-archivos-de-windows-11/"><u>Solución Para Problemas De Historial en El Explorador De Archivos De Windows 11</u></a></li>
 </ul></div>
 

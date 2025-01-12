@@ -1,7 +1,7 @@
 ---
 title: "Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol"
-date: 2024-12-31T16:43:32.987Z
-updated: 2025-01-05T17:34:31.081Z
+date: 2025-01-04T19:42:57.915Z
+updated: 2025-01-11T23:22:45.917Z
 tags:
   - product
   - antivirus
@@ -73,7 +73,7 @@ This reliability, however, makes this this less than an ideal solution when send
 And this is exactly where UDP comes in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Out with the old, in with the new
@@ -88,6 +88,10 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
@@ -100,10 +104,6 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
@@ -111,7 +111,7 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
@@ -119,6 +119,10 @@ But this number should change in the coming months and years, as adoption of the
 The technology is fine and dandy, but what about software? Well, Google, which has been arguing for QUIC for years now, already built it into [Chrome](https://www.google.com/chrome/) in version 29\. In case you’re wondering, this version came out all the way back in 2013, so it has been a long time coming.
 
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
 
@@ -133,7 +137,7 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 thought on “What is HTTP/3”
@@ -146,10 +150,6 @@ While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a 
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -176,20 +176,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-educator-elite-selective-learning-yt-channels/"><u>[Updated] Educator Elite Selective Learning YT Channels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-audiovisual-updates-integrating-sounds-with-statuses/"><u>[Updated] In 2024, Audiovisual Updates Integrating Sounds with Statuses</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/mpegmjpeg-movavi/"><u>簡單移行：在不付錢的情況下改變MPEG成MJPEG - 以Movavi為主要功能</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/access-diverse-gay-content-save-videos-as-mp4movavi-for-private-viewing/"><u>Access Diverse Gay Content – Save Videos as MP4/MOV/AVI for Private Viewing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/illuminate-your-brand-get-a-free-logo-embossed-stickerlight-for-your-laptop-at-just-9/"><u>Illuminate Your Brand: Get a Free Logo-Embossed StickerLight for Your Laptop at Just $9!</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-seo-an-in-depth-guide-to-google-webmaster-tools-and-optimizing-rankings/"><u>Mastering SEO: An In-Depth Guide to Google Webmaster Tools and Optimizing Rankings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/newbies-necessities-for-capturing-with-gopro/"><u>Newbies Necessities for Capturing with GoPro</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-altering-file-extensions-in-windows-os-yl-computing/"><u>Step-by-Step Guide: Altering File Extensions in Windows OS - YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/stunning-panoramic-views-of-london-2019-high-quality-desktop-backgrounds-by-yl-computing/"><u>Stunning Panoramic Views of London, 2019 High-Quality Desktop Backgrounds by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/the-advantages-of-a-dedicated-gpu-in-music-video-editing-with-pcdj-software/"><u>The Advantages of a Dedicated GPU in Music Video Editing with PCDJ Software</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-chart-topping-tracks-for-dj-remixes-discover-march-2017s-best-from-the-video-pool/"><u>Top Chart-Topping Tracks for DJ Remixes: Discover March 2017'S Best From The Video Pool</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-tools-for-monitoring-crypto-values-insights-from-yl-computings-expertise/"><u>Top Tools for Monitoring Crypto Values: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/shing-revenue-with-review-videos-of-household-items/"><u>Unleashing Revenue with Review Videos of Household Items</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/yl-computings-insight-what-file-types-are-eligible-for-data-restoration/"><u>YL Computing's Insight: What File Types Are Eligible for Data Restoration?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spark-paves-way-but-will-mavic-air-top-the-gaming-scene/"><u>[New] Spark Paves Way, But Will Mavic Air Top the Gaming Scene?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unlocking-the-power-of-your-everyday-webcam/"><u>[Updated] 2024 Approved Unlocking the Power of Your Everyday Webcam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-change-default-backup-location-mac/"><u>[Updated] Change Default Backup Location (Mac)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transforming-your-film-with-advanced-color-separation-for-2024/"><u>[Updated] Transforming Your Film with Advanced Color Separation for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-essential-checklist-to-amplify-video-income-on-youtube/"><u>2024 Approved The Essential Checklist to Amplify Video Income on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-sound-glitch-on-pc-heres-how-to-solve-it/"><u>Black Ops: Cold War Sound Glitch on PC? Here's How to Solve It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/buy-and-master-the-art-of-professional-image-enhancement-with-movavi-photo-editor/"><u>Buy and Master the Art of Professional Image Enhancement with Movavi Photo Editor</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comment-reparer-facilement-le-plantage-blue-screen-error-0xc000021a-sur-windows-10/"><u>Comment Réparer Facilement Le Plantage Blue Screen Error 0Xc000021A Sur Windows 10</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/decode-the-mystery-of-error-codes-0x80072f8f-and-0x20000-your-definitive-guide-to-fixing-them/"><u>Decode the Mystery of Error Codes 0X80072f8F & 0X20000: Your Definitive Guide to Fixing Them</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guia-exhaustiva-a-la-modularidad-con-gpt-pasos-fundamentales-para-un-desarrollo-estructurado-y-eficaz/"><u>Guía Exhaustiva a La Modularidad Con GPT: Pasos Fundamentales Para Un Desarrollo Estructurado Y Eficaz</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guia-paso-a-paso-para-duplicar-el-disco-solido-del-servidor-windows-server-2012-r2-alternativas-y-tecnicas/"><u>Guía Paso a Paso Para Duplicar El Disco Sólido Del Servidor Windows Server 2012 (R2): Alternativas Y Técnicas</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/i-migliori-3-tecniche-di-installazione-di-windows-7-su-disco-ssd-nvme/"><u>I Migliori 3 Tecniche Di Installazione Di Windows 7 Su Disco SSD NVMe</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/quel-est-le-delai-attendu-pour-la-recuperation-complete-des-donnees-numeriques/"><u>Quel Est Le Délai Attendu Pour La Récupération Complète Des Données Numériques?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/reparieren-sie-verschwundene-lesezeichen-in-chrome-mit-diesen-einfachen-methoden/"><u>Reparieren Sie Verschwundene Lesezeichen in Chrome Mit Diesen Einfachen Methoden</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-incremental-backup-software-alternatives-to-rsync-for-windows-users/"><u>Top Incremental Backup Software Alternatives to Rsync for Windows Users</u></a></li>
 </ul></div>
 
