@@ -1,7 +1,7 @@
 ---
 title: Eerie Shader Packs Perfectly Tuned for DEX 3 & LYRX - Halloween Edition
-date: 2025-01-06T05:02:21.977Z
-updated: 2025-01-12T10:12:02.823Z
+date: 2025-01-13T21:29:47.449Z
+updated: 2025-01-18T03:24:46.503Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Click a button below to review search results as described on each button. The v
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Shaders to DEX 3 or LYRX) ([CLICK HERE FOR DETAILED INSTRUCTIONS](https://tools.techidaily.com/pcdj/products/))
@@ -45,13 +45,13 @@ Click a button below to review search results as described on each button. The v
 ![](https://i0.wp.com/www.pcdj.com/vidupload/SHADER-demo.gif?w=1500&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about how to add Shaders to our **DJ Mixing Software** for **Karaoke Software** products? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,17 +73,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/10/shaders-2019-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-most-reliable-gopro-cases-1-10-showdown/"><u>[New] In 2024, The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-link-trimming-winners-select-the-top-5-apps/"><u>[Updated] Youtube's Link-Trimming Winners Select the Top 5 Apps</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/4windows-server-2019/"><u>如何有效地执行：使用4个方法将Windows Server 2019切换到安全模式</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/aomei-backupperaomei-cyber/"><u>商用计算机领先的数据保护：AOMEI Backupper工作站和AOMEI Cyber后台服务</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12t-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12T Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>In 2024, How Often to Post A Guide to YouTube Video Upload Patterns for Success</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-se-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone SE Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/panduan-mengenakan-kingston-usb-keadaan-tua-strategi-pemulihan-yang-efektif-bagi-drive-flash-and-pen/"><u>Panduan Mengenakan Kingston USB Keadaan Tua: Strategi Pemulihan Yang Efektif Bagi Drive Flash & Pen</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/probleme-lors-du-processus-de-securisation-le-volume-demande-ne-peut-pas-etre-reserve/"><u>Problème Lors Du Processus De Sécurisation : Le Volume Demandé Ne Peut Pas Être Réservé</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-crafting-your-own-insta-tones-for-2024/"><u>Step-By-Step Guide to Crafting Your Own Insta Tones for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-instructions-for-retrieving-and-restoring-previous-icloud-data-on-iphone-1314/"><u>Step-by-Step Instructions for Retrieving and Restoring Previous iCloud Data on iPhone 13/14</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-10-must-play-video-games-to-escape-boredom-bliss/"><u>Top 10 Must-Play Video Games to Escape Boredom Bliss</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-a-seamless-cross-share-experience-with-fb-and-igtv/"><u>[New] Crafting a Seamless Cross-Share Experience with FB & IGTV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-iphone-hdr-captures/"><u>[Updated] Advanced Techniques for iPhone HDR Captures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-checklist-for-optimizing-videos-with-pro-tags/"><u>2024 Approved The Ultimate Checklist for Optimizing Videos with Pro Tags</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/captivating-new-zealand-wallpapers-stunning-backgrounds-high-quality-photos-and-images-by-yl-computing/"><u>Captivating New Zealand Wallpapers: Stunning Backgrounds, High-Quality Photos & Images by YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/efficient-fixes-when-your-iphones-home-touchpad-fails-you/"><u>Efficient Fixes When Your iPhone's Home Touchpad Fails You</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-can-i-diagnose-and-fix-hardware-issues-causing-performance-lags-in-my-computer-expert-guidance-from-yl-computing/"><u>How Can I Diagnose and Fix Hardware Issues Causing Performance Lags in My Computer? - Expert Guidance From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-spot-failure-symptoms-in-your-systems-memory-modules-with-tips-from-yl-software/"><u>How to Spot Failure Symptoms in Your System's Memory Modules with Tips From YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-stop-laptop-screen-from-flickering-a-step-by-step-guide-by-yl-software-experts/"><u>How to Stop Laptop Screen From Flickering: A Step-by-Step Guide by YL Software Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-x50-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor X50 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-find-x7-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo Find X7 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-sound-verification-effective-tips-for-speedy-microphone-testing-at-home/"><u>Instant Sound Verification: Effective Tips for Speedy Microphone Testing at Home</u></a></li>
+<li><a href="https://common-error.techidaily.com/kb4056892-fix-steps-to-ensure-seamless-windows-10-update-installation-solved/"><u>KB4056892 Fix: Steps to Ensure Seamless Windows 10 Update Installation [SOLVED]</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/key-historical-catalysts-behind-the-downfall-of-the-qing-empire-insights-from-yl-technology/"><u>Key Historical Catalysts Behind the Downfall of the Qing Empire: Insights From YL Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-addressing-the-game-security-breach-alert/"><u>Resolved: Addressing the 'Game Security Breach' Alert</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/seeking-testers-join-our-dex-3-and-soundcloud-team-rewarding-opportunities-await/"><u>Seeking TESTERS: Join Our DEX 3 & SoundCloud Team – Rewarding Opportunities Await!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-star-with-party-tyme-karaokes-7-day-free-access-perfect-for-pcdj-enthusiasts-on-dex/"><u>Unleash Your Inner Star with Party Tyme Karaoke's 7-Day Free Access - Perfect for PCDJ Enthusiasts on DEX!</u></a></li>
 </ul></div>
 
