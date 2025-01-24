@@ -1,7 +1,7 @@
 ---
 title: "Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol"
-date: 2025-01-16T00:39:05.659Z
-updated: 2025-01-17T20:06:44.145Z
+date: 2025-01-21T19:20:32.896Z
+updated: 2025-01-23T23:59:37.175Z
 tags:
   - product
   - antivirus
@@ -51,12 +51,16 @@ Basically, Google is leading the charge here with [QUIC](https://www.chromium.or
 [![QUIC logo](https://www.malwarefox.com/wp-content/uploads/2019/03/quic_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic%5Flogo.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Without getting too technical,  QUIC cuts the number of times computers need to request data from a server when downloading information via HTTP .
 
 Additionally, the technology also estimates the bandwidth connections required in advance, and then spaces the packets of data accordingly. All these little improvements and optimizations are expected to change how web serves and web browsers interact and exchange data with one another.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Goodbye TCP
 
@@ -75,6 +79,10 @@ Reliable as it may be, the thing that makes TCP slow is that it lets servers che
 This reliability, however, makes this this less than an ideal solution when sending real-time data, where delays are unacceptable. Case in point, when chatting on [Skype](https://www.skype.com/en/).
 
 And this is exactly where UDP comes in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Out with the old, in with the new
 
@@ -117,7 +125,7 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
@@ -125,10 +133,6 @@ As of right now, [Opera](https://www.opera.com/) is the only other browser that 
 Other browser and software makers will, undoubtedly, add support for this new standard in due time. Particularly those based on the Chromium source code, like the newer versions of [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge). Other platforms like [Caddy](https://caddyserver.com/) web server and [Lite Speed](https://www.litespeedtech.com/) products have also integrated this new technology.
 
 In other words, the adoption of HTTP/3 is expected to be very much similar to that of HTTP/2, in that you will see gradual improvements and rollouts without any major breaks for applications and infrastructure that runs the web.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,10 +150,6 @@ While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a 
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -176,18 +176,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-iphone-jokes-and-gag-collection/"><u>[New] IPhone Jokes & Gag Collection</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ethical-path-to-engaging-interviews-for-2024/"><u>[New] The Ethical Path to Engaging Interviews for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[Updated] 2024 Approved First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/le-strategie-top-per-il-ripristino-dei-file-su-un-disco-rigido-samsung-una-guida-completa/"><u>Le Strategie Top per Il Ripristino Dei File Su Un Disco Rigido Samsung: Una Guida Completa</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/palm-2-by-google-vs-gpt-4-from-openai-analyzing-the-differences-in-artificial-intelligence/"><u>PaLM 2 by Google Vs. GPT-4 From OpenAI: Analyzing the Differences in Artificial Intelligence</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/prime-video-converter-for-social-media-platforms/"><u>Prime Video Converter for Social Media Platforms</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-guide-transforming-your-pdf-documents-into-editable-word-files/"><u>Ultimate Guide: Transforming Your PDF Documents Into Editable Word Files</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unlocking-the-secrets-your-guide-to-reading-epub-on-a-kindle-device/"><u>Unlocking the Secrets: Your Guide to Reading EPUB on a Kindle Device</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unlocking-your-kindle-fire-7-az3-device-managing-digital-content/"><u>Unlocking Your Kindle Fire 7 (AZ3) Device: Managing Digital Content</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unraveling-ebook-standards-how-kindles-kfx-kcr-prc-and-mobi-differ-from-standard-azw-and-topaz-formats/"><u>Unraveling eBook Standards: How Kindle's KFX, KCR, PRC & Mobi Differ From Standard AZW and Topaz Formats</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unveiling-the-secrets-behind-vbk-files-what-you-need-to-know/"><u>Unveiling the Secrets Behind VBK Files: What You Need To Know</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/urgent-steps-for-disabling-ebook-protections-on-your-kindle-device/"><u>Urgent Steps for Disabling eBook Protections on Your Kindle Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enhancing-video-discoverability-with-ideal-thumbnail-widths-and-height/"><u>[Updated] 2024 Approved Enhancing Video Discoverability with Ideal Thumbnail Widths and Height</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ustream-examination-other-options-compared/"><u>[Updated] Ustream Examination Other Options Compared</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-uncovering-the-causes-of-sluggishness-in-your-laptop-a-comprehensive-troubleshooting-guide/"><u>1. Uncovering the Causes of Sluggishness in Your Laptop: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/complete-guide-to-retrieving-files-from-your-lacie-external-drive/"><u>Complete Guide to Retrieving Files From Your LaCie External Drive</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fix-your-devices-drivers-easily-with-yl-software-troubleshooting-guidelnates/"><u>Fix Your Device's Drivers Easily with YL Software Troubleshooting Guidelnates</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fixing-your-unresponsive-dvd-drive-under-windows-expert-tips-from-yl-computings-official-page/"><u>Fixing Your Unresponsive DVD Drive Under Windows - Expert Tips From YL Computing's Official Page</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-maximize-google-photos-for-photography-enthusiasts/"><u>How to Maximize Google Photos for Photography Enthusiasts</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-quickly-check-active-services-on-your-windows-system-a-guide-by-yl-software/"><u>How to Quickly Check Active Services on Your Windows System: A Guide by YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-7-plus-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 7 Plus Screen | Stellar</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-repair-hulus-educational-streaming-issue-error-code-p-edu101-instantly/"><u>How To Repair Hulu's Educational Streaming Issue (Error Code P-EDU101) Instantly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sculpt-your-shots-in-the-digital-realm/"><u>In 2024, Sculpt Your Shots in the Digital Realm</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-7-precision-shooter-classics/"><u>Top 7 Precision Shooter Classics</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-generic-bluetooth-adapter-software-update-compatible-with-windows-systems/"><u>Top Generic Bluetooth Adapter Software Update - Compatible with Windows Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-your-audio-setup-expert-tips-to-fix-sound-card-errors-with-help-from-yl-software/"><u>Troubleshooting Your Audio Setup: Expert Tips to Fix Sound Card Errors with Help From YL Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-wacoms-power-free-secure-driver-for-windows-pc/"><u>Unlock Wacom's Power - Free, Secure Driver for Windows PC</u></a></li>
 </ul></div>
 

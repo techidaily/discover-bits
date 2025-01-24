@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3"
-date: 2025-01-11T03:16:33.782Z
-updated: 2025-01-17T18:02:09.143Z
+date: 2025-01-17T06:19:50.120Z
+updated: 2025-01-23T16:57:26.688Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,16 +64,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/anking-reign-supreme-with-these-11-video-seo-techniques-on-youtube/"><u>[New] Ranking Reign Supreme with These 11 Video SEO Techniques on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-devices-best-cars-surveillance-tech/"><u>2024 Approved Pinnacle Devices Best Cars Surveillance Tech</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/exclusive-news-alert-for-professional-djs-on-karaoke-cloud/"><u>Exclusive News Alert for Professional DJs on Karaoke Cloud</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-on-fixing-when-your-system-cant-find-msvcr80dll-file/"><u>Guide on Fixing When Your System Can't Find MSVCR80.DLL File</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm/"><u>In 2024, Unlocking YouTube' Writers' Royalties with Ad-Driven Earnings (CPM)</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/launch-of-the-official-pcdj-discussion-board-engage-with-djs-and-producers-today/"><u>Launch of the Official PCDJ Discussion Board: Engage with DJs and Producers Today!</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/speeding-up-your-online-experience-with-simple-fixes-insights-by-yl-software/"><u>Speeding Up Your Online Experience with Simple Fixes - Insights by YL Software</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-altering-file-extensions-in-windows-os-yl-computing/"><u>Step-by-Step Guide: Altering File Extensions in Windows OS - YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722973169284-successfully-addressing-window-based-challenges-for-samsung-printer-users-a-comprehhavemore-detailed-look-at-driver-issues-and-their-solutions/"><u>Successfully Addressing Window-Based Challenges for Samsung Printer Users: A Comprehhavemore Detailed Look at Driver Issues and Their Solutions.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-rise-of-unrestrained-chatgpt/"><u>The Rise of Unrestrained ChatGPT</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/using-antivirus-for-mac-is-windows-defender-an-option-explore-with-yl-computing/"><u>Using Antivirus for Mac: Is Windows Defender an Option? Explore with YL Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-enhancing-remote-communication-with-effective-skype-screen-sharing/"><u>[New] In 2024, Enhancing Remote Communication with Effective Skype Screen Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-of-alternatives-to-the-popular-gopro/"><u>[New] The Ultimate List of Alternatives to the Popular GoPro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-winning-hearts-with-these-6-compelling-videos/"><u>[New] Winning Hearts with These 6 Compelling Videos</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guia-paso-a-paso-para-duplicar-el-disco-solido-del-servidor-windows-server-2012-r2-alternativas-y-tecnicas/"><u>Guía Paso a Paso Para Duplicar El Disco Sólido Del Servidor Windows Server 2012 (R2): Alternativas Y Técnicas</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-iphones-capabilities-for-stunning-landscape-pics/"><u>In 2024, Maximizing iPhone's Capabilities for Stunning Landscape Pics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-windows-search-11-key-strategies/"><u>Master Your Windows Search: 11 Key Strategies</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210232964-9781734514698-my-adventures-as-a-psychic-nurse-medium/"><u>My Adventures as a Psychic Nurse & Medium | Free Book</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/restore-deleted-photos-from-xd-memory-cards-with-myrecovery/"><u>Restore Deleted Photos From xD Memory Cards with MyRecovery</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/solving-the-issue-why-samsung-laptop-restore-is-failing-on-windows-systems/"><u>Solving the Issue: Why Samsung Laptop Restore Is Failing on Windows Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-cloud-services-superior-icloud-substitutes-for-your-ios-devices/"><u>Top Cloud Services: Superior iCloud Substitutes for Your iOS Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-overcoming-realtek-universal-drivers-challenges/"><u>Troubleshooting Tips: Overcoming Realtek Universal Drivers Challenges</u></a></li>
 </ul></div>
 
