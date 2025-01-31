@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3"
-date: 2025-01-17T06:19:50.120Z
-updated: 2025-01-23T16:57:26.688Z
+date: 2025-01-30T17:02:44.401Z
+updated: 2025-01-31T20:32:16.989Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,16 +64,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-enhancing-remote-communication-with-effective-skype-screen-sharing/"><u>[New] In 2024, Enhancing Remote Communication with Effective Skype Screen Sharing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-list-of-alternatives-to-the-popular-gopro/"><u>[New] The Ultimate List of Alternatives to the Popular GoPro</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-winning-hearts-with-these-6-compelling-videos/"><u>[New] Winning Hearts with These 6 Compelling Videos</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/guia-paso-a-paso-para-duplicar-el-disco-solido-del-servidor-windows-server-2012-r2-alternativas-y-tecnicas/"><u>Guía Paso a Paso Para Duplicar El Disco Sólido Del Servidor Windows Server 2012 (R2): Alternativas Y Técnicas</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-iphones-capabilities-for-stunning-landscape-pics/"><u>In 2024, Maximizing iPhone's Capabilities for Stunning Landscape Pics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-windows-search-11-key-strategies/"><u>Master Your Windows Search: 11 Key Strategies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210232964-9781734514698-my-adventures-as-a-psychic-nurse-medium/"><u>My Adventures as a Psychic Nurse & Medium | Free Book</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/restore-deleted-photos-from-xd-memory-cards-with-myrecovery/"><u>Restore Deleted Photos From xD Memory Cards with MyRecovery</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/solving-the-issue-why-samsung-laptop-restore-is-failing-on-windows-systems/"><u>Solving the Issue: Why Samsung Laptop Restore Is Failing on Windows Systems</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-cloud-services-superior-icloud-substitutes-for-your-ios-devices/"><u>Top Cloud Services: Superior iCloud Substitutes for Your iOS Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-overcoming-realtek-universal-drivers-challenges/"><u>Troubleshooting Tips: Overcoming Realtek Universal Drivers Challenges</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chroma-blades-the-new-era-of-high-definition-capture/"><u>[New] Chroma Blades The New Era of High-Definition Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-reviving-memories-with-instagram-reposts/"><u>[Updated] In 2024, Reviving Memories with Instagram Reposts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-full-image-potential-incorporating-luts-in-adobe-photoshop-cs6-for-2024/"><u>[Updated] Unlocking Full Image Potential Incorporating LUTs in Adobe Photoshop CS6 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-choosing-between-podcast-and-youtube-for-content-delivery/"><u>2024 Approved Choosing Between Podcast and YouTube for Content Delivery</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/breakthrough-pdf-encryption-step-by-step-tutorial-for-password-removal-and-freedom-from-constraints/"><u>Breakthrough PDF Encryption: Step-by-Step Tutorial for Password Removal and Freedom From Constraints</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/by-author-u-brother-the-allure-and-choices-of-a-million-solitudes-path/"><u>By Author U-Brother: The Allure and Choices of a Million Solitudes' Path</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chasing-the-best-deals-on-chinese-vr-helmets-for-2024/"><u>Chasing the Best Deals on Chinese VR Helmets for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/discovering-the-world-of-ebooks-with-epub-your-ultimate-resource/"><u>Discovering the World of eBooks with EPUB: Your Ultimate Resource</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/download-tools-for-bypassing-pdf-protection/"><u>Download Tools for Bypassing PDF Protection</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-cross-platform-reading-transition-from-nook-to-amazon-kindle/"><u>Mastering Cross-Platform Reading: Transition From Nook to Amazon Kindle</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-google-duets-a-step-by-step-guide-to-integrating-with-gmail/"><u>Mastering Google Duets: A Step-by-Step Guide to Integrating with Gmail</u></a></li>
 </ul></div>
 

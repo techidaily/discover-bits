@@ -1,7 +1,7 @@
 ---
 title: The Insider's Tutorial on Hot Cue Techniques with Pioneer DEX III DJ Gear for Music Maestros
-date: 2025-01-19T20:20:18.398Z
-updated: 2025-01-23T16:26:37.107Z
+date: 2025-01-26T20:17:47.816Z
+updated: 2025-01-31T16:25:15.406Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,16 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free-for-2024/"><u>[New] A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-webcam-safety-starts-here-the-10-best-shields/"><u>[Updated] In 2024, Webcam Safety Starts Here - The 10 Best Shields</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-filmora-magic-top-10-intriguing-edits/"><u>2024 Approved Exploring Filmora Magic Top 10 Intriguing Edits</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/comment-resoudre-le-probleme-de-synchronisation-du-nuage-avec-la-synology-une-solution-efficace/"><u>Comment Résoudre Le Problème De Synchronisation Du Nuage Avec La Synology: Une Solution Efficace</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/complete-guide-de-sauvegarde-avec-clonez-lappareil-une-alternative-efficace-a-win32-disk-imager/"><u>Complète Guide De Sauvegarde Avec Clonez L'Appareil - Une Alternative Efficace À Win32 Disk Imager</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-magic-6-lite-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor Magic 6 Lite Without PUK Codes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/retained-earnings-600/"><u>Retained Earnings: $600</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/six-methods-to-repair-and-restore-unformatted-raw-sd-card-a-step-by-step-guide/"><u>Six Methods to Repair and Restore Unformatted RAW SD Card: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unveiling-the-contrast-a-comprehensive-guide-on-backups-vs-system-images/"><u>Unveiling the Contrast: A Comprehensive Guide on Backups Vs. System Images</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/pcnvme-ssd4/"><u>デルPCにおけるNVMe SSD認証失敗対策：上位4技術</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-revitalize-your-visuals-expertly-curated-list-of-the-best-10-editors/"><u>[New] 2024 Approved Revitalize Your Visuals Expertly Curated List of the Best 10 Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-economical-systems-optimized-by-ideal-obs-settings/"><u>[Updated] Economical Systems Optimized by Ideal OBS Settings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-harmonizing-tracks-in-youtube-music/"><u>[Updated] In 2024, Harmonizing Tracks in YouTube Music</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-best-value-for-money-in-budget-4k-cameras-(1000/"><u>2024 Approved Best Value for Money in Budget 4K Cameras (<$1,000)</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comprendere-la-limitazione-del-solo-salvataggio-nel-backup-server-windows/"><u>Comprendere La Limitazione Del Solo Salvataggio Nel Backup Server Windows</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ensuring-optimal-performance-a-guide-to-verifying-your-computers-hardware-yl-computing/"><u>Ensuring Optimal Performance: A Guide to Verifying Your Computer's Hardware - YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010744764-fix-your-google-chrome-when-it-wont-launch-proven-solutions/"><u>Fix Your Google Chrome When It Won't Launch: Proven Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-fix-hardware-detection-issues-in-windows-by-yl-software-experts/"><u>How to Fix Hardware Detection Issues in Windows by YL Software Experts</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/identifying-faulty-memory-sticks-a-step-by-step-guide-by-yl-software-professionals/"><u>Identifying Faulty Memory Sticks: A Step-by-Step Guide by YL Software Professionals</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/iphone-11-stunning-walls-and-backdrops-your-ultimate-resource-yl-computings-collection/"><u>IPhone 11 Stunning Walls and Backdrops: Your Ultimate Resource - YL Computing's Collection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Motorola Edge 40</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/resolving-incorrect-color-outputs-on-your-graphics-card-advice-by-yl-software-experts/"><u>Resolving Incorrect Color Outputs on Your Graphics Card: Advice by YL Software Experts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/superergebnis-h265-video-konverterverpackungscode-fur-windows-10-und-macos/"><u>Superergebnis-H265-Video-Konverter/Verpackungscode Für Windows 10 Und macOS</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-strategies-for-buying-and-selling-digital-coins-insights-from-yl-computing/"><u>Top Strategies for Buying & Selling Digital Coins: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ultimate-tips-for-successful-cryptocurrency-investments-with-yl-software-insights/"><u>Ultimate Tips for Successful Cryptocurrency Investments with YL Software Insights</u></a></li>
 </ul></div>
 

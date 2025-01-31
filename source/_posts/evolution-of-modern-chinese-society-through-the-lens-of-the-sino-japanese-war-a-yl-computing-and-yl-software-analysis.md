@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Modern Chinese Society Through the Lens of the Sino-Japanese War: A YL Computing and YL Software Analysis"
-date: 2025-01-17T18:33:35.925Z
-updated: 2025-01-23T19:47:35.124Z
+date: 2025-01-26T16:31:19.972Z
+updated: 2025-01-31T16:37:04.389Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,19 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-joint-ventures-in-content-creation-for-youtube-audiences/"><u>[New] 2024 Approved Joint Ventures in Content Creation for YouTube Audiences</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-crafting-success-on-youtube-standard-studio-or-beta/"><u>[Updated] Crafting Success on YouTube Standard Studio or Beta</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1728485647942-raid/"><u>【特選】RAIDシステムにぴったり！高性能なクローニング用無料プログラム - おすすめ！</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/4tb-hddnasnashdd/"><u>効率的な4TB HDDのNASメモリーアップグレード方法：NAS非対応HDDから始めよう</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/achieving-peak-performance-in-live-streams-obs-for-youtube-and-twitch/"><u>Achieving Peak Performance in Live Streams OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-12-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi 12 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/not-there-understanding-and-fixing-the-classic-404-page-not-found-issue/"><u>Not There? Understanding and Fixing the Classic '404 Page Not Found' Issue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pause-the-virtual-assistant-comparison-game/"><u>Pause the Virtual Assistant Comparison Game</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-and-swift-audio-update-methods-in-win-1011-systems/"><u>Secure & Swift Audio Update Methods in Win 10/11 Systems</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-http3-a-complete-guide-to-the-next-generation-internet-protocol/"><u>Understanding HTTP/3: A Complete Guide to the Next-Generation Internet Protocol</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-edits-with-these-top-5-tools-no-youtube/"><u>[New] Elevate Your Edits with These Top 5 Tools (No Youtube)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-thrifty-cloud-haven-budget-storage-bulk-files-handling-for-2024/"><u>[New] Thrifty Cloud Haven Budget Storage, Bulk Files Handling for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-altering-your-networks-showcase-picture/"><u>[Updated] 2024 Approved Unlocking the Secrets to Altering Your Network's Showcase Picture</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iuoajoamhpluswqjeobleocjoobnpluss6uuejqeobrumfspluswjsoakuea2idrli5xnllvnt6jpm4bjgafkvbjgyjjgovmnidmlrdjg4bjgqjg4vjg4pjgqjgi0i/"><u>「指名された人物の音声抹消:動画編集で使える最新テクニック」</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-non-responsive-webcams-on-hp-devices-running-windows-lnon/"><u>Expert Advice: Fixing Non-Responsive Webcams on HP Devices Running Windows ˈl(no)n</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a38-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A38</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-guide-to-7-top-mac-vids/"><u>In 2024, Ultimate Guide to 7 Top Mac Vids</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-epubor-the-ultimate-tool-for-converting-books-with-unmatched-precision/"><u>Mastering EPUBor: The Ultimate Tool for Converting Books with Unmatched Precision</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/navigating-the-rules-of-corporate-application-upgrades-and-maintenance-policies/"><u>Navigating the Rules of Corporate Application Upgrades and Maintenance Policies</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/optimizing-your-inbox-essential-tips-for-efficient-email-use/"><u>Optimizing Your Inbox: Essential Tips for Efficient Email Use</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/protecting-and-preserving-your-valuable-vitalsource-ebook-library-a-step-by-step-guide/"><u>Protecting and Preserving Your Valuable VitalSource eBook Library: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/simple-guide-to-crafting-and-editing-ebooks-master-your-digital-publishing-skills/"><u>Simple Guide to Crafting & Editing eBooks: Master Your Digital Publishing Skills</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-collabs-how-to-find-youtube-collaboration-partners-for-2024/"><u>YouTube Collabs How to Find YouTube Collaboration Partners for 2024</u></a></li>
 </ul></div>
 
