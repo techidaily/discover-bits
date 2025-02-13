@@ -1,7 +1,7 @@
 ---
 title: The Insider's Tutorial on Hot Cue Techniques with Pioneer DEX III DJ Gear for Music Maestros
-date: 2025-01-26T20:17:47.816Z
-updated: 2025-01-31T16:25:15.406Z
+date: 2025-02-08T21:48:31.894Z
+updated: 2025-02-12T18:51:16.555Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What are hot cues?_
@@ -31,7 +31,7 @@ A standard feature included within [DJ mixing software](https://tools.techidaily
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=300%2C117&ssl=1 "hotcues")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues.jpg?fit=736%2C286&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3’s default skin includes 8 cue point positions for setting cues, for each track. Cue points are stored in the DEX 3 database so when you load a track you’ve previously set cue points on they will populate again. You will see “flag” markers along the timeline waveform in DEX 3 to indicate the position the cue was set, along with the corresponding cue number (1-8).
@@ -39,13 +39,13 @@ DEX 3’s default skin includes 8 cue point positions for setting cues, for each
 Jumping between cue points in [DEX 3](https://tools.techidaily.com/pcdj/products/) is instant and you can get really creative using them – make your on beat, or completely re-arrange the tracks timeline.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Set and Trigger Cue Points in PCDJ DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/hotcues-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-revitalize-your-visuals-expertly-curated-list-of-the-best-10-editors/"><u>[New] 2024 Approved Revitalize Your Visuals Expertly Curated List of the Best 10 Editors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-economical-systems-optimized-by-ideal-obs-settings/"><u>[Updated] Economical Systems Optimized by Ideal OBS Settings</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-harmonizing-tracks-in-youtube-music/"><u>[Updated] In 2024, Harmonizing Tracks in YouTube Music</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-best-value-for-money-in-budget-4k-cameras-(1000/"><u>2024 Approved Best Value for Money in Budget 4K Cameras (<$1,000)</u></a></li>
-<li><a href="https://win-latest.techidaily.com/comprendere-la-limitazione-del-solo-salvataggio-nel-backup-server-windows/"><u>Comprendere La Limitazione Del Solo Salvataggio Nel Backup Server Windows</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ensuring-optimal-performance-a-guide-to-verifying-your-computers-hardware-yl-computing/"><u>Ensuring Optimal Performance: A Guide to Verifying Your Computer's Hardware - YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010744764-fix-your-google-chrome-when-it-wont-launch-proven-solutions/"><u>Fix Your Google Chrome When It Won't Launch: Proven Solutions</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-fix-hardware-detection-issues-in-windows-by-yl-software-experts/"><u>How to Fix Hardware Detection Issues in Windows by YL Software Experts</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/identifying-faulty-memory-sticks-a-step-by-step-guide-by-yl-software-professionals/"><u>Identifying Faulty Memory Sticks: A Step-by-Step Guide by YL Software Professionals</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/iphone-11-stunning-walls-and-backdrops-your-ultimate-resource-yl-computings-collection/"><u>IPhone 11 Stunning Walls and Backdrops: Your Ultimate Resource - YL Computing's Collection</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-motorola-edge-40-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Motorola Edge 40</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/resolving-incorrect-color-outputs-on-your-graphics-card-advice-by-yl-software-experts/"><u>Resolving Incorrect Color Outputs on Your Graphics Card: Advice by YL Software Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/superergebnis-h265-video-konverterverpackungscode-fur-windows-10-und-macos/"><u>Superergebnis-H265-Video-Konverter/Verpackungscode Für Windows 10 Und macOS</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/top-strategies-for-buying-and-selling-digital-coins-insights-from-yl-computing/"><u>Top Strategies for Buying & Selling Digital Coins: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/ultimate-tips-for-successful-cryptocurrency-investments-with-yl-software-insights/"><u>Ultimate Tips for Successful Cryptocurrency Investments with YL Software Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-youtube-movie-binge-guides/"><u>[Updated] In 2024, Essential YouTube Movie Binge Guides</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>[Updated] In 2024, Speed Up PC Games The Ultimate Speed Controller Selection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unveiling-the-5-best-ways-to-download-igtv-for-tech-enthusiasts/"><u>2024 Approved Unveiling the 5 Best Ways to Download IGTV for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/download-the-cost-free-cloning-tool-for-samsung-hdds-and-ssds-compatible-with-all-windows-systems-w11-w10-w8-w7/"><u>Download the Cost-Free Cloning Tool for Samsung HDDs & SSDs Compatible with All Windows Systems - W11, W10, W8, W7</u></a></li>
+<li><a href="https://win-web3.techidaily.com/extend-your-peace-of-mind-intel-launches-new-24-month-warranty-on-faulty-microchips-essential-details/"><u>Extend Your Peace of Mind: Intel Launches New 24-Month Warranty on Faulty Microchips - Essential Details</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fixing-incompatibility-warnings-on-your-pcs-hardware-drivers-with-expert-advice-from-yl-software/"><u>Fixing Incompatibility Warnings on Your PC's Hardware Drivers with Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/high-definition-fruit-themed-graphics-premium-hd-wallpapers-and-desktop-backgrounds-by-yl-technologies/"><u>High-Definition Fruit Themed Graphics: Premium HD Wallpapers & Desktop Backgrounds by YL Technologies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-directing-youtube-media-to-your-facebook-profile-and-feed/"><u>In 2024, Directing YouTube Media to Your Facebook Profile and Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-and-selfies-unite-our-top-8-gear-guide-for-2024/"><u>Iphone and Selfies Unite - Our Top #8 Gear Guide for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-a-faster-boot-time-tips-for-curtailing-startup-processes-guided-by-yl-software-experts/"><u>Mastering a Faster Boot Time: Tips for Curtailing Startup Processes, Guided by YL Software Experts</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-to-correcting-driver-errors-by-yl-software-specialists/"><u>Step-by-Step Guide to Correcting Driver Errors by YL Software Specialists</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/unveiling-typical-reasons-behind-sound-card-malfunctions-insights-from-yl-computing/"><u>Unveiling Typical Reasons Behind Sound Card Malfunctions: Insights From YL Computing</u></a></li>
 </ul></div>
 

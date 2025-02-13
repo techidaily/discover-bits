@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3"
-date: 2025-01-30T17:02:44.401Z
-updated: 2025-01-31T20:32:16.989Z
+date: 2025-02-08T06:01:57.139Z
+updated: 2025-02-13T06:27:47.061Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,16 +64,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-chroma-blades-the-new-era-of-high-definition-capture/"><u>[New] Chroma Blades The New Era of High-Definition Capture</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-reviving-memories-with-instagram-reposts/"><u>[Updated] In 2024, Reviving Memories with Instagram Reposts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-full-image-potential-incorporating-luts-in-adobe-photoshop-cs6-for-2024/"><u>[Updated] Unlocking Full Image Potential Incorporating LUTs in Adobe Photoshop CS6 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-choosing-between-podcast-and-youtube-for-content-delivery/"><u>2024 Approved Choosing Between Podcast and YouTube for Content Delivery</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/breakthrough-pdf-encryption-step-by-step-tutorial-for-password-removal-and-freedom-from-constraints/"><u>Breakthrough PDF Encryption: Step-by-Step Tutorial for Password Removal and Freedom From Constraints</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/by-author-u-brother-the-allure-and-choices-of-a-million-solitudes-path/"><u>By Author U-Brother: The Allure and Choices of a Million Solitudes' Path</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chasing-the-best-deals-on-chinese-vr-helmets-for-2024/"><u>Chasing the Best Deals on Chinese VR Helmets for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/discovering-the-world-of-ebooks-with-epub-your-ultimate-resource/"><u>Discovering the World of eBooks with EPUB: Your Ultimate Resource</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/download-tools-for-bypassing-pdf-protection/"><u>Download Tools for Bypassing PDF Protection</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/mastering-cross-platform-reading-transition-from-nook-to-amazon-kindle/"><u>Mastering Cross-Platform Reading: Transition From Nook to Amazon Kindle</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-google-duets-a-step-by-step-guide-to-integrating-with-gmail/"><u>Mastering Google Duets: A Step-by-Step Guide to Integrating with Gmail</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-transforming-google-meet-screens-on-devices/"><u>[New] 2024 Approved Transforming Google Meet Screens on Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/everaging-google-meet-for-youtube-streaming-a-step-by-step-process/"><u>[New] Leveraging Google Meet for YouTube Streaming A Step-by-Step Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ustream-examination-other-options-compared/"><u>[New] Ustream Examination Other Options Compared</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-vuephoto-intelligent-design-demo-for-2024/"><u>[New] VuePhoto Intelligent Design Demo for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>[Updated] The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/u/"><u>从日常中创造非凡人生——U兄撰写：百万孤独的诱惑与选择</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/exclusive-news-alert-for-professional-djs-on-karaoke-cloud/"><u>Exclusive News Alert for Professional DJs on Karaoke Cloud</u></a></li>
+<li><a href="https://extra-information.techidaily.com/google-pixel-rhythms-the-ideal-online-source/"><u>Google Pixel Rhythms The Ideal Online Source</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-15-pro-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 15 Pro online without jailbreak</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/illuminate-your-brand-get-a-free-logo-embossed-stickerlight-for-your-laptop-at-just-9/"><u>Illuminate Your Brand: Get a Free Logo-Embossed StickerLight for Your Laptop at Just $9!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>In 2024, Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/launch-of-the-official-pcdj-discussion-board-engage-with-djs-and-producers-today/"><u>Launch of the Official PCDJ Discussion Board: Engage with DJs and Producers Today!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/speeding-up-your-online-experience-with-simple-fixes-insights-by-yl-software/"><u>Speeding Up Your Online Experience with Simple Fixes - Insights by YL Software</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-guide-altering-file-extensions-in-windows-os-yl-computing/"><u>Step-by-Step Guide: Altering File Extensions in Windows OS - YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-tools-for-monitoring-crypto-values-insights-from-yl-computings-expertise/"><u>Top Tools for Monitoring Crypto Values: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 13 Pro Making It Possible</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-of-the-app-store-top-iphone-apps/"><u>Updated In 2024, The Best of the App Store Top iPhone Apps</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/using-antivirus-for-mac-is-windows-defender-an-option-explore-with-yl-computing/"><u>Using Antivirus for Mac: Is Windows Defender an Option? Explore with YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-computings-insight-what-file-types-are-eligible-for-data-restoration/"><u>YL Computing's Insight: What File Types Are Eligible for Data Restoration?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download the Latest LYRX Karaoke Application, Version 1.10.3, Compatible with PCDJ Systems
-date: 2025-01-27T16:40:59.058Z
-updated: 2025-01-31T20:08:48.855Z
+date: 2025-02-12T09:48:08.306Z
+updated: 2025-02-12T22:03:13.255Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Updates Included in LYRX 1.10.3
@@ -46,7 +46,7 @@ We suggest installing the 1.10.3 update straight away. Simply download and insta
 _Have questions about the latest 1.10.3 release of our **top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,19 +68,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/12/lyrx1.10.3.jpg?fit=1176%2C
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-discreetly-watch-instas-hidden-gems-here/"><u>[New] 2024 Approved Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-frame-perfect-our-top-10-photo-lenses-list/"><u>[New] Frame Perfect Our Top 10 Photo Lenses List</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-media-showdown-twitters-toptiktok-selection/"><u>2024 Approved Social Media Showdown Twitter's #TopTikTok Selection</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/detecting-graphics-card-heat-issues-expert-advice-by-yl-software-professionals/"><u>Detecting Graphics Card Heat Issues: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/diy-fixes-for-your-windows-scanner-issues-tips-and-tricks-by-yl-software-professionals/"><u>DIY Fixes for Your Windows Scanner Issues - Tips & Tricks by YL Software Professionals</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-enable-parental-guidance-settings-via-windows-control-panel-tutorial-by-yl-computing/"><u>How to Enable Parental Guidance Settings via Windows Control Panel - Tutorial by YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/identifying-signs-of-a-malfunctioning-graphics-card-tips-from-yl-computings-expertise/"><u>Identifying Signs of a Malfunctioning Graphics Card: Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/is-your-motherboard-compatible-with-new-generation-cpus-insights-from-yl-computing/"><u>Is Your Motherboard Compatible with New Generation CPUs? - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/live-rotating-soccer-match-high-definition-wallpaper-plus-full-hd-looped-videos-create-immersive-experience-with-yl-tech/"><u>Live Rotating Soccer Match High-Definition Wallpaper + Full HD Looped Videos - Create Immersive Experience with YL Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pioneering-virtual-meetings-mastering-gmail-and-zoom-usage-together/"><u>Pioneering Virtual Meetings Mastering Gmail and Zoom Usage Together</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade-for-2024/"><u>Streamline Video Analytics A Guide to YouTube Statistics with Social Blade for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/turn-your-photos-into-funny-cartoons-online/"><u>Turn Your Photos Into Funny Cartoons Online</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-g42-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from G42 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-key-strategies-for-professional-video-production-via-nvidia/"><u>[New] 2024 Approved Key Strategies for Professional Video Production via NVIDIA</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hortle-chronicles-recording-7-amusing-video-adventures/"><u>[New] Chortle Chronicles Recording 7 Amusing Video Adventures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premier-20-unrestricted-pubg-montage-samples-for-2024/"><u>[Updated] Premier 20 Unrestricted PUBG Montage Samples for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corporate-insights-in-depth-microsoft-surface-pro-8-evaluation-on-zdnet/"><u>Corporate Insights: In-Depth Microsoft Surface Pro 8 Evaluation on ZDNet</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-to-clean-up-your-pc-effective-methods-for-deleting-unnecessary-files-and-applications-tips-from-yl-computing/"><u>How to Clean Up Your PC: Effective Methods for Deleting Unnecessary Files and Applications - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/navigating-legal-frameworks-the-influence-on-cryptocurrencies-by-yl-computing-experts/"><u>Navigating Legal Frameworks: The Influence on Cryptocurrencies by YL Computing Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstallation-guide-for-windows-feature-absence/"><u>Reinstallation Guide for Windows Feature Absence</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/repairing-damaged-windows-registry-items-expert-guide-by-yl-computing/"><u>Repairing Damaged Windows Registry Items: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/secure-your-data-with-simple-backup-solutions-by-yl-computing/"><u>Secure Your Data with Simple Backup Solutions by YL Computing</u></a></li>
 </ul></div>
 
